@@ -1,5 +1,6 @@
 (async() => {
-	const URL = "text_dumps";
+	//const URL = "text_dumps";
+	const URL = 'https://github.com/schlatterca/vg_text/tree/main/text_dumps';
 	//const doc = await fetch(URL+"?filter[metadata.mimeType]=application%2Fvnd.google-apps.spreadsheet").then(r => r.json());
 	const doc = await fetch(URL).then(r => r.json());
 	console.log(URL, doc);
