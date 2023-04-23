@@ -9,7 +9,7 @@
 
 console.log('2');
 
-jQuery.get('text_dumps', function(data) {
+/*jQuery.get('text_dumps', function(data) {
     var myText = data;
     console.log(data);
     console.log('3');
@@ -33,6 +33,6 @@ function getNames()
     folders.forEach(function(item){foldernames.push(item.textContent.slice(0,-1))})
     console.log(filenames);
     console.log(foldernames);
-}
+}*/
 
 console.log('6');
