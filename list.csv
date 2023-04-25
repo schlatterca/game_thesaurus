@@ -1,4 +1,15 @@
-Name,Console,Year,Language,Link
-Elden Ring,PS1,2001,ENG,text_dumps/eldenring.txt
-Super Mario RPG Seven Stars Saga,NES,1996,ENG,text_dumps/mariorpg_sevenstars.txt
-Paper Mario 64,N64,2001,ENG,text_dumps/papermario64.txt
+Name,Console,Year,Genre,Language,Link
+Elden Ring,PS1,2001,action,ENG,eldenring.txt
+Super Mario RPG Seven Stars Saga,NES,1996,RPG,ENG,mariorpg_sevenstars.txt
+Paper Mario 64,N64,2001,platform,ENG,papermario64.txt
+Metal Gear Solid,PS1,1998,action,ENG,metalgearsolidPSX.txt
+Chrono Trigger,SNES,1996,RPG,ENG,chrono-trigger.txt
+Dark Souls 3,PS4 / XBox One,2006,action RPG,ENG,dark-souls3.txt
+Final Fantasy,NES,1987,J-RPG,ENG,finalfantasyNES.txt
+The Legend of Zelda,NES,1986,action RPG,ENG,zelda.txt
+The Legend of Zelda II: The adventure of Link,NES,1987,action RPG,ENG,zelda_theadventureoflink.txt
+The Legend of Zelda: Twilight Princess,Gamecube,2006,action RPG,ENG,zelda-twilight-princess.txt
+Pokémon Legends: Arceus,Switch,2022,action RPG,CHN,legends_arceus_ch-simplified.txt
+Pokémon Legends: Arceus,Switch,2022,action RPG,ITA,legends_arceus_it.txt
+Pokémon Legends: Arceus,Switch,2022,action RPG,ENG,legends_arceus_en.txt
+Pokémon Legends: Arceus,Switch,2022,action RPG,JAP,legends_arceus_ja-hiragana.txt

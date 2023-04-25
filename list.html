@@ -19,23 +19,32 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script language="javascript" type="text/javascript" src="script.js"></script>
 
-
-<!--BODY-->
 <body>
 
 <div class="site_title">videogames thesaurus</div>
-<div class="prompt">
-     <p>Which area would you like to enter?</p>
-     <p>Press L for List, G for Game</p>
-     <textarea id="prompt_textarea" name="prompt_textarea" placeholder="L/G"></textarea>
-     <button onclick="checkPrompt()">Submit</button>
-     <p class='alert'>Please type L for List, G for Game.</p>
+<div class="table_container">
+    <table id="tblcsvdata" border="1" style="border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Name</th>
+                <th onclick="sortTable(1)">Console</th>
+                <th onclick="sortTable(2)">Year</th>
+                <th onclick="sortTable(3)">Genre</th>
+                <th onclick="sortTable(4)">Language</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+
+    </table>
+</div>
+
+<div class='preview_image'>
+	<figure>
+		<img class='hidden' src='images/elden-ring.jpg'>
+	</figure>
 </div>
 
 </body>
-
-<!--SCRIPT-->
-<script>
-</script>
-
-</html>

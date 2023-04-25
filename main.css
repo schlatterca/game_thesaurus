@@ -1,0 +1,149 @@
+/*OVERALL*/
+@font-face{
+  font-family: PPFraktionMono;
+  src: url(fonts/PPFraktionMono-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Light.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Bold.otf);
+  font-weight: bold;
+  font-style: normal;
+}
+
+:root {
+	--myGrey: grey;
+	--myBlack: rgb(20,20,20);
+	--fontsizeM: 16px;
+}
+
+body {
+	background-color: var(--myBlack);
+}
+
+* {
+	font-family: PPFraktionSans;
+	font-weight: normal;
+}
+
+*:not(button):not(textarea) {
+	color: white;
+	/*font-family: Papyrus!important;*/
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+}
+
+.site_title {
+	font-family: PPFraktionSans;
+	font-weight: bold;
+	font-size: 9vw;
+	text-align: center;
+}
+
+.prompt {
+	width: 30vw;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 20px;
+	border: 2px solid var(--myGrey);
+}
+
+.prompt * {
+	font-size: var(--fontsizeM);
+}
+
+.prompt > p {
+	margin: 0;
+}
+.prompt > p:not(:first-child):not(.alert) {
+	color: var(--myGrey);
+}
+.prompt > p.alert {
+	color: red;
+	display: none;
+	margin-top: 20px;
+}
+
+#prompt_textarea {
+	margin-top: 20px;
+	background-color: var(--myBlack);
+	color: white;
+	width: calc(100% - 5px);
+}
+
+.prompt > button {
+	margin-left: 50%;
+	transform: translate(-50%);
+}
+
+/*LIST.HTML*/
+.table_container {
+	height: 82vh;
+	padding-bottom: 0;
+	overflow: scroll;
+}
+
+#tblcsvdata {
+	border: 0;
+	width: 70%;
+	float: right;
+}
+
+#tblcsvdata th, #tblcsvdata td {
+	border: 0;
+	border-bottom: 1px solid white;
+	padding-right: 20px;
+}
+
+#tblcsvdata th {
+	text-align: left;
+	font-weight: bolder;
+	cursor: pointer;
+}
+#tblcsvdata th:not(:last-child):hover {
+	color: red;
+}
+#tblcsvdata td {
+}
+#tblcsvdata tr {
+	width: 100%;
+}
+#tblcsvdata tbody tr:hover * {
+	cursor: pointer;
+	color: red;
+	fill: red;
+}
+#tblcsvdata svg {
+	height: 20px;
+	margin-top: 5px;
+}
+
+/*IMAGE*/
+.preview_image {
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+	width: calc(30% - 40px);
+}
+.preview_image > figure {
+	margin: 0;
+}
+.preview_image img {
+	width: 100%;
+}
+.preview_image img.hidden {
+	display: none;
+}
