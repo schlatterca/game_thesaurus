@@ -105,7 +105,7 @@ function sortTable(n) {
 $(document).ready(function(){
     let myImage = $('div.preview_image img')[0];
     $('#tblcsvdata > tbody > tr').mouseenter(function(){
-        let myTitle = $(this).find('td')[0].textContent.replaceAll(' ','-').replaceAll('é','e').replaceAll(':','').toLowerCase()+'.jpg';
+        let myTitle = $(this).find('td')[0].textContent.replaceAll(' ','-').replaceAll('&','').replaceAll('é','e').replaceAll(':','').toLowerCase()+'.jpg';
         myImage.src = 'images/'+myTitle;
         $(myImage).removeClass('hidden');
     })
