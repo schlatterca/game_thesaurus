@@ -12,6 +12,6 @@ By Roberta Antinolfi, Carlo Schlatter\
 Course of Elements of Informatics for Design\
 Held by Thomas Castro\
 MA Communications & Design for Publishing\
-ISIA U 2023\
+ISIA U 2023
 
 live at https://schlatterca.github.io/vg_text/
