@@ -30,11 +30,14 @@ jQuery.get('list.csv', function(data) {
         rowColData = rowData[row].split(',');
 
         // Loop on the row column Array
-        for (var col = 0; col < rowColData.length; col++) {
+        for (var col = 0; col < rowColData.length+1; col++) { //+1 for the last row "add"
 
             if(col == rowColData.length-1){
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = '<a href="text_dumps/'+rowColData[col]+'" target="_blank"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="31.99" viewBox="0 0 23.97 31.99"><defs><style>.cls-1 {fill: #fff;}.cls-1, .cls-2 {stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><polygon class="cls-1" points="13.72 30.99 1 30.99 1 1 22.97 1 22.97 20.65 13.72 30.99"/><polyline class="cls-2" points="13.72 30.99 13.72 20.65 22.97 20.65"/></svg></a>';
+            } else if(col == rowColData.length){
+                var newCell = newRow.insertCell();
+                newCell.innerHTML = '<div onclick="addToCollect(this)"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="23.97" viewBox="0 0 23.97 23.97"><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class="cls-1" cx="11.99" cy="11.99" r="10.99"/><polyline class="cls-2" points="12 18.25 12 11.99 18.24 11.99"/><polyline class="cls-2" points="12 5.73 12 11.99 5.76 11.99"/></svg></div>';
             } else {
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = rowColData[col];
@@ -109,10 +112,51 @@ $(document).ready(function(){
         myImage.src = 'images/'+myTitle;
         $(myImage).removeClass('hidden');
     })
-    $('#tblcsvdata').mouseleave(function(){
-        $(myImage).addClass('hidden');
+    $('#tblcsvdata').mouseleave(function(e){
+        if(( $(e.toElement).is("#myCollection"))||( $(e.toElement).is("#myCollection *"))) {
+            return
+        } else {
+            $(myImage).addClass('hidden');
+        }
     })
     $('#tblcsvdata th').mouseenter(function(){
         $(myImage).addClass('hidden');
     })
 });
+
+
+
+//TOGGLE ABOUT
+function toggleAbout() {
+    $('#about').toggleClass('hidden');
+}
+
+
+//ADD AND REMOVE TO COLLECTION
+function addToCollect(e) {
+    let gameName = $(e).closest('tr').find('td')[0].innerText;
+    let gameLang = $(e).closest('tr').find('td')[4].innerText;
+    let gameUrl = $($(e).closest('tr').find('td')[5]).find('a').attr('href');
+    console.log(gameName, gameUrl);
+    $('#myCollection').removeClass('hidden');
+
+    //if it's already there, remove it and add it again
+    if($('#myCollection .entry_group > .'+gameName.replaceAll(' ','-')).length > 0){
+        $('#myCollection .entry_group > .'+gameName.replaceAll(' ','-')).closest('.entry_group').remove();
+    }
+
+    $("<div class='entry_group'>"+
+        "<p class='"+gameName.replaceAll(' ','-')+"'>"+
+        gameName+" ("+gameLang+")"+
+        "<div onclick='removeFromCollect(this)'><svg id='Livello_1' data-name='Livello 1' xmlns='http://www.w3.org/2000/svg' width='23.97' height='23.97' viewBox='0 0 23.97 23.97'><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class='cls-1' cx='11.99' cy='11.99' r='10.99'/><polyline class='cls-2' points='12 18.25 12 11.99 18.24 11.99'/><polyline class='cls-2' points='12 5.73 12 11.99 5.76 11.99'/></svg></div>"+
+        "</p></div>").appendTo($('#myCollection .collection_body'));
+}
+
+function removeFromCollect(e) {
+    $( e ).closest('.entry_group').remove();
+}
+
+
+function closeCollection() {
+    $('#myCollection').addClass('hidden');
+}
