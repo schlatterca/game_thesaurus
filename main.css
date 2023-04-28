@@ -1,83 +1,306 @@
-<!DOCTYPE html>
-<html lang="en">
-<title>videogames thesaurus</title>
-<meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"-->
-<!--link rel="stylesheet" href="css/main.css"-->
-<style></style>
-<link rel="stylesheet" href="main.css" type="text/css">
+/*OVERALL*/
+@font-face{
+  font-family: PPFraktionMono;
+  src: url(fonts/PPFraktionMono-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Light.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Bold.otf);
+  font-weight: bold;
+  font-style: normal;
+}
 
-<!--<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#678fa6">
-<meta name="theme-color" content="#ffffff">-->
+:root {
+	--myGrey: grey;
+	--myBlack: rgb(20,20,20);
+	--fontsizeM: 16px;
+}
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script language="javascript" type="module" src="dist/jspdf.umd.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
+body {
+	background-color: var(--myBlack);
+}
 
-<script language="javascript" type="text/javascript" src="script.js"></script>
+* {
+	font-family: PPFraktionSans;
+	font-weight: normal;
+}
 
-<body>
+*:not(button):not(textarea) {
+	color: white;
+	/*font-family: Papyrus!important;*/
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+}
 
-<div id="about" class="hidden">
-    <div class="columns">
-        <div class="first_column">
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-        </div>
-        <div class="second_column">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-        </div>
-    </div>
-</div>
+.site_title {
+	position: relative;
+}
+.site_title p {
+	margin: 0;
+	font-family: PPFraktionSans;
+	font-weight: bold;
+	line-height: 100%;
+}
+.site_title > .big_title {
+	font-size: 9vw;
+	text-align: left; /*center;*/
+}
+.site_title > .about_button,
+.site_title > a.back_button {
+	font-size: 1vw;
+	text-transform: uppercase;
+	position: absolute;
+	top: 0vw;
+	cursor: pointer;
+	mix-blend-mode: difference;
+}
+.site_title > .about_button:hover,
+.site_title > a.back_button:hover p {
+	color: red;
+}
+.site_title > .about_button:hover {
+	mix-blend-mode: normal;
+}
+.site_title > .about_button {
+	right: 0;
+	z-index: 2;
+}
+.site_title > .back_button {
+	left: 0;
+	z-index: 0;
+	text-decoration: none;
+}
 
-<div class="site_title">
-    <a href='index.html' class="back_button"><p>back</p></a>
-    <p class="big_title">vg thesaurus</p>
-    <p class="about_button" onclick="toggleAbout()">about</p>
-</div>
+.prompt {
+	width: 30vw;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 20px;
+	border: 2px solid var(--myGrey);
+}
 
-<div class="table_container">
-    <table id="tblcsvdata" border="1" style="border-collapse: collapse;">
-        <thead>
-            <tr>
-                <th onclick="sortTable(0)">Name</th>
-                <th onclick="sortTable(1)">Console</th>
-                <th onclick="sortTable(2)">Year</th>
-                <th onclick="sortTable(3)">Genre</th>
-                <th onclick="sortTable(4)">Language</th>
-                <th class='file' title="Get the file">File</th>
-                <th class='add' title="Add to collection">Add</th>
-            </tr>
-        </thead>
-        <tbody>
+.prompt * {
+	font-size: var(--fontsizeM);
+}
 
-        </tbody>
+.prompt > p {
+	margin: 0;
+}
+.prompt > p:not(:first-child):not(.alert) {
+	color: var(--myGrey);
+}
+.prompt > p.alert {
+	color: red;
+	display: none;
+	margin-top: 20px;
+}
 
-    </table>
-</div>
+#prompt_textarea {
+	margin-top: 20px;
+	background-color: var(--myBlack);
+	color: white;
+	width: calc(100% - 5px);
+	resize: none;
+}
 
-<div class='preview_image'>
-	<figure>
-		<img class='hidden' src='images/elden-ring.jpg'>
-	</figure>
-</div>
+.prompt > button {
+	margin-left: 50%;
+	transform: translate(-50%);
+}
 
-<div id='myCollection' class='hidden'>
-    <div class='collection_header'>
-        <div class='collection_header_title'>
-            <p class='collection_title'>Your collection:</p>
-            <textarea id="title_textarea" name="title_textarea" placeholder="Title"></textarea>
-        </div>
-        <p class='collection_close' onclick='closeCollection()'>close</p>
-    </div>
-    <div class='collection_body'>
-    </div>
-    <a class='download_button' href='javascript:downloadCollection()'>Download collection</a>
-</div>
+/*LIST.HTML*/
+.table_container {
+	height: 82vh;
+	padding-bottom: 0;
+	overflow: scroll;
+}
 
-</body>
+#tblcsvdata {
+	border: 0;
+	width: 70%;
+	float: right;
+}
+
+#tblcsvdata th, #tblcsvdata td {
+	border: 0;
+	border-bottom: 1px solid white;
+}
+#tblcsvdata th:not(.add), #tblcsvdata td:not(:last-child) {
+	padding-right: 10px;
+}
+
+#tblcsvdata th {
+	text-align: left;
+	font-weight: bolder;
+	cursor: pointer;
+}
+#tblcsvdata th:not(.file):not(.add):hover {
+	color: red;
+}
+#tblcsvdata td {
+}
+#tblcsvdata tr {
+	width: 100%;
+}
+#tblcsvdata tbody tr:hover * {
+	cursor: pointer;
+	color: red;
+	fill: red;
+}
+#tblcsvdata svg {
+	height: 20px;
+	margin-top: 5px;
+}
+
+/*IMAGE*/
+.preview_image {
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+	width: calc(30% - 40px);
+}
+.preview_image > figure {
+	margin: 0;
+}
+.preview_image img {
+	width: 100%;
+}
+.preview_image img.hidden {
+	display: none;
+}
+
+/*ABOUT*/
+#about {
+	height: auto; /*10em;*/
+	background-color: white;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	transition: .6s transform;
+	padding: 10px;
+	z-index: 1;
+}
+#about.hidden {
+	transform: translate(0,-100%);
+}
+#about * {
+	color: var(--myBlack);
+}
+#about .columns {
+	height: 100%;
+	overflow: hidden;
+	display: flex;
+}
+#about .columns > div {
+	width: 40vw;
+	overflow: scroll;
+}
+#about .columns > div:not(:first-child) {
+	margin-left: 20px;
+}
+
+
+
+/*COLLECTION*/
+#myCollection {
+	background-color: var(--myBlack);
+	border-left: 2px solid white;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 48%;
+	height: 100%;
+	transition: .6s transform;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	z-index: 3;
+}
+#myCollection.hidden {
+	transform: translate(100%,0);
+}
+#myCollection * {
+	color: white;
+}
+#myCollection .collection_header {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+#myCollection .collection_header_title {
+	display: flex;
+}
+
+#myCollection .collection_header_title #title_textarea {
+	height: 1.44em;
+	background-color: var(--myBlack);
+	margin: auto;
+	margin-left: 10px;
+	font-size: 16px;
+	border: 0;
+	resize: none;
+	font-family: PPFraktionSans;
+}
+#myCollection .collection_header_title #title_textarea:focus {
+	outline: none!important;
+	border:1px solid var(--myGrey);
+}
+
+#myCollection .collection_title {
+	font-weight: bold;
+}
+#myCollection .collection_close {
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+#myCollection .collection_body {
+	width: calc(100% - 20px);
+	padding: 10px;
+	height: 10em;
+	border: 2px solid white;
+	overflow: scroll;
+}
+#myCollection .collection_body .entry_group {
+	display: flex;
+}
+#myCollection .collection_body p {
+	margin: 0;
+}
+#myCollection .collection_body svg {
+	transform: rotate(45deg);
+	transform-origin: center;
+	margin-left: 10px;
+	cursor: pointer;
+}
+#myCollection .collection_body svg:hover * {
+	fill: red;
+}
+#myCollection .download_button {
+	position: relative;
+	top: 10px;
+	font-weight: bold;
+	/*text-decoration: underline;*/
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+#myCollection .collection_close:hover,
+#myCollection .download_button:hover {
+	color: red;
+}
