@@ -25,6 +25,7 @@ jQuery.get('list.csv', function(data) {
 
         // Insert a row at the end of table
         var newRow = tbodyEl.insertRow();
+        $(newRow).addClass('gameId-'+row);
 
         // Split by comma (,) to get column Array
         rowColData = rowData[row].split(',');
@@ -34,7 +35,7 @@ jQuery.get('list.csv', function(data) {
 
             if(col == rowColData.length-1){
                 var newCell = newRow.insertCell();
-                newCell.innerHTML = '<a href="text_dumps/'+rowColData[col]+'" target="_blank"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="31.99" viewBox="0 0 23.97 31.99"><defs><style>.cls-1 {fill: #fff;}.cls-1, .cls-2 {stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><polygon class="cls-1" points="13.72 30.99 1 30.99 1 1 22.97 1 22.97 20.65 13.72 30.99"/><polyline class="cls-2" points="13.72 30.99 13.72 20.65 22.97 20.65"/></svg></a>';
+                newCell.innerHTML = '<a class="gameUrl" href="text_dumps/'+rowColData[col]+'" target="_blank"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="31.99" viewBox="0 0 23.97 31.99"><defs><style>.cls-1 {fill: #fff;}.cls-1, .cls-2 {stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><polygon class="cls-1" points="13.72 30.99 1 30.99 1 1 22.97 1 22.97 20.65 13.72 30.99"/><polyline class="cls-2" points="13.72 30.99 13.72 20.65 22.97 20.65"/></svg></a>';
             } else if(col == rowColData.length){
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = '<div onclick="addToCollect(this)"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="23.97" viewBox="0 0 23.97 23.97"><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class="cls-1" cx="11.99" cy="11.99" r="10.99"/><polyline class="cls-2" points="12 18.25 12 11.99 18.24 11.99"/><polyline class="cls-2" points="12 5.73 12 11.99 5.76 11.99"/></svg></div>';
@@ -137,7 +138,9 @@ function addToCollect(e) {
     let gameName = $(e).closest('tr').find('td')[0].innerText;
     let gameLang = $(e).closest('tr').find('td')[4].innerText;
     let gameUrl = $($(e).closest('tr').find('td')[5]).find('a').attr('href');
-    console.log(gameName, gameUrl);
+    let gameId = $(e).closest('tr').attr('class');
+
+    //console.log(gameName, gameUrl);
     $('#myCollection').removeClass('hidden');
 
     //if it's already there, remove it and add it again
@@ -145,7 +148,7 @@ function addToCollect(e) {
         $('#myCollection .entry_group > .'+gameName.replaceAll(' ','-')).closest('.entry_group').remove();
     }
 
-    $("<div class='entry_group'>"+
+    $("<div class='entry_group "+gameId+"'>"+
         "<p class='"+gameName.replaceAll(' ','-')+"'>"+
         gameName+" ("+gameLang+")"+
         "<div onclick='removeFromCollect(this)'><svg id='Livello_1' data-name='Livello 1' xmlns='http://www.w3.org/2000/svg' width='23.97' height='23.97' viewBox='0 0 23.97 23.97'><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class='cls-1' cx='11.99' cy='11.99' r='10.99'/><polyline class='cls-2' points='12 18.25 12 11.99 18.24 11.99'/><polyline class='cls-2' points='12 5.73 12 11.99 5.76 11.99'/></svg></div>"+
@@ -156,7 +159,178 @@ function removeFromCollect(e) {
     $( e ).closest('.entry_group').remove();
 }
 
-
 function closeCollection() {
     $('#myCollection').addClass('hidden');
 }
+
+/*function downloadCollection() {
+    //console.log($('#myCollection .collection_body .entry_group'));
+    import { jsPDF } from "jspdf";
+    const doc = new jsPDF();
+    doc.text("Hello world!", 10, 10);
+    doc.save("a4.pdf");
+}*/
+
+/*function downloadCollection() {
+        var pdf = new jsPDF('p', 'pt', 'letter');
+        // source can be HTML-formatted string, or a reference
+        // to an actual DOM element from which the text will be scraped.
+        source = $('.collection_body')[0];
+
+        // we support special element handlers. Register them with jQuery-style 
+        // ID selector for either ID or node name. ("#iAmID", "div", "span" etc.)
+        // There is no support for any other type of selectors 
+        // (class, of compound) at this time.
+        specialElementHandlers = {
+            // element with id of "bypass" - jQuery style selector
+            '#bypassme': function (element, renderer) {
+                // true = "handled elsewhere, bypass text extraction"
+                return true
+            }
+        };
+        margins = {
+            top: 80,
+            bottom: 60,
+            left: 40,
+            width: 522
+        };
+        // all coords and widths are in jsPDF instance's declared units
+        // 'inches' in this case
+        pdf.fromHTML(
+            source, // HTML string or DOM elem ref.
+            margins.left, // x coord
+            margins.top, { // y coord
+                'width': margins.width, // max width of content on PDF
+                'elementHandlers': specialElementHandlers
+            },
+
+            function (dispose) {
+                // dispose: object with X, Y of the last line add to the PDF 
+                //          this allow the insertion of new lines after html
+                pdf.save('Test.pdf');
+            }, margins
+        );
+    }
+    */
+
+function readyToPrint(itemToPrint) {
+    //var newWin=window.open('','Print-Window');
+    newWin.document.open();
+    newWin.document.write('<html><body onload="window.print()">'+itemToPrint.innerHTML+'</body></html>');
+    newWin.document.close();
+    setTimeout(function(){newWin.close();},10);
+    /*var newWin=window.open('','', 'height=650, width=650');
+    newWin.document.write('');
+    newWin.document.write('<title>Print Content of Div element by  using Javascript</title>');
+    newWin.document.write(' <h1>Content of Div element: <br>');
+    newWin.document.write(itemToPrint.innerHTML);
+    newWin.document.write('');
+    newWin.document.close();
+    newWin.print();*/
+}
+
+function downloadCollection() {
+    //console.log($('#myCollection .collection_body .entry_group'));
+    //var listOfTitles = [];
+    //var listOfUrls = [];
+    //var listOfFullTextDumps = [];
+
+    const divToPrint = document.createElement("div");
+    let collectionTitles = $('#myCollection .collection_body .entry_group');
+    let titleOfMyCollection = 'My Collection';
+
+    if ($('#title_textarea').val() != ''){
+        titleOfMyCollection = $('#title_textarea').val().replaceAll(' ','_');
+    } else {
+        titleOfMyCollection = 'My Collection';
+    }
+
+    for (var i = 0; i < collectionTitles.length; i++) {
+
+        const divTitle = document.createElement("div");
+        const divUrl = document.createElement("div");
+        const divFullTextDump = document.createElement("div");
+
+        let thisGameTitleLang = $(collectionTitles[i]).find('p')[0].innerText;
+        let thisGameTitle = $(collectionTitles[i]).find('p')[0].innerText.split(' (')[0];
+        let thisGameId = $(collectionTitles[i]).attr('class').split(/\s+/)[1];
+        let thisGameUrl = $('#tblcsvdata .'+thisGameId+' .gameUrl').attr('href');
+        
+        divTitle.innerText = thisGameTitle;
+        divUrl.innerText = thisGameUrl;
+
+        divToPrint.appendChild(divTitle);
+        divToPrint.appendChild(divUrl);
+
+        /*$.ajax({
+            type: "GET",
+            url: thisGameUrl, 
+            data: "{}",
+            success: function(data){
+                let thisGameFullTextDump = data;
+                listOfFullTextDumps.push(thisGameFullTextDump);
+                console.log(listOfFullTextDumps);
+            }
+        });*/
+
+        //console.log(i, collectionTitles.length);
+        if(i+1 == collectionTitles.length) {
+            var newWin=window.open('','Print-Window');
+            
+            (async() => {
+                const doc = await fetch(thisGameUrl).then(response => response.text());
+                divFullTextDump.innerText = doc;
+
+                defer(function () {
+                    //alert("doc is loaded");
+                });
+                function defer(method) {
+                    if (doc) {
+                        method();
+
+                        newWin.location = '';
+                        newWin.document.open();
+                        newWin.document.write('<html><title>'+titleOfMyCollection+'</title><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+                        newWin.document.close();
+                        setTimeout(function(){newWin.close();},10);
+
+                    } else {
+                        setTimeout(function() { defer(method) }, 50);
+                    }
+                }
+            })();
+        } else {
+
+            (async() => {
+                const doc = await fetch(thisGameUrl).then(response => response.text());
+                divFullTextDump.innerText = doc;
+
+                defer(function () {
+                    //alert("doc is loaded");
+                });
+                function defer(method) {
+                    if (doc) {
+                        method();
+
+                        /*newWin.location = '';
+                        newWin.document.open();
+                        newWin.document.write('<html><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+                        newWin.document.close();
+                        setTimeout(function(){newWin.close();},10);*/
+
+                    } else {
+                        setTimeout(function() { defer(method) }, 50);
+                    }
+                }
+            })();
+        }
+
+        divToPrint.appendChild(divFullTextDump);
+    }
+}
+
+
+
+
+
+
