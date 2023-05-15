@@ -136,20 +136,26 @@ function toggleAbout() {
 //ADD AND REMOVE TO COLLECTION
 function addToCollect(e) {
     let gameName = $(e).closest('tr').find('td')[0].innerText;
+    let gameConsole = $(e).closest('tr').find('td')[1].innerText;
+    let gameYear = $(e).closest('tr').find('td')[2].innerText;
+    let gameGenre = $(e).closest('tr').find('td')[3].innerText;
     let gameLang = $(e).closest('tr').find('td')[4].innerText;
     let gameUrl = $($(e).closest('tr').find('td')[5]).find('a').attr('href');
     let gameId = $(e).closest('tr').attr('class');
+    let gameCode = gameName.replaceAll('&','').split(/\s/).reduce((response,word)=> response+=word.slice(0,1),'') +"-"+gameYear+"-"+gameLang;
+
+    console.log(gameCode);
 
     //console.log(gameName, gameUrl);
     $('#myCollection').removeClass('hidden');
 
     //if it's already there, remove it and add it again
-    if($('#myCollection .entry_group > .'+gameName.replaceAll(' ','-')).length > 0){
-        $('#myCollection .entry_group > .'+gameName.replaceAll(' ','-')).closest('.entry_group').remove();
+    if($('#myCollection .entry_group > .'+gameCode).length > 0){
+        $('#myCollection .entry_group > .'+gameCode).closest('.entry_group').remove();
     }
 
     $("<div class='entry_group "+gameId+"'>"+
-        "<p class='"+gameName.replaceAll(' ','-')+"'>"+
+        "<p class='"+gameCode+"'>"+
         gameName+" ("+gameLang+")"+
         "<div onclick='removeFromCollect(this)'><svg id='Livello_1' data-name='Livello 1' xmlns='http://www.w3.org/2000/svg' width='23.97' height='23.97' viewBox='0 0 23.97 23.97'><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class='cls-1' cx='11.99' cy='11.99' r='10.99'/><polyline class='cls-2' points='12 18.25 12 11.99 18.24 11.99'/><polyline class='cls-2' points='12 5.73 12 11.99 5.76 11.99'/></svg></div>"+
         "</p></div>").appendTo($('#myCollection .collection_body'));
