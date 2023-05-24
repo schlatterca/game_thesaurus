@@ -35,9 +35,63 @@
     </div>
 </div>
 
+<div class="filters">
+    <div class="console">
+        <select name="console" id="console_select" onchange="changeConsole(this)">
+            <option value="All">All consoles</option>
+            <option value="Game Boy">Game Boy</option>
+            <option value="NES">NES</option>
+            <option value="N64">N64</option>
+            <option value="PS1">PS1</option>
+            <option value="PS2">PS2</option>
+            <option value="PS3">PS3</option>
+            <option value="SNES">SNES</option>
+            <option value="Switch">Switch</option>
+            <option value="WII">WII</option>
+            <option value="XBox One">XBox One</option>
+        </select>
+    </div>
+    <div class="year">
+        <select name="year" id="year_select" onchange="changeYear(this)">
+            <option value="All">All years</option>
+            <option value="1986">1986</option>
+            <option value="1987">1987</option>
+            <option value="1996">1996</option>
+            <option value="1998">1998</option>
+            <option value="2001">2001</option>
+            <option value="2005">2005</option>
+            <option value="2006">2006</option>
+            <option value="2007">2007</option>
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2022">2022</option>
+        </select>
+    </div>
+    <div class="lang">
+        <select name="lang" id="lang_select">
+            <option value="All">All languages</option>
+            <option value="CHN">CHN</option>
+            <option value="DEU">DEU</option>
+            <option value="ENG">ENG</option>
+            <option value="ESP">ESP</option>
+            <option value="FRA">FRA</option>
+            <option value="ITA">ITA</option>
+            <option value="JAP">JAP</option>
+        </select>
+    </div>
+    <div class="genres">
+        <button>action</button>
+        <button>action RPG</button>
+        <button>RPG</button>
+        <button>J-RPG</button>
+        <button>platform</button>
+        <button>puzzle</button>
+    </div>
+</div>
+
 <div class="site_title">
-    <a href='index.html' class="back_button"><p>back</p></a>
-    <p class="big_title">game&nbsp;&nbsp;&nbsp;thesaurus</p>
+    <!--a href='index.html' class="back_button"><p>back</p></a-->
+    <p class="big_title"><a href='index.html'>game thesaurus</a></p>
     <p class="about_button" onclick="toggleAbout()">about</p>
 </div>
 
