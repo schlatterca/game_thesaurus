@@ -42,6 +42,7 @@ jQuery.get('list.csv', function(data) {
             } else {
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = rowColData[col];
+                $(newCell).on('click', function(){openMoreOnThis(this)});
             }
         }
     }
@@ -129,12 +130,18 @@ $(document).ready(function(){
 
 //TOGGLE ABOUT
 function toggleAbout() {
+    closeMoreOnThis();
     $('#about').toggleClass('hidden');
 }
 
 
 //ADD AND REMOVE TO COLLECTION
 function addToCollect(e) {
+    closeMoreOnThis();
+    if (!$('#about').hasClass('hidden')){
+        $('#about').addClass('hidden');
+    }
+
     let gameName = $(e).closest('tr').find('td')[0].innerText;
     let gameConsole = $(e).closest('tr').find('td')[1].innerText;
     let gameYear = $(e).closest('tr').find('td')[2].innerText;
@@ -144,7 +151,7 @@ function addToCollect(e) {
     let gameId = $(e).closest('tr').attr('class');
     let gameCode = gameName.replaceAll('&','').split(/\s/).reduce((response,word)=> response+=word.slice(0,1),'') +"-"+gameYear+"-"+gameLang;
 
-    console.log(gameCode);
+    //console.log(gameCode);
 
     //console.log(gameName, gameUrl);
     $('#myCollection').removeClass('hidden');
@@ -336,6 +343,25 @@ function downloadCollection() {
 }
 
 
+
+
+
+/*MORE ON THIS*/
+function openMoreOnThis(el) {
+    closeCollection();
+    if (!$('#about').hasClass('hidden')){
+        $('#about').addClass('hidden');
+    }
+
+    myRow = el.parentNode;
+    console.log($('#moreOnThis p.collection_title > span'));
+    $('#moreOnThis').removeClass('hidden');
+    $('#moreOnThis p.collection_title > span')[0].innerText = $(myRow).find('td')[0].innerText;
+}
+
+function closeMoreOnThis(el) {
+    $('#moreOnThis').addClass('hidden');
+}
 
 
 
