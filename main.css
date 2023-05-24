@@ -184,7 +184,8 @@ a:hover {
 }
 #tblcsvdata tr.invisible_console,
 #tblcsvdata tr.invisible_year,
-#tblcsvdata tr.invisible_lang {
+#tblcsvdata tr.invisible_lang,
+#tblcsvdata tr.invisible_genre {
 	display: none;
 }
 #tblcsvdata tbody tr:hover * {
@@ -209,6 +210,7 @@ a:hover {
 	top: 4px;
 	width: calc(30vw - 40px);
 	z-index: 2;
+	margin-top: calc(6vw + 30px);
 	/*display: flex;*/
 }
 .filters > .console,
@@ -274,7 +276,9 @@ a:hover {
 }
 .filters > .genres > button:hover {
 	background-color: var(--myGreen);
-	color: white;
+}
+.filters > .genres > button.active {
+	background-color: var(--myGreen);
 }
 
 
