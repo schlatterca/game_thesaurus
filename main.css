@@ -21,6 +21,7 @@
 :root {
 	--myGrey: grey;
 	--myBlack: rgb(20,20,20);
+	--myGreen: rgb(0,255,0);
 	--fontsizeM: 16px;
 }
 
@@ -42,6 +43,10 @@ body {
        -moz-user-select: none; /* Old versions of Firefox */
         -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none;
+}
+
+a:hover {
+	color: var(--myGreen)!important;
 }
 
 .site_title {
@@ -68,7 +73,7 @@ body {
 }
 .site_title > .about_button:hover,
 .site_title > a.back_button:hover p {
-	color: red;
+	color: var(--myGreen)!important;
 }
 .site_title > .about_button:hover {
 	mix-blend-mode: normal;
@@ -104,7 +109,7 @@ body {
 	color: var(--myGrey);
 }
 .prompt > p.alert {
-	color: red;
+	color: var(--myGreen);
 	display: none;
 	margin-top: 20px;
 }
@@ -122,6 +127,20 @@ body {
 	transform: translate(-50%);
 }
 
+.prompt > .option {
+	cursor: pointer;
+}
+.prompt > * {
+	font-family: PPFraktionMono;
+	text-transform: uppercase;
+}
+.prompt > .option:hover {
+	color: white!important;
+	/*background-color: var(--myGrey);*/
+	color: var(--myBlack)!important;
+	background-color: rgb(0,255,0);
+}
+
 /*LIST.HTML*/
 .table_container {
 	height: 82vh;
@@ -137,7 +156,7 @@ body {
 
 #tblcsvdata th, #tblcsvdata td {
 	border: 0;
-	border-bottom: 1px solid white;
+	/*border-bottom: 1px solid white;*/
 }
 #tblcsvdata th:not(.add), #tblcsvdata td:not(:last-child) {
 	padding-right: 10px;
@@ -149,17 +168,21 @@ body {
 	cursor: pointer;
 }
 #tblcsvdata th:not(.file):not(.add):hover {
-	color: red;
+	color: var(--myGreen);
 }
 #tblcsvdata td {
 }
 #tblcsvdata tr {
 	width: 100%;
+	text-transform: uppercase;
 }
 #tblcsvdata tbody tr:hover * {
 	cursor: pointer;
-	color: red;
-	fill: red;
+	/*color: var(--myGreen);*/
+	color: var(--myBlack);
+	text-transform: uppercase;
+	background-color: var(--myGreen);
+	fill: var(--myGreen);
 }
 #tblcsvdata svg {
 	height: 20px;
@@ -175,9 +198,23 @@ body {
 }
 .preview_image > figure {
 	margin: 0;
+	/**/
+	width: 20vw;
+	height: 20vw;
+	overflow: hidden;
+	position: relative;
 }
 .preview_image img {
+	/*width: 100%;
+	*/
 	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
 }
 .preview_image img.hidden {
 	display: none;
@@ -289,7 +326,7 @@ body {
 	cursor: pointer;
 }
 #myCollection .collection_body svg:hover * {
-	fill: red;
+	fill: var(--myGreen);
 }
 #myCollection .download_button {
 	position: relative;
@@ -302,5 +339,101 @@ body {
 
 #myCollection .collection_close:hover,
 #myCollection .download_button:hover {
-	color: red;
+	color: var(--myGreen);
+}
+
+
+
+/*MORE ON THIS*/
+/*COLLECTION*/
+#moreOnThis {
+	background-color: var(--myBlack);
+	border-right: 2px solid white;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: calc(30% - 60px);
+	height: 100%;
+	transition: .6s transform;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	z-index: 3;
+}
+#moreOnThis.hidden {
+	transform: translate(-100%,0);
+}
+#moreOnThis * {
+	color: white;
+}
+#moreOnThis .collection_header {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+}
+#moreOnThis .collection_header_title {
+	display: flex;
+}
+
+#moreOnThis .collection_header_title #title_textarea {
+	height: 1.44em;
+	background-color: var(--myBlack);
+	margin: auto;
+	margin-left: 10px;
+	font-size: 16px;
+	border: 0;
+	resize: none;
+	font-family: PPFraktionSans;
+}
+#moreOnThis .collection_header_title #title_textarea:focus {
+	outline: none!important;
+	border:1px solid var(--myGrey);
+}
+
+#moreOnThis .collection_title {
+	font-weight: normal;
+}
+#moreOnThis .collection_title span {
+	font-weight: bold;
+	color: var(--myGreen);
+}
+#moreOnThis .collection_close {
+	font-weight: bold;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+#moreOnThis .collection_body {
+	width: calc(100% - 20px);
+	padding: 10px;
+	height: 10em;
+	border: 2px solid white;
+	overflow: scroll;
+}
+#moreOnThis .collection_body .entry_group {
+	display: flex;
+}
+#moreOnThis .collection_body p {
+	margin: 0;
+}
+#moreOnThis .collection_body svg {
+	transform: rotate(45deg);
+	transform-origin: center;
+	margin-left: 10px;
+	cursor: pointer;
+}
+#moreOnThis .collection_body svg:hover * {
+	fill: var(--myGreen);
+}
+#moreOnThis .download_button {
+	position: relative;
+	top: 10px;
+	font-weight: bold;
+	/*text-decoration: underline;*/
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+#moreOnThis .collection_close:hover,
+#moreOnThis .download_button:hover {
+	color: var(--myGreen);
 }
