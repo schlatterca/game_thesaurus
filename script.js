@@ -367,27 +367,37 @@ function closeMoreOnThis(el) {
 
 /*FILTERS*/
 function changeConsole(el) {
-    var myValue = el.value;
+    var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
     for(let i=0; i<allRows.length; i++){
-        if(($(allRows[i]).find('td')[1].innerText == myValue)||(myValue == "All")){
-            console.log(allRows[i]);
-            $(allRows[i]).removeClass('invisible');
+        if(($(allRows[i]).find('td')[1].innerText.toLowerCase() == myValue)||(myValue == "all")){
+            $(allRows[i]).removeClass('invisible_console');
         } else {
-            $(allRows[i]).addClass('invisible');
+            $(allRows[i]).addClass('invisible_console');
         }
     }
 }
 
 function changeYear(el) {
-    var myValue = el.value;
+    var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
     for(let i=0; i<allRows.length; i++){
-        if(($(allRows[i]).find('td')[2].innerText == myValue)||(myValue == "All")){
-            console.log(allRows[i]);
-            $(allRows[i]).removeClass('invisible');
+        if(($(allRows[i]).find('td')[2].innerText == myValue)||(myValue == "all")){
+            $(allRows[i]).removeClass('invisible_year');
         } else {
-            $(allRows[i]).addClass('invisible');
+            $(allRows[i]).addClass('invisible_year');
+        }
+    }
+}
+
+function changeLang(el) {
+    var myValue = el.value.toLowerCase();
+    var allRows = $('.table_container tbody > tr');
+    for(let i=0; i<allRows.length; i++){
+        if(($(allRows[i]).find('td')[4].innerText.toLowerCase() == myValue)||(myValue == "all")){
+            $(allRows[i]).removeClass('invisible_lang');
+        } else {
+            $(allRows[i]).addClass('invisible_lang');
         }
     }
 }
