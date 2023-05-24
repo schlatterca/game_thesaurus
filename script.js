@@ -365,4 +365,30 @@ function closeMoreOnThis(el) {
 
 
 
+/*FILTERS*/
+function changeConsole(el) {
+    var myValue = el.value;
+    var allRows = $('.table_container tbody > tr');
+    for(let i=0; i<allRows.length; i++){
+        if(($(allRows[i]).find('td')[1].innerText == myValue)||(myValue == "All")){
+            console.log(allRows[i]);
+            $(allRows[i]).removeClass('invisible');
+        } else {
+            $(allRows[i]).addClass('invisible');
+        }
+    }
+}
+
+function changeYear(el) {
+    var myValue = el.value;
+    var allRows = $('.table_container tbody > tr');
+    for(let i=0; i<allRows.length; i++){
+        if(($(allRows[i]).find('td')[2].innerText == myValue)||(myValue == "All")){
+            console.log(allRows[i]);
+            $(allRows[i]).removeClass('invisible');
+        } else {
+            $(allRows[i]).addClass('invisible');
+        }
+    }
+}
 
