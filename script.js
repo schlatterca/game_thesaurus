@@ -399,8 +399,10 @@ function changeLang(el) {
     for(let i=0; i<allRows.length; i++){
         if(($(allRows[i]).find('td')[4].innerText.toLowerCase() == myValue)||(myValue == "all")){
             $(allRows[i]).removeClass('invisible_lang');
+            console.log('yes', myValue, $(allRows[i]).find('td')[4].innerText.toLowerCase());
         } else {
             $(allRows[i]).addClass('invisible_lang');
+            console.log('no', myValue, $(allRows[i]).find('td')[4].innerText.toLowerCase());
         }
     }
 }
