@@ -124,6 +124,9 @@ $(document).ready(function(){
     $('#tblcsvdata th').mouseenter(function(){
         $(myImage).addClass('hidden');
     })
+
+    //FILTER BUTTONS
+    filterButtons();
 });
 
 
@@ -402,3 +405,34 @@ function changeLang(el) {
     }
 }
 
+function filterButtons() {
+    var allRows = $('.table_container tbody > tr');
+
+    $('.filters > .genres > button').on( "click", function() {
+        if($(this).hasClass('active')){
+            $(this).removeClass('active');
+        } else {
+            $('.filters > .genres > button').each(function(){
+                $(this).removeClass('active');
+            });
+            $(this).addClass('active');
+        }
+        let myValue = this.innerText.toLowerCase();
+        console.log(myValue);
+
+        for(let i=0; i<allRows.length; i++){
+            if($(allRows[i]).find('td')[3].innerText.toLowerCase() == myValue){
+                $(allRows[i]).removeClass('invisible_genre');
+            } else {
+                $(allRows[i]).addClass('invisible_genre');
+            }
+        } 
+    } );
+}
+
+/*function toggleButton() {
+    var target = $( event.target );
+    var allRows = $('.table_container tbody > tr');
+    //for(let i=0; i<allRows.length; i++){
+    console.log(target);
+}*/
