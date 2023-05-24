@@ -182,7 +182,9 @@ a:hover {
 	width: 100%;
 	text-transform: uppercase;
 }
-#tblcsvdata tr.invisible {
+#tblcsvdata tr.invisible_console,
+#tblcsvdata tr.invisible_year,
+#tblcsvdata tr.invisible_lang {
 	display: none;
 }
 #tblcsvdata tbody tr:hover * {
@@ -218,6 +220,7 @@ a:hover {
 	padding-top: 2px!important;
 	padding-bottom: 2px!important;
 	position: relative;
+	margin-bottom: 6px;
 }
 .filters > .console > select#console_select,
 .filters > .year > select#year_select,
@@ -318,7 +321,7 @@ a:hover {
 	width: 100%;
 	transition: .6s transform;
 	padding: 10px;
-	z-index: 1;
+	z-index: 10;
 }
 #about.hidden {
 	transform: translate(0,-100%);
