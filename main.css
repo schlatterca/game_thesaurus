@@ -86,7 +86,7 @@ a:hover {
 }
 .site_title > .about_button {
 	right: 0;
-	z-index: 2;
+	z-index: 11;
 }
 .site_title > .back_button {
 	left: 0;
