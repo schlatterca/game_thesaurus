@@ -1,8 +1,41 @@
+@font-face{
+  font-family: PPFraktionMono;
+  src: url(fonts/PPFraktionMono-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Light.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: PPFraktionSans;
+  src: url(fonts/PPFraktionSans-Bold.otf);
+  font-weight: bold;
+  font-style: normal;
+}
+
+* {
+
+}
+
+.site_title {
+  margin: 8px;
+}
+.site_title a {
+  color: white;
+  text-decoration: none;
+}
+.site_title a:hover {
+  color: rgb(0,255,0);
+}
+  
 body {
   background: #031921;
   color: #fff;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
-    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "PPFraktionSans", sans-serif;
   font-weight: 300;
   margin: 0;
   padding: 0;
