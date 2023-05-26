@@ -1,0 +1,4064 @@
+Morphology: Space Pirate
+Status >> Minimal injuries assessed.  
+  
+Use caution. Maximum firepower recommended. 
+
+Varia Suit malfunction. 
+
+Morphology: Space Pirate
+Status >> Both legs of this creature are broken. 
+
+Entrance to Deck Beta Conduit Hall 
+
+DECK GAMMA >>
+Reactor Core and Propulsion
+CURRENT STATUS >> 
+Environment normal. 
+
+This door has been sealed to prevent radiation leaks. 
+
+Entrance to Emergency Evacuation Area 
+
+Specimen Cell B
+Status >> Unknown.
+Rejection of Phazon Compound detected. 
+
+Escape pod entrance. The vessel has already been jettisoned.  
+  
+Evacuation occurred 6 hours prior to your arrival. 
+
+While in Combat Visor mode, press and hold [IMAGE] when this object is in your view to perform a Grapple Beam swing. 
+
+Mutagen Tank 4
+Phazon Batch 3203.C 
+
+Morphology: Space Pirate
+Status >> Brain hemorrhage detected. Creature's aim will be hindered.  
+  
+Avoid damage by using quick movements. 
+
+Platform active. 
+
+Door cannot be opened until room is repressurized. 
+
+Entrance to Biohazard Containment 
+
+Morphology: Plated Parasite Larva
+Info >> Native of Tallon IV 
+
+Obstruction detected in reactor ventilation system.  
+  
+Engineering crew report to Freight Lift corridor immediately. 
+
+Press [IMAGE] to turn into the Morph Ball. 
+
+Entrance to Deck Gamma Monitor Hall 
+
+Mutagen Tank 3
+Phazon Batch 1426.K 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Door lock enabled.
+Please insert metallic sphere to open door. 
+
+This creature is deceased. 
+  
+Creature's incubation period was prematurely terminated. Its shell has not yet fully hardened. 
+
+Map Facility 
+
+Entrance to Deck Beta Security Hall 
+
+The coils on this ventilation cap look unstable. 
+
+This platform does not seem to be functional. There must be something nearby that will turn it on. 
+
+This platform does not seem to be functional. There must be something nearby that will turn it on. 
+
+This door has been sealed to prevent radiation leaks. 
+
+Deck Alpha Mech Shaft 
+
+This Force Field blocks the entrance. 
+  
+You cannot deactivate the Force Field unless the switches are red. 
+
+Entrance to Deck Alpha Access Hall 
+
+Reactor Core 
+
+Use your Charge Beam to destroy the rubble. 
+
+Deck Alpha Umbilical Hall 
+
+Experiment 435.8
+Bioform pain tolerance levels at 13% and holding. 
+
+Entrance to Connection Elevator 
+
+This switch does not seem to be operational. 
+  
+The control panel on the pillar in this room can turn it on. 
+
+Cargo Freight Lift to Deck Gamma 
+
+Morphology: Space Pirate
+Status >> Death caused by acid burns to the face. 
+
+Energy Force Field in place. You cannot reach your gunship. 
+
+Perimeter Defense Turret >> Disabled 
+
+Morphology:  Space Pirate
+Status >> Death caused by a severing of the spinal cord. 
+
+Entrance to Save Station 
+
+Elevator operational.
+Please step into the hologram. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Morphology: Space Pirate
+Status >> Dead. This creature looks like it struggled to get through this door. 
+
+Morphology: Space Pirate
+Status >> Death caused by severe lacerations to the abdomen. 
+
+Tracking on enemy target has been lost. 
+Ground-based recon required.
+Begin landing sequence. 
+
+Air Lock 
+
+Press [IMAGE] or [IMAGE] to return to the Combat Visor. 
+
+Scan the central pillar to activate them. 
+
+Analysis shows incredibly large muscle structures surrounding the jaw area.  
+  
+Fluid sacs containing acid are also detected. 
+
+Escape Pod launch coordinates >>
+Tallon IV 110L.30L?.Research Command Center 
+
+Biohazardous materials
+Phazon Batch 0142.A
+Destination >> Deck Beta 
+
+Biotech Research Area 2 
+
+Exterior Docking Hangar 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+The fluid sacs in the mouth enlarge after mutation. 
+  
+This allows for increased production of corrosive bile. 
+
+You have downloaded the map for this area. 
+Press [IMAGE] to access the map. When you're finished, press [IMAGE] again to resume play. 
+
+Press and hold [IMAGE] to lock onto enemies. 
+
+Map Station 
+Map Station 
+Walk into Map Station holograms to download a map of the area you're in. 
+
+Two Parasite Queen specimens have become volatile on Deck Beta.  
+  
+All security personnel should report to the Biotech Research Area. 
+
+Platform active. 
+
+Energy fully replenished. 
+
+Missile malfunction. 
+
+Analysis detects large amounts of blood missing from the carcasses.  
+  
+These bodies may have been used for nourishment. Pattern consistent with predator behavior. 
+
+DECK ALPHA >>
+Emergency Evacuation Area
+CURRENT STATUS >>
+Environment unstable. 
+
+Use [IMAGE] while holding [IMAGE] to strafe around enemies. 
+
+Charge Beam malfunction. 
+
+Platform active. 
+
+Entrance to Deck Alpha Umbilical Hall 
+
+Containment seal breached.
+Larva vital signs critical.
+Secure area and terminate specimen. 
+
+Mutagen Tank 1
+Phazon Batch 0732.C 
+
+Morphology: Zoomer
+Info >> Native of Tallon IV 
+
+Biotech Research Area 1 
+
+Perimeter Defense Turret >> Disabled 
+
+Platform active. 
+
+Air lock repressurization successful. 
+
+This Force Field blocks the entrance. 
+  
+Something nearby must be able to deactivate it. 
+
+This platform does not seem to be functional. There must be something nearby that will turn it on. 
+
+Room is depressurizing. 
+
+Morphology: Space Pirate
+Status >> Death caused by severe flame damage to exoskeleton. 
+
+Entrance to Emergency Evacuation Area 
+
+Door lock enabled.
+Please insert metallic sphere to open door. 
+
+Tap [IMAGE] to jump. 
+
+This device does not seem to be functional. There must be something nearby that will turn it on. 
+
+Specimen Solitary Holding 5
+Status >> Empty. 
+
+Subventilation Shaft Section A 
+
+The next set of Force Field controls are offline. 
+
+Door cannot be opened with that weapon. 
+
+Specimen cell structure failing. Batch 0732.C does not match DNA. Terminating infusion sequence. 
+
+Morphology: Parasite Larva
+Info >> Harmless unless encountered in large numbers. 
+
+Press [IMAGE] to switch to the Scan Visor. 
+
+Entrance to Air Lock 
+
+Once shot, doors will open when you approach them. 
+
+Entrance to Biotech Research Area 1 
+
+Access to Deck Beta approved.
+Please step into the hologram. 
+
+Morphology: Unknown 
+Low life signs detected. 
+  
+This creature appears to be in a state of stasis hibernation. 
+
+Entrance to Connection Elevator 
+
+Subject >> Meta Ridley
+Weapon update complete.
+Stinger ballistics >> online
+Plasma fuel cell >> online 
+
+Use the Scan Visor [IMAGE] to activate certain objects. 
+
+Press and hold [IMAGE] to scan a target. 
+
+Specimen Solitary Holding 2
+Phazon level >> Toxic
+Status >> Hermetic seal holding. 
+
+Subventilation Shaft Section B 
+
+Phazon Infusion Stage 2
+Introducing mutagen into tank.
+Phazon Batch 0732.C
+Status >> Complete. 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+This door has been sealed to prevent radiation leaks. 
+
+Entrance to Map Facility 
+
+Connection Elevator to Deck Alpha 
+
+Entrance to Deck Beta Transit Hall 
+
+Morphology: Space Pirate
+Status >> Death caused by cranial trauma. 
+
+Deck Beta Conduit Hall 
+
+Entrance to Connection Elevator 
+
+Morphology: War Wasp
+Info >> Native of Tallon IV 
+
+Tallon IV Ground Zero area secure. Crater radiation readings normal. 
+
+Game has been saved. Energy fully replenished. 
+
+Specimen Cell A 
+Status >> Hibernation.
+Transference of Phazon Batch 0081.D complete. 
+
+Use [IMAGE] and tap [IMAGE] to dash while locked on. 
+
+Morphology: Space Pirate
+Status >> Severe internal damage detected.  
+
+Morphology: Plazmite
+Info >> Native of Tallon IV 
+
+Entrance to Deck Beta Transit Hall 
+
+No life signs detected. 
+
+Entrance to Biotech Research Area 1 
+
+Use [IMAGE] while pressing [IMAGE] to shoot high targets. 
+
+Deck Gamma Monitor Hall 
+
+Morph Ball malfunction. 
+
+Morphology: Shriekbat
+Info >> Native of Tallon IV 
+
+Security codes on Auto Defense Turrets are changed every other lunar cycle.  
+  
+Using improper codes may result in turret activation. 
+
+Fire Missiles with [IMAGE]. 
+
+Access to Deck Beta approved.
+Please step into the hologram. 
+
+After mutation, the carapace of the larva becomes rigid. 
+  
+The carapace is quite resilient, able to resist the attacks of many predators. 
+
+Specimen containment breach on Deck Beta. All crew report for lockdown. 
+
+Tail section possesses a mouthlike orifice. Most likely used for birthing offspring. 
+
+Biohazardous materials
+Phazon Batch 0073.A
+Destination >> Deck Beta 
+
+Species >> Space Pirate
+Status >> Severe internal damage detected.  
+
+Combat mutation applications are complete. 
+  
+The primary legs of this creature possess galvanized tips, allowing it to penetrate any known alloy. 
+
+The Charge Beam can be used to draw in pickups. 
+
+Entrance to Main Docking Bay 
+
+Morphology: Unknown 
+Info >> High levels of radiation detected.   
+
+Use the Beam [IMAGE] to open doors. 
+
+Grapple Beam malfunction. 
+
+Step into the hologram to download the map. 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+This door is tightly sealed and does not appear to be receiving power. 
+
+Frigate exterior hull stable and fully functional. 
+
+Main Ventilation Shaft Section A 
+
+Deck Beta Security Hall 
+
+Step into the hologram to activate the elevator. 
+
+Phazon Infusion Stage 4
+Larva diagnostic
+Mass 14.5       Length 40.3
+Cell structure failing. 
+
+The platform does not look like it can be activated from this room. 
+
+Entrance to Deck Alpha Umbilical Hall 
+
+Specimen Solitary Holding 4
+Phazon level >> Toxic
+Status >> Hermetic seal holding. 
+
+Main Ventilation Shaft Section B 
+
+Entrance to Map Facility 
+
+Force Field activation switches are now online. 
+
+Morphology: Space Pirate
+Status >> Death caused by acidic burns to body. Chemical type unknown. 
+
+Scan this enemy to find its weak spot. 
+
+Perimeter Defense Turret >> Disabled 
+
+Morphology: Space Pirate
+Status >> Death caused by removal of internal organs. 
+
+Entrance to Deck Beta Security Hall 
+
+Press and hold [IMAGE] to draw in pickups. 
+
+Main Ventilation Shaft Section C 
+
+Deck Alpha Access Hall 
+
+Entrance to Deck Beta Conduit Hall 
+
+Morphology: Parasite
+Interstellar vermin. Travel in swarms. 
+Parasite 
+Indigenous to Tallon IV, a single Parasite is harmless to larger life-forms. However, they tend to travel in large groups, swarming over potential prey. Such swarms can be dangerous. 
+
+Morphology: Unknown
+Info >> This specimen has been horribly mutated. There are no life readings. 
+
+Phazon Infusion Stage 3
+Mutation initiated.
+Larva Status >> Stable. 
+
+Ventilation tunnel to Navigation room. 
+
+Specimen Solitary Holding 3
+Phazon level >> Normal
+Status >> Hermetic seal holding. 
+
+Entrance to Air Lock 
+
+Press and hold [IMAGE] to lock onto targets. 
+
+Main Ventilation Shaft Section E 
+
+Infusion analysis 12.5 >>  
+  
+Phazon Batch 0003.H increases the acid production in the saliva ducts of Parasite Larva. 
+
+Ballistics support needed in Specimen Block F. 
+
+Parasite egg in pupa stage. 
+  
+Its tough exoskeleton protects it from its mother's acidic embryonic fluid. 
+
+Morphology:  Space Pirate
+Status >> Minimal injuries assessed.  
+  
+Use caution. Maximum firepower recommended. 
+
+Biohazardous materials
+Phazon Batch 0009.A
+Destination >> Deck Beta 
+
+Energy now flows through a series of locking mechanisms on the door's surface.  
+  
+An active power line trails away to an open clamp on the floor. 
+
+Ventilation covers may become superheated if airflow is restricted.  
+  
+Unusual thermal readings should be reported to the deck engineer on duty. 
+
+Reactor core critical!
+Evacuate immediately! 
+
+Entrance to Exterior Docking Hangar 
+
+It looks like a spherical shape would fit into this clamp. 
+
+Door cannot be opened until air lock is repressurized. Use the activation panel to repressurize room. 
+
+Perimeter Defense Turret >> Malfunction 
+
+Escape Pod 3 >> Launched
+Escape Pod 4 >> Launched
+Escape Pod 7 >> Launched 
+
+These creatures still contain a heat signature. They have not been here for very long. 
+
+DECK BETA >>
+Biohazard Research
+CURRENT STATUS >>
+Environment normal. 
+
+Biohazard Containment 
+
+Entrance to Cargo Freight Lift 
+
+Use the Scan Visor [IMAGE] to gather data in this area. 
+
+Specimen Cell C
+Status >> Unknown.
+Rejection of Phazon Compound detected. 
+
+Game was not saved. Energy fully replenished. 
+
+Parasitic infestation has been detected in the ventilation systems of Decks Gamma and Beta.  
+
+Entrance to Deck Alpha Access Hall 
+
+Use the Morph Ball to get through small areas.  
+
+Entrance to Biotech Research Area 1 
+
+Depressurization complete. 
+
+Main Ventilation Shaft Section D 
+
+Reactor Core Entrance 
+
+Infusion analysis 10.2 >>  
+  
+Specimens exhibit incredible strength and body mass increase when exposed to Phazon Batch 0732.C. 
+
+Connection Elevator to Deck Beta 
+
+Mutagen Tank 2
+Phazon Batch 0003.H 
+
+Morphology: Space Pirate
+Status >> Death caused by excessive blunt trauma to cranium. 
+
+This switch is directly connected to the Force Field barrier. 
+
+Morphology: Space Pirate
+Status >> Acid burns have welded the joints of the exoskeleton. 
+
+This energy conductor unit has been damaged. Use caution when approaching the arcing electricity. 
+
+Subject >> Auto Defense Turret
+Use Missiles to break outer casing. 
+Auto Turret 
+
+Entrance to Biohazard Containment 
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Connection Elevator to Deck Beta 
+
+Morphology: Parasite Queen
+Parasite female, genetically enhanced by unknown means. 
+Parasite Queen 
+A weak spot has been detected in this creature's mouth. Use your auto-targeting to acquire this new target!
+
+Scans indicate the presence of a potent mutagen, origins unknown. Creature exhibits the ability to fire weapon-grade blasts of energy from its mouth, a trait not present in the standard parasite genome. It appears the Pirates have begun a bioengineering program, with considerable results. 
+
+To Grapple, use [IMAGE] when the [IMAGE] icon appears. 
+
+Access to Deck Gamma approved.
+Please step into the hologram. 
+
+Biohazard waste removal may begin in 3 hours.  
+  
+Phazon radiation readings must be reported to deck commander before batch disposal. 
+
+Access to Deck Alpha approved.
+Please step into the hologram. 
+
+Although this debris is obstructing the hallway, it looks like it can be easily removed. 
+
+Phazon Infusion Stage 1
+Parasite larva diagnostic
+Mass  1.2       Length 0.5
+Cell structure stable. 
+
+Space Pirate encrypted data decoded.
+ 
+Fall of Zebes 
+Log 09.992.3
+
+Zebes has fallen. All ground personnel are presumed dead, either killed by the Hunter clad in metal or in the subsequent destruction of the underground facilities. Our research frigates Orpheon, Siriacus and Vol Paragom were in orbit at zero hour and managed to retreat. Frigate Orpheon is now docked at Vortex Outpost. Orpheon's cargo appears to have a 100% survival rate; Metroids are healthy but on restricted feeding schedules due to uncertain supply status. We are ready to begin research on the Metroids and other promising life-forms. Security status remains at Code Blue; no signs of pursuit from the Hunter. 
+
+Morphology: Ice Shriekbat
+Info >> Native of Tallon IV 
+
+Subject >> Meta Ridley
+Cerebral casing stable.
+Exoskeleton seal holding.
+Begin umbilical retraction. 
+
+Press and hold [IMAGE] to charge. Release to fire. 
+
+Scannable objects appear as orange targets. [IMAGE]  
+
+Meteor fragment. High concentration of radiation detected. Planet of origin unknown. 
+
+Specimen Solitary Holding 1
+Phazon level >> Unknown
+Status >>Xenotropic life-form unstable. Use caution. 
+
+Platform active. 
+
+Emergency Evacuation Area 
+
+Space Pirate Frigate 
+Space Pirate Frigate 
+
+Main Ventilation Shaft Section F 
+
+Deck Beta Transit Hall 
+
+Morphology: Space Pirate
+Status >> Death caused by severe lacerations.  
+  
+Subject looks like it has been partially eaten. 
+
+Species >> Space Pirate
+Status >> Weak life signs detected.  
+  
+Imprints of large bite marks can be seen on the exoskeleton. 
+
+Entrance to Reactor Core Entrance 
+
+Ruined Gallery 
+
+Metal structure heavily weakened. Sufficient blast trauma will likely result in complete destruction. 
+
+Reflecting Pool Access 
+
+The Great Poison corrupts all, even the Chozo. 
+
+Morphology: Eyon
+Immobile organisms entirely composed of ocular tissue.  
+Eyon 
+Capable of launching sustained energy beams when active, the Eyon is sensitive to light and will close shut if a bright flash ignites nearby. 
+
+Unusually high concentrations of poison identified in tree leaves. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Vast portions of tree's cellular structure have been consumed by toxins distributed through source water. 
+
+Chozo script translated. 
+Meteor Strike 
+We have returned to Tallon IV, borne here against our will by a great cataclysm from the reaches of space. A meteor came, casting a dark shadow of debris over the land with the violence of its impact. Though we perceived this from beyond space and time, it was but a curiosity; a brief flare in the infinite march of the universe. But the meteor brought with it corruption. A Great Poison burst forth into the land, clawing at life with such violence that we were ripped from our peaceful state and find ourselves wandering as shadows of the mortal forms we left behind, searching for why we are here. 
+
+Mechanical device appears to be inactive. Life-forms detected within hollows of machine.  
+
+This object resides at the end of a high channel set into the wall. 
+
+The grating has been broken, exposing the lock's key slot. 
+
+These blue orbs seem to be simple light sources. 
+
+The doors have been unlocked. 
+
+These pipes are part of an irrigation system. 
+  
+The source of the water is unknown, but all liquid in this area is toxic. 
+
+Scan indicates this network of vines is invulnerable to weapons fire. 
+
+Mechanical structure of bridge indicates it can be rotated.  
+
+Ice Beam acquired! 
+Press [IMAGE] to switch to the Ice Beam. White Doors can be opened with this weapon. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Vault Access 
+
+East Furnace Access 
+
+Arboretum Access 
+
+The path of corruption leads ever higher. 
+
+Mirror Array used to focus sunlight onto creature. It looks like it can be tilted, possibly to take it offline. 
+
+These pillars have collapsed from erosion. Carbon dating cannot determine the age of the structures. 
+
+Crossway 
+
+The field covering this slot is comprised of plasma-based energy. 
+
+A new path has been opened. 
+
+Drain cover destroyed. Pool is free of fluids. 
+
+That which fouls the waters seeks the Sun. 
+
+Tower of Light Access 
+
+Ruins Entrance 
+
+Elder Chamber 
+
+Morph Ball 
+
+Terrain analysis complete. Toxin levels near 90% in local water supply.  
+
+Gathering Hall Access 
+
+This small tunnel leads back behind the wall. Width of the opening is approximately 1 meter in diameter. 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Pillar is seriously damaged and in danger of collapsing. 
+
+Chozo script translated. 
+Contain 
+The world of living things feels strange to us, we who have existed so long on the edges of time and space. It is clear now that we Chozo can never return to our dimension, not while the Great Poison reaches ever further into the planet. It is so powerful, this creeping evil, that our wills are crumbling and our minds beginning to fail. And so, before it is too late, we now make our last stand. We have begun to build a temple to contain this darkness; at its heart we will place a Cipher, a mystical lock powered by twelve Artifacts and filled with as much power as we Chozo can harness in our ethereal states. Even when we are done, it may be too late. 
+
+Analysis indicates a viable attach point for the Grapple Beam.  
+  
+Your Grapple Beam was damaged from the explosion on the research frigate and cannot currently be used. 
+
+Walls appear to have been constructed with extreme delicacy around tree limbs. 
+
+The ledge this object rests on cannot be reached from this room.  
+
+Chozo runes translated. Holobanner text reads 'The Hall of the Elders.' 
+
+Passageway to Shrine 
+
+Chozo Ruins 
+Chozo Ruins 
+
+Arboretum 
+
+Water toxicity levels returning to safe levels. 
+
+Dynamo 
+
+Transport to Tallon Overworld East 
+
+Morph Ball Bomb 
+
+Sunchamber 
+
+Chozo script translated. 
+Hatchling's Shell 
+The Hatchling walks among us. Are these dreams? Memories? Foretellings? Time and reality swirl together like estuary waters, and we Chozo know not what to believe. She appears as ghostlike as the Chozo, but at times the mists clear. We see her wounded eyes, and remember the child we found so long ago. What has she become, this Newborn? Clad in Chozo armor, wielding weapons our hands once held, does she dream of the Chozo as we once were? Does she long for her parents, lost to the same creatures that even now defile our sacred home? Does she still live? 
+
+Liquid in this area returning to normal. Toxins within safety tolerances. 
+
+These large branches have been forcibly intertwined, forming what looks to be a bridge structure. 
+
+There is a Blast Shield on the door blocking access.  
+Missile Door Lock 
+Analysis indicates that the Blast Shield is invulnerable to Beam weapons. Explosive weapons may damage it. 
+
+This machine is now fully functional. 
+
+This machine is now fully functional.  
+
+Spider Ball augmentation required. 
+
+Crevice inhabited by large, active life-form. 
+
+Water analysis readings show unusually high toxicity.  
+
+Overwhelming toxin levels have rotted all leaves. 
+
+Furnace 
+
+Luminescent cylinders functioning at 80%. 
+
+Basic systems appear to be operational. Device should operate once power has been restored.  
+
+Gathering Hall 
+
+Roots originate over walls. No decomposition detected; host plant appears to thrive on toxic water. 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+The field covering this slot has temperature qualities similar to ice. 
+
+No structural weaknesses detected in metalwork. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Morphology: Plated Puffer
+Mutated Puffer with reinforced epidermis. 
+Plated Puffer 
+Phazon exposure has created a mutant strain of Puffers on Tallon IV. They have developed plated skin, making them harder to burst. Concussive weapons can still do the job, however. The gas within the Plated Puffer is just as deadly as that within their 'cousins.' 
+
+Water toxicity levels returning to safe levels. 
+
+Chozo script translated. 
+Hatchling 
+As we struggle with the Great Poison, something stirs at the edges of our vision. It is the Hatchling Samus. We feel her, across the void, as she hunts the corrupted. Will our fates again be one? As our pride shatters, will prophecy become real? When all strength wanes from the Chozo, will it be the Hatchling who fulfills our legacy? True sight eludes us, for the Poison gnaws at all vision, leaving seers blind and filled with despair. Truth's blessing may come too late. 
+
+Stress points present in Brinstone wall. 
+  
+A concussive blast may shatter it. 
+
+Structure: Ruined War Wasp Hive 
+Ruined Hive 
+War Wasps are resourceful insects. The destruction of a hive will not deter the survivors from rebuilding a new home. Surviving War Wasps will defend new sites with their lives until the hive is complete. 
+
+The machine connected to this slot is currently functioning. This slot has turned itself off. 
+
+An ornate wall hanging with a highly reflective surface. It does not appear important. 
+
+This large metal gate blocks entrance to the area beyond. Four runic symbols adorn its surface. 
+  
+Matching symbols within this room must be scanned to gain access here. 
+
+Piston Tunnel 
+
+Boost Ball upgrade required. 
+
+Access to Tallon Overworld North granted. Please step into the hologram. 
+
+This Cordite statue is worn and weathered. 
+  
+Scan indicates the presence of a Power Conduit behind the statue.  
+
+Transport Access South 
+
+The machine connected to this slot is currently functioning. This slot has turned itself off. 
+
+Power Bomb Expansion. Increases the number of Power Bombs you can carry. 
+Power Bomb Expansion 
+
+Access to Tallon Overworld South granted. Please step into the hologram. 
+
+Mechanoid: Incinerator Drone
+Programmed for high temperature waste disposal. 
+Incinerator Drone 
+Device schematics indicate a high risk of malfunction when internal power core is damaged. Unit has minimal combat programming, but can defend itself if necessary. This drone's intense heat blasts compensate for its lack of battle prowess. 
+
+Crossway Access West 
+
+It appears this item can only be reached by using the elevated bridge. 
+
+These metal gates block entry to the center of the room. 
+
+Toxicity levels critical. Contact with contaminated water extremely hazardous. 
+
+Morphology: Ram War Wasp
+Airborne predator. Circles its prey and then strikes. 
+Ram
+War Wasp 
+The War Wasps are the only species on Tallon IV to evolve a true hive mind. Nesting in damp, dark places, Ram War Wasps emerge in small groups when threatened and circle their enemy at high speeds, disorienting it. Striking from all sides as a single intelligence, they can fell huge organisms.  
+
+Nursery Access 
+
+Morph Ball Bomb acquired! 
+While in Morph Ball mode, press [IMAGE] to drop a Morph Ball Bomb. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Analysis suggests the presence of a runic symbol here. 
+
+Elder Hall Access 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+When this device was activated, the water level in the other room was reduced.  
+The water may not stay drained for long, as this machine already seems to be losing power.  
+
+You have downloaded the map for this area. 
+Press [IMAGE] to access the map. When you're finished, press [IMAGE] again to resume play. 
+
+Chozo script translated. 
+Fountain 
+At the highest point of our city lies the fountain, a wellspring of pure water that flows throughout our civilization. It is the jewel of the Chozo, the life-giver, and yet its waters speak of a clouded future. As we come to understand the paths of time and space more clearly, we have begun to glimpse rough tatters of past and future, glittering behind reality like soft lights behind a curtain. We have seen the fountain in these glimpses, pouring darkness instead of water, and we cannot guess what the visions mean. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Transport to Tallon Overworld South active. 
+
+This appears to be the second of three locking mechanisms that seal the gate. 
+  
+The lock is active but its key slot is sealed by a weak metal grating. 
+
+Map Station 
+Map Station 
+Walk into Map Station holograms to download a map of the area you're in. 
+
+One of Flaahgra's tentacles fills this narrow drainage channel. 
+Flaahgra Tentacle 
+Analysis indicates that Flaahgra's central nervous system is located at the base of this structure. 
+
+Energy fully replenished. 
+
+Whereabouts of retraction device for wall currently unknown. 
+
+Toxicity levels elevated. Analysis indicates proximity to source less than 300 meters. 
+
+Safety shield offline. Use caution near window. 
+
+Save Station 2 
+
+This device has been previously used. It has shut itself off. 
+
+Ice Beam 
+
+This door can only be opened from the other side. 
+
+Analysis indicates a viable attach point for the Grapple Beam. 
+Grapple Point 
+To use the Grapple Beam, use [IMAGE] when the [IMAGE] icon appears. 
+
+Unidentifiable obstruction approximately 1 meter wide blocks the hole. 
+
+The gate has been unlocked. 
+
+Chozo script translated. 
+Newborn 
+The power of our temple has been enough to halt the spread of the poison on Tallon IV, but that which remains thrives and grows more concentrated, gnawing on itself in the dark passages beneath the planet's surface. Whether it can ever be truly destroyed is not for our eyes to see. But there is something else. We Chozo are drifting, tumbling through space and time as the Great Poison eats away at our sanity. We wake in dreams. As the veil of lunacy descends, as past and future blend and shuffle, one image appears and flickers through the landscape, wraithlike. It is the Hatchling, the Newborn, walking the path of corruption, a lone figure shining in the toxic shadows. She comes dressed for war, and her wrath is terrible. Do our eyes look backward, seeing the Hatchling as she once was? Or does she approach even now, arriving in our race's last hour, a savior clothed in machines crafted long ago by Chozo hands? Poisonous clouds drift across our vision. 
+
+Cause of ceiling's collapse not recorded. 
+
+Analysis indicates significant amounts of water once present in this location. 
+
+Morphology: Plazmite
+Small insect capable of storing and releasing thermal energy. 
+Plazmite 
+Plazmites are attracted to sources of heat, thriving on the energy present there. They emit light when hunting, and will expel small bursts of thermal energy when threatened. 
+
+Morphology: Oculus
+Wall-crawler that generates electric pulses. 
+Oculus 
+The Oculus exposes its single eye when active. The electrical field that covers it is enough to deter most predators. If the Oculus detects anything capable of presenting a real threat, it retracts into its impermeable shell. 
+
+Eyon Tunnel 
+
+Transport to Tallon Overworld East active. 
+
+Missile Launcher 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+When decay flows, the Hatchling will walk a poisoned path to the source. 
+
+Something behind the wall seems to have been activated. 
+
+These branches block most of the tunnel, but there is a small opening near the floor. 
+
+Truth awaits you in a sacred hall. 
+
+Wavebuster 
+
+Structural weaknesses detected throughout wall. 
+
+Toxicity levels critical. Contact with contaminated water extremely hazardous. 
+
+Toxicity levels critical. Contact with contaminated water extremely hazardous. 
+
+Missile Expansion acquired!  
+Maximum Missile-carrying capacity increased by 5. 
+
+Structural weakness detected in Sandstone block. 
+
+The field covering this slot is comprised of an energy signal that appears to be affected by cold. 
+
+Chozo script translated. 
+Hope 
+More and more, our tormented minds turn to the Newborn. As the world continues to shift into brutal, disconnected images, she remains inarguably real; a fearless figure delving deeper into this blighted world, unmindful of the terrors that await her. Was she this way before? When we Chozo found her, a fledgling orphaned on a savaged planet, did a warrior?s pulse already beat in her veins, filling her with righteous fury? Our hopes lie with her. We leave these messages for her, that she may find our Artifacts and deliver the world from its evils. Wraiths we may be, but our reach is still long indeed. We shall fight the invaders, and the Poison they would master, until the end. 
+
+Door cannot be opened with that weapon. 
+
+Some sort of plug is covering this slot. Minor energy readings indicate that a small explosive device is installed. 
+Additional scans indicate that the detonator for the device is located somewhere of high altitude. 
+
+Watery Hall Access 
+
+Mechanoid: Hive Mecha
+Security unit programmed to work with predatory hive dwellers. 
+Hive Mecha 
+A design flaw makes the shielding on Hive Mecha weak around their access ports. These units are second-generation combat drones, able to interface with organic units at a higher level. They train, shelter, and work with hive-dwelling predators. Unarmed, they rely on their hive beasts to handle any threats. 
+
+The only translatable symbol detected on this sculpture is the word 'Chozo.' 
+
+Morphology: Plated Parasite
+Hardy member of the Parasite family. Invulnerable to most weaponry. 
+Plated Parasite 
+A cousin to the Parasite, these creatures are known for their amazing resilience. Field studies suggest a weakness to Morph Ball-delivered weapon systems. 
+
+Drainage shutoff is holding. Maintaining the water level of the reflecting pool at 95%. 
+
+Water toxicity levels returning to safe levels. 
+
+This tree seems to be weakened due to cellular decomposition. 
+
+This Cordite wall hanging appears to be slightly cracked.  
+
+Chozo Artifact acquired! 
+This is the Artifact of Lifegiver, the fifth of twelve. 
+
+Structure: War Wasp Hive
+Primary War Wasp dwelling. Only vulnerable to heavy weaponry. 
+Hive 
+War Wasps build their homes over existing crevices, using whatever materials are close at hand. They carry building fragments back to the construction site with their forelegs and glue them into place with adhesives secreted from their abdomens. 
+
+Transport to Magmoor Caverns North 
+
+Sun Tower 
+
+Intense heat readings detected behind this door. 
+
+North Atrium 
+
+Ruined Fountain 
+
+This machine is now fully functional.  
+
+Varia Suit acquired! 
+Dangerous areas of heat are now accessible. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+These leaves appear to be unnaturally dried and withered. 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+This pillar no longer provides structural support. 
+
+Morphology: War Wasp
+Airborne insect equipped with a venomous stinger capable of shearing steel.  
+War Wasp 
+The War Wasp rarely strays far from its hive unless it is pursuing an immediate threat. It attacks with no regard for its own survival, dive-bombing its enemy with stinger extended. Fast-working toxins from the stinger can incapacitate most small organisms. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Hall of the Elders 
+
+Ruined Shrine 
+
+This is a Puddle Spore 
+Alpha Puddle Spore description 2 
+Alpha Puddle Spore description 3 
+Alpha Puddle Spore description 4 
+
+Stonework in sample region has been refined to atypical smoothness. 
+
+Game has been saved. Energy fully replenished. 
+
+Burn Dome Access 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Use [IMAGE] and tap [IMAGE] to dash while locked on. 
+
+This appears to be the third of three locking mechanisms that seal the gate. 
+  
+The lock is active and its key slot is open. 
+
+The field covering this slot is comprised of an energy signal that appears to be affected by heat. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Wavebuster acquired! 
+This powerful attack uses Missiles while active! Using the Wave Beam, press and hold [IMAGE] to charge, then press [IMAGE] to fire. Hold [IMAGE] for continuous fire. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Machine is inactive. 
+
+Lock system engaged. Secure the area to unlock door. 
+Locked Door 
+
+This elevated bridge looks worn, but functional. 
+
+This decorative gate is obstructing passage through the doorway. Four runic symbols adorn its surface. 
+  
+Matching symbols within this room must be scanned to gain access here. 
+
+Training Chamber 
+
+West Furnace Access 
+
+Meditation Fountain 
+
+Standard Morph Ball slot. This slot is active. 
+Morph Ball Slot 
+Inserting the Morph Ball and detonating a Bomb will usually cause these slots to send electrical impulses that can activate different types of devices. 
+
+Chozo sculpture crafted in honor of Tallon's star. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Hive Totem 
+
+Toxicity levels within safety tolerances. 
+
+This etching resembles a birdlike creature.  
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Transport Access North 
+
+Reflecting Pool 
+
+Varia Suit 
+
+The Elder's greatest power lies beyond the second lock. 
+
+This object rests at the top of a very smooth inclined slope. 
+
+Training Chamber Access 
+
+Inactive platform lift detected. Its functions should return once power has been restored. 
+
+Ruined Shrine Access 
+
+The Great Poison comes from Tallon's core. 
+
+Elevated toxicity levels found in tree bark. 
+  
+Scans indicate a poisoned water source within 4 meters of tree base.  
+
+These stones appear to have fallen from the walkway above. 
+
+Large stress fractures can be seen on the surface of this Brinstone pillar. 
+
+Energy Tank acquired!  
+Maximum energy capacity increased by 100. 
+
+Missile Expansion. Increases the number of Missiles you can carry by 5. 
+Missle Expansion 
+
+Transport to Tallon Overworld South 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+Morphology: Pulse Bombu
+Life-form of raw energy. Periodically releases explosive segments from its body. 
+Pulse Bombu 
+Pulse Bombus are energy beings, invulnerable to most known weapons. Electrical energy can harm them, however. They lack any intelligence beyond an instinctive attraction to other charged energy sources. Pulse Bombus produce energy constantly. All excess energy is shed, regardless of who or what may be nearby. 
+
+Fountain choked by overgrowth. Toxin levels are high. 
+
+Charge Beam 
+
+Morph Ball acquired! 
+Press [IMAGE] to activate Morph Ball mode. Use the Control Stick to move the Ball around. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Identified as statue of a Chozo Elder. 
+  
+According to Chozo lore, these statues served as the watchful guardians of tombs and shrines. Its outstretched hands are empty, as if awaiting an offering. 
+
+Sunchamber Lobby 
+
+Unable to access magnetic rail system. 
+
+Save Station 3 
+
+Burn Dome 
+
+Ruined Nursery 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Antechamber 
+
+Save Station 1 
+
+Chozo script translated. 
+Infestation 
+A second plague has come upon the land, dousing the last flickering hopes of our race. Drawn by the very force we Chozo hoped to contain, a host of marauding creatures descended from space and invaded our temple, the Cradle. They try in vain to destroy it, but its power remains beyond them for now. They possess some of the twelve Artifacts we call the Cipher, yet do not comprehend their function. Ignorant creatures, they are blinded by delusions of harnessing the Great Poison for their own designs. They walk about as masters of the planet, assimilating the ruins of our sanctuary into their experiments. We can but watch and wait for our doom. 
+
+The machine connected to this slot is currently functioning. This slot has turned itself off. 
+
+Species: Tangle Weed
+Plant life with basic sentience. Retracts into ground if threatened.  
+Tangle Weed 
+Tangle Weeds are only dangerous to small organisms. They are covered in tiny barbs designed to trap potential meals. Tangle Weeds lack the strength to do anything more than hinder larger life-forms. 
+
+The field covering this slot is comprised of a wavelike energy signal. 
+
+Safety shield online. Window secure. 
+
+The field covering this slot is comprised of an erratic energy wavelength. 
+
+Missiles fully replenished. 
+
+Lethal toxin levels recorded. All waterborne microscopic life-forms eradicated. 
+  
+100% extinction rate predicted for local ecosystem within a three-cycle period. 
+
+Chozo Artifact acquired! 
+This is the Artifact of World, the tenth of twelve. 
+
+The water has shorted out this slot mechanism. It is inoperable. 
+
+Floor ventilation fan still functional despite multiple failed electrical connections. 
+
+Watery Hall 
+
+This device was previously activated and shut itself off automatically. 
+
+This part of the gate is now unlocked. 
+
+Liquid in this area returning to normal. Toxins within safety tolerances. 
+
+Structural weakness detected in Sandstone block's core. 
+
+This small tunnel leads back behind the wall. Width of the opening is approximately 1 meter in diameter. 
+
+Transport to Magmoor Caverns North active. 
+
+Tower Chamber 
+
+Dynamo Access 
+
+Fountain cleared of overgrowth. Water free of toxins. 
+
+Species: Blastcap
+Volatile chemicals within this weed's toxic fungal cap may explode if agitated. 
+Blastcap 
+The poisonous flesh of the Blastcap helps keep it from being eaten. It also detonates its fungal cap when it senses even slight contact.  
+
+Aberration: Chozo Ghost
+Spectral entity. Bioelectric field invulnerable to natural energies.  
+Chozo Ghost 
+As these entities phase in and out of existence, the only way to track them accurately is with x-ray scanning. This partially phased nature makes them invulnerable to natural energy types, such as fire, ice, and electricity. Their aggressive and erratic behavior is most likely due to the corrupting effects of Phazon in the Tallon IV environment. They appear to be drawn to Chozo religious sites, where they wreak havoc upon anything that dares enter the area. 
+
+Identified as statue of Chozo Elder. Chozo lore indicates these statues protected tombs from evil spirits. 
+
+Totem Access 
+
+Progress requires Morph Ball augmentation. 
+
+Chozo Artifact 
+
+Chozo Artifact acquired! 
+This is the Artifact of Wild, the fourth of twelve. 
+
+This petrified organic matter looks like a rock carved into the shape of an eye. 
+
+Chozo script translated. 
+Beginnings 
+Our sanctuary grows by the day. We Chozo know much of technology, but we have chosen to leave it behind on this journey. Our home here on Tallon IV will be a place of simplicity: structures hewn from the stone, bridges woven with branches, hallways caressed by pure waters. We build around the ancient and noble trees, drawing from their strength and giving them our own in return. All that is wild will flow around us here; our race will be just one more group of creatures in the knit of nature. It is our hope that such a state will bring with it great wisdom, a greater understanding of the nature of the universe. Once our city here is complete, we will peer inward and discover the truth. 
+
+Moderate mechanical activity indicates machine is still active. 
+
+Magma Pool 
+
+Main Plaza 
+
+Morphology: Reaper Vine
+Powerful rock-dwelling tentacle. 
+Reaper Vine 
+A single eye upon the Reaper Vine keeps a constant vigil, but its vision is limited to 10 meters. A scythe-like appendage on its tip is honed to lethal sharpness. The Reaper Vine will swing this blade wildly at anything that enters its zone of perception. 
+
+Fractures detected in Talloric Alloy drain cover. 
+  
+The cover still functions, but its integrity is unstable. 
+
+Radiation collector designed to absorb and store solar energy. They appear largely decorative. 
+
+Crossway Access South 
+
+Sunchamber Access 
+
+Access to Magmoor Caverns North granted. Please step into the hologram. 
+
+Power Bomb Expansion acquired!  
+Maximum Power Bomb carrying capacity increased by 1. 
+
+Multiple microscopic fractures found throughout Sandstone wall section.  
+
+Water toxicity levels returning to safe levels. 
+
+Violent breach in floor's structure caused large-scale collapse. 
+
+Ruined Fountain Access 
+
+Tower of Light 
+
+Morphology: Shriekbat
+Territorial ceiling-dweller. Body temperature peaks at 121° centigrade. 
+Shriekbat 
+Shriekbats have high internal temperature, making them easy to spot with thermal imaging. They roost on cave ceilings while hunting for small prey. Fiercely territorial, they dive-bomb anything that wanders near. 
+
+Game was not saved. Energy fully replenished. 
+
+Morphology: Scarab
+Exploding parasites that can embed their bodies in solid rock. 
+Scarab 
+Scarabs think nothing of sacrificing themselves for the safety of their swarm. When a hostile life-form is sighted, they block its progress by embedding themselves in floors and walls. Embedded Scarabs violently self-destruct when threatened. 
+
+Chozo script translated. 
+Exodus 
+We Chozo are departing now, after so many years in peaceful seclusion here on Tallon IV. When we came, this place was a refuge for our spirits, a civilization built from native materials, bereft of the trappings of our technology. We were linked to the land here, kindred to the plants and animals, far away from the machines we had become so dependent on. And so we leave it now, pristine, a testament to the mortal forms we no longer need. We have drawn the veils of time and space aside, and are withdrawing beyond the illusion. But we will never forget this, the most sacred of our homes. And we will remain ever watchful. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Structural integrity of metal is stable. No flaws detected. 
+
+This appears to be the first of three locking mechanisms that seal the gate. 
+  
+The lock is active but its key slot is sealed by a weak metal grating. 
+
+Morphology: Plated Beetle
+Well-armored burrowing insect. Vulnerable only in the rear abdomen. 
+Plated Beetle 
+Creature's thick cranial plating can repel frontal attacks. This gives it an advantage in combat, allowing it to make ramming attacks. Only surfacing when it detects vibrations above, it then maneuvers itself so as to always face its rival, keeping its exposed abdomen protected. 
+
+Trace sediments indicate water once flowed here. 
+
+Records show all water in the area has evaporated. 
+
+Toxicity levels of this water are very high. Contact with contaminated liquid extremely hazardous. 
+
+Records indicate superstructure has stabilized; further collapse unlikely. 
+
+Transport to Tallon Overworld North active. 
+
+Drainage possesses traces of high-level toxins. 
+
+This Grapple Point is too far away to use. 
+
+The Bendezium portion of the floor here is weak. 
+  
+Structural weakness due to supersaturation of water. 
+
+Toxicity levels critical. Contact with contaminated water extremely hazardous. 
+
+Morphology: Stone Toad
+Preys on creatures smaller than itself. Vulnerable only from within. 
+Stone Toad 
+A Stone Toad is able to remain still for days. It preys upon creatures smaller than itself, inhaling them whole. Anything it finds undigestible, it regurgitates. Stone Toads use their tusks as a last resort in combat. 
+
+Charge Beam acquired! 
+Press and hold [IMAGE] to charge. Release to fire. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Energy Core Access 
+
+Morphology: Beetle
+Burrowing insect with a resilient carapace. Extremely aggressive. 
+Beetle 
+Insect's massive mouth enables it to tunnel through solid rock at high speeds. Above ground, Beetles can cover short distances rapidly. They attack anything that moves near their lair. 
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+The time of prophecy draws ever closer. 
+  
+It is said that when the plants wilt, and the creatures change, and all life fades, the Newborn will descend from the sky.   
+
+This decorative object is obstructing the path along a magnetic track. Four runic symbols adorn its surface. 
+  
+Matching symbols within this area must be scanned to gain access here. 
+
+Morphology: Barbed War Wasp
+Airborne insect with the ability to launch its stinger at prey. 
+Barbed
+War Wasp 
+A highly aggressive member of the War Wasp family, this insect can propel the tip of its stinger up to 20 meters. The stinger tips regrow seconds after launch and contain an acidic compound designed to predigest prey.  
+
+This runic symbol has been activated. 
+  
+Four runic symbols in this room must be activated.  
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Missile Station 
+Missile Station 
+Step into these stations to fully reload your Missile Launcher. 
+
+This Bendezium wall has numerous fractures. 
+
+This Cordite wall hanging appears to be slightly cracked.  
+
+Energy Tank. This item permanently increases your maximum energy capacity by 100 units. 
+Energy Tank 
+
+Only the holder of twelve shall face the Worm. 
+
+Derelict mechanism once controlled the water pump. Currently nonoperational. 
+
+Species: Venom Weed
+Poisonous plant that retracts into the ground if threatened. 
+Venom Weed 
+Venom Weeds evolved to thrive in the habitats of large organisms. They lure prey with brightly colored leaves, then detain it with tiny barbs that deliver a powerful toxin. Venom Weeds rapidly decompose anything that succumbs in their midst. 
+
+Sun Tower Access 
+
+Vault 
+
+The only translatable symbol detected on this sculpture is the word 'Chozo.' 
+
+Chozo script translated. 
+Worm 
+The prophecies tell of the coming of the Worm. Born from parasites, nurtured in a poisoned womb, the Worm grows, devouring from within, until the world begins to rot. The words of the seers have come to pass, for there, in the depths of the world, the ravenous Worm lurks and feeds. From the stars it came, blighting Tallon with its Great Poison. We can but watch as the Worm grows, watch and wait. For the prophecies also speak of a great Defender, the one who delivers the world from evil. The final days draw near. Is the Newborn the Defender of which the seers spoke? We shall do all that we can to aid her, for she bears our legacy as she bears the ancient armor and weapons of our people. 
+
+Map Station 
+
+Toxin concentration at 98%. Contact considered extremely hazardous. 
+
+This device is emitting a high frequency signal. This may be the cause of the War Wasp swarms. 
+
+Toxin scans negative. Water is free of poison. 
+
+Plaza Access 
+
+Energy Core 
+
+East Atrium 
+
+Transport to Tallon Overworld North 
+
+Morphology: Flaahgra
+This mutant plant is the source of toxic water in the Ruins.  
+Flaahgra 
+Flaahgra's growth cycle has been radically accelerated. As a result, it requires near-constant exposure to solar energy to remain active. This exposure has made Flaahgra's outer shell thick and durable. Its lower root system is unprotected and vulnerable, however. Exploit this flaw when possible. Concentrated weapon fire can daze it for short periods. 
+
+Heat level critical. 
+Life support failing. 
+
+Structural weaknesses detected throughout Sandstone wall. 
+
+When this device was activated, several platforms in the other room changed position.  
+The platforms may not stay in their new position for long, as this machine already seems to be losing power.  
+
+Access to Tallon Overworld East granted. Please step into the hologram. 
+
+Chozo script translated. 
+Cradle 
+The cries of this dying land pulled us from our dreaming state, and now we Chozo walk as ghosts while the Great Poison sinks into the trees and waters, devouring all life. Some creatures survive, but their forms grow as twisted and evil as the force that fell from the sky. The heart of the planet will succumb soon, and so will we, even in our ghostly states. Already many Chozo have faded and passed into the unknown. The Great Poison is unlike anything we have glimpsed in this or any dimension. It eats relentlessly, worming out life wherever it blooms and corrupting what it cannot kill. It will be our undoing. Our last hope lies in the Cradle, the temple we hope might contain this abomination. It is almost complete, hovering over the impact site, the dark heart of the spreading evil. If we can finish before the last of our kind drifts into madness or death, there is a chance for this world. If we fail, we are doomed with it. 
+
+Missile Launcher acquired! 
+Press [IMAGE] to fire. Press [IMAGE] to switch back to Beams. Missiles can destroy some Blast Shields on doors. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Structural weaknesses detected throughout Sandstone wall. 
+
+Inform Command that thermal vision tests will begin soon. 
+  
+Abnormal heat traces are represented as red when looking through the Thermal Imaging spectrum. 
+
+Plasma Artillery Cannon. Unit has extreme thermal signature due to lack of shielding.  
+  
+Cannon connected to energy-siphon systems to augment performance. Avoid Beam weapon fire when energy-siphon unit is active. 
+
+The ice covering this opening can be melted with extreme heat. 
+
+Space Pirate encrypted data decoded.
+ 
+Phazon Infusion 
+Log 10.957.2
+
+Confidence is high regarding Phazon applications. We know enough about Phazon now to begin combining it with Space Pirate DNA. The code name for this venture will be 'Project Helix'. Preliminary studies indicate that Phazon infusion could produce radical new Pirate genomes. Benevolent mutation levels are high in current test subjects. Phazon madness is a concern, but refinements in the infusion process should reduce or neutralize the odds of mental degeneration. 
+
+Hydra Lab Entryway 
+
+Chozo Artifact acquired! 
+This is the Artifact of Sun, the ninth of twelve. 
+
+Metroid brain scan results in. 
+  
+Studies show accelerated activity in parietal lobe during hunting cycles at temperatures above 10° centigrade.  
+
+Frost Cave Access 
+
+Central tank auxiliary circuit connection terminated. 
+
+Chief Astrogation Officer feels our current dual holoprojector system is obsolete. Please review and advise. 
+
+Morphology: Space Pirate
+Sentient aggressor species well trained in weapon and melee combat. 
+Space Pirate 
+Space Pirates wield Galvanic Accelerator Cannons and forearm-mounted Scythes in combat. This species seeks to become the dominant force in the galaxy, and their technology may help them realize this goal. Ruthless and amoral, the Pirates care little for the cost of their ambition. Only the results matter, and they take these very seriously. 
+
+The doors have been unlocked. 
+
+Transport to Magmoor Caverns South active. 
+
+Viral pathogens found in several Xenomes have been traced to Phazon batch 1664.Z. Terminate all subjects. 
+
+Hunter Cave 
+
+Planet Zebes
+Mass: 4.8 trillion teratons.  
+Zebes 
+Profile: Planet's crust is primarily Urthic ore, making it ideal for subterranean construction. A class XIX planet, Zebes is inhospitable to most bioforms. The world was considered unremarkable until it became a base for Space Pirate forces. 
+
+Research Lab Aether 
+
+Containment temperature stable at 3° centigrade. Environmental diagnostics satisfactory. 
+
+All ballistics support personnel report to Research Lab Hydra. 
+  
+Lockdown containment plan 3A in effect until further notice.  
+
+Holographic spatial schematic is in lockdown per security directive 2.23.445. 
+
+Empty stasis tank used for biological specimens. 
+  
+Latent radiation readings indicate specimen was highly irradiated. 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Analysis indicates a viable attach point for the Grapple Beam.  
+  
+Your Grapple Beam was damaged from the explosion on the research frigate and cannot currently be used. 
+
+This ice blocks a tunnel. 
+  
+A blast of heat should be able to clear it out of the way. 
+
+This device is currently not active. 
+
+Space Pirate encrypted data decoded.
+ 
+Glacial Wastes 
+Log 10.664.2
+
+Research outpost Glacier One in the Phendrana Drifts region of Tallon IV's mountains is operating at 85% capacity. Sub-zero temperatures have made the Metroids sluggish and easy to control, even those well into Phazon-infusion cycles. Cold-containment stasis tanks are sufficient for the juveniles, but some of the larger Metroids have been moved to quarantined caves for safety purposes. Security doors remain an issue, as malfunctions due to ice occur every day. Large predators in the wastes are also a concern, as they continue to kill personnel and breach secure areas. Unfortunately, it has become clear that our containment teams cannot neutralize all of them without a vast increase in munitions and soldiers. 
+
+Morphology: Flying Pirate
+Pirates trained and equipped for airborne assault. 
+Flying Pirate 
+Flying Pirates are extremely agile in the air, but the heat signatures of their jet packs can be tracked with Thermal Imaging. While their Missiles are extremely potent, their jet packs can be even more so. If the pack fails, they will make a suicide strike.  
+
+Impact core is estimated to be 800 meters from termination point of Phazon vein Omikron. 
+
+Planet Bilium
+Mass: 3.8 trillion teratons. 
+  
+Profile: QUARANTINE. Atmosphere is rife with Miteralis, a sentient gaseous Global Exterminator virus.   
+
+Phendrana Canyon 
+
+Quarantine Access 
+
+West Tower Entrance 
+
+Upper Edge Tunnel 
+
+Save Station C 
+
+Platforms are now offline. 
+
+There is a Blast Shield on the door blocking access.  
+Missile Door Lock 
+Analysis indicates that the Blast Shield is invulnerable to Beam weapons. Explosive weapons may damage it. 
+
+Ice Ruins East 
+
+Schematics for Research Lab Hydra accessed. 
+  
+To access Research Lab Hydra, proceed through the Purple Doors to the south. 
+
+Progress hindered by liquid environment. 
+
+Spider Ball augmentation required. 
+
+Phazon Infusion, Stage 6. Subject Metroid BR5497. 
+  
+Subject's mass at 180% of previous Phazon cycle. Increasing dosage by 4%. 
+
+Project Titan specimen is immobilized in Quarantine Cave. 
+  
+Relocation is recommended due to increased violent activity. 
+
+Specimen 102 >> Increased volatility recorded. Predator awareness indicated even in cold stasis. 
+
+Frozen Pike 
+
+Specimen 070 >> Optimal absorption mutation has led to unexpected degeneration of internal organs. 
+
+Ruined Courtyard 
+
+As energy-based creatures, Metroids show immediate mass increases upon energy absorption. 
+
+Research Entrance 
+
+Access to Magmoor Caverns West granted. Please step into the hologram. 
+
+Temperature-affiliated behavioral index for Metroids is available at all research terminals. Access code LIF-22. 
+
+Elevator operational.
+Please step into the hologram. 
+
+Morphology: Ice Burrower
+Burrower adapted to subfreezing climates. 
+Ice Burrower 
+A hardy life-form, the Ice Burrower has adapted to the frigid clime of Phendrana. It spends most of its time tunneling through the frozen soil, but will occasionally surface to attack passersby. 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+This tank holds the remains of experiment 7526. Conversion of Elite Pirate unsuccessful. 
+
+Storage Cave 
+
+Metroids infused with Phazon Strain Vertigo are thriving.  
+  
+We feel they could be Class I Energy Harvesters if proper submission measures are employed. 
+
+Morphology: Metroid
+Energy-based parasitic predator. 
+Metroid 
+The dominant species of planet SR388, Metroids can suck the life force out of living things. A Metroid will latch onto its prey and drain energy, growing larger as it does. The only way to shake an attached Metroid is to enter Morph Ball mode and lay a Bomb. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Specimen 002 >> Euthanized 12.091.4 after psychotic episode. Scheduled for removal. 
+
+Transport to Magmoor Caverns West active. 
+
+Observatory 
+
+Research Core 
+
+Canyon Entryway 
+
+This Cordite statue is worn and weathered. 
+  
+Scan indicates the presence of a Power Conduit behind the statue.  
+
+Encrypted data found.
+Downloading to Log Book... 
+Parasite Larva 
+Log 10.515.8
+Our initial tests exposing Tallon IV?s indigenous parasites to Phazon appear to be successful. Increases in strength, size and aggressiveness are common in all test subjects, as well as unforeseen evolutions like additional poison sacs within the abdomen and the appearance of a second ring of mandibles in several subjects. These creatures were chosen because of their resilience, and it appears possible that, given enough exposure to Phazon, they may one day be able to survive on any planet we transport them to. Our methods will have to be refined; we currently have a 100% extinction rate after the fourth infusion period, and most survivors of the third infusion stage are so violent and uncontrollable that they have to be euthanized. Even still, we remain hopeful that further experimentation will result in success. 
+
+Mechanoid: Sentry Drone
+Well-armed and armored security mecha.  
+Sentry Drone 
+Sentry Drones have limited intelligence, but do their assigned tasks well. Being machines, they are susceptible to electrical attacks. When alerted, Drones initiate a security lockdown, then attempt to neutralize the intruder. Their electronic warfare suit can scramble Visor technology as well. 
+
+Planet Oormine II
+Mass: 2.3 trillion teratons.  
+  
+Profile: An uninhabitable wasteland savaged by nuclear dust storms and constant seismic upheavals. 
+
+A statue depicting a Chozo balancing the plane of existence on his hands.  
+
+Power Bomb Expansion. Increases the number of Power Bombs you can carry. 
+Power Bomb Expansion 
+
+Upper node of astronomical holographic projector is retracted and inactive. 
+
+Warning: Do not handle sedated Xenomes without proper ice containment equipment.  
+
+Force Field accessible only through Space Pirate bio-imaging. Impossible to breach. 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+Shoreline Entrance 
+
+You have downloaded the map for this area. 
+Press [IMAGE] to access the map. When you're finished, press [IMAGE] again to resume play. 
+
+Metroid containment fields appear 100% effective after adjustments. 
+  
+Temperatures below 10° centigrade will render Metroids docile. 
+
+Map Station 
+Map Station 
+Walk into Map Station holograms to download a map of the area you're in. 
+
+Transport active. 
+
+Energy fully replenished. 
+
+Thermal Visor interfaces will be sent to Quarantine area.  
+  
+These Visors will be useful for any personnel involved in transport of the unstable test subject there. 
+
+This is a statue depicting the bust of a Chozo warrior.  
+  
+This statue is flawless. 
+
+Ice Ruins West 
+
+This device has been previously used. It has shut itself off. 
+
+Chapel of the Elders 
+
+Analysis indicates a viable attach point for the Grapple Beam. 
+Grapple Point 
+To use the Grapple Beam, use [IMAGE] when the [IMAGE] icon appears. 
+
+Xenome S-a is undergoing relocation to Lab Hydra. 
+  
+Subject's transfer ordered after a pronounced increase in aberrant behavior. Security clearance ADR-13. 
+
+Use the Boost Ball to gain momentum on a Halfpipe. 
+
+Phazon fluid bath levels at 70%. Checking diagnostics per procedure 12.003.8. 
+
+Research on Tallon IV is expanding into new areas. 
+  
+Pending stabilization of the Thardus venture, we will expand Inanimation research to include other native Tallon IV materials.  
+
+West Tower  
+
+Space Pirate encrypted data decoded.
+ 
+Meta Ridley 
+Log 10.891.0
+
+The reconstruction of geoform 187, code-named Ridley, was recently completed. After his defeat on Zebes, Command ordered a number of metagenetic improvements for him. Though aggressive, we were able to implement these changes in a cycle. The metamorphosis was painful, but quite successful in the end. Early tests indicate a drastic increase in strength, mobility, and offensive capability. Cybernetic modules and armor plating have been added as well. We believe our creation, now called Meta Ridley, will become the mainstay of our security force, a job he will certainly relish. 
+
+The hooked mandibles of the Metroid penetrate the skin of its prey and siphon pure life force energy.  
+
+Stasis tank C012 is contaminated beyond acceptable safety standards. Remove immediately. 
+
+Transport active. 
+
+Propulsion units used to make platforms float are insufficient to support full Power Suit weight indefinitely.  
+
+New personnel must report to the South Research Facility. 
+  
+Failure to report will be penalized by a 30% ration cut and extra duty. 
+
+Perimeter Defense Turret >> Disabled 
+
+Frost Cave 
+
+Something behind the wall seems to have been activated. 
+
+This slot has temporarily shut itself off. 
+
+Access to Research Lab Hydra granted. 
+
+South Quarantine Tunnel 
+
+Courtyard Entryway 
+
+Planet Tallon IV
+Mass: 5.1 trillion teratons.  
+Tallon IV 
+Profile: Ecosystem studies indicate that Tallon IV was a biological paradise prior to the impact of an extraterrestrial object. What remains of the biosphere is slowly fading due to exposure to Phazon radiation. At current rate of decay, Tallon IV will be a barren Class XIII wasteland in approximately 25 years. 
+
+Platform active. 
+
+Directive >> In the event of a Metroid attack, repel creature with Missiles set to maximum concussion. 
+
+Press [IMAGE] to switch to the Thermal Visor. 
+
+This Spinner device has been previously used. It has shut itself off. 
+
+This ice structure blocks the hall.  
+  
+A concussive blast should be able to clear it out of the way. 
+
+Phazon ore is extremely durable and blast-resistant. 
+  
+Although the armor-like qualities of this shell provide ample protection, Thermal Imaging can be used to detect weak areas in the casing. Improvements must be made to this shell in the event that these weaknesses are found by aggressors.  
+
+Chozo Artifact acquired! 
+This is the Artifact of Spirit, the eleventh of twelve. 
+
+Missile Expansion acquired!  
+Maximum Missile-carrying capacity increased by 5. 
+
+Space Pirate encrypted data decoded.
+ 
+Metroid Morphology 
+Log 11.420.7
+
+Metroid dissection continues to provide more questions than answers. Our research teams have isolated the energy conduits that run from the invasive twin mandibles to the energy core in the creature's quadripartite nucleus, but the manner in which a Metroid actually extracts the life force from its prey remains an utter mystery. The victim does not lose blood or any other vital fluids, and yet the Metroid extracts energy; identifying this energy is our central problem. It takes no physical form, and yet without it, the victim dies. We will continue to research this matter, as the isolation of this life-giving essence could be the key to our ascendance. 
+
+Structural weakness detected in Sandstone block. 
+
+Specimen 029 >> Life signs normal. Pulse at 140%, mass increase of 4%.   
+
+Morphology: Ice Parasite
+Scavenger with a crystalline outer shell. 
+Ice Parasite 
+Parasites are hardy creatures, able to adapt to any environment within three generations. The Ice Parasite is a prime example. Having adjusted to a frigid climate, this vermin now thrives in it. Omnivorous, it can exist in areas hostile to most life-forms. 
+
+Thermal Visor acquired! 
+Press [IMAGE] to activate Visor. Use Thermal Visor to search for cold and hot objects and hidden Wave Beam targets. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Transfer of Specimen 344 to Lab Hydra complete. Further infusion suspended pending security assessment. 
+
+Door cannot be opened with that weapon. 
+
+*This High Energy Lifeform is a Metroid: Alpha Type 
+Vulnerability: Cold (-200c+) 
+
+Space Pirate encrypted data decoded.
+ 
+Phazon Program 
+Log 10.401.7
+
+Phazon mining is under way. Several garrisons have been established, and terraforming of the Chozo Ruins is under way. Security systems are operational, and Science Team continues to make progress in their biotech research. The Phendrana Drifts have proven to be an optimal location for Research Headquarters, and soon it will be joined by a fully operational Combat base and starport. If Command's predictions are half true, we shall rise to dominance in this sector within a deca-cycle. Truly, these are glorious times. 
+
+Thermal Visor 
+
+Lower Edge Tunnel 
+
+Gravity Suit acquired! 
+Movement in liquid environments is no longer hindered. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Drones reporting for Mine duty must check in at Control Tower for debriefing. 
+
+Research Core Access 
+
+Map Station 
+
+Chozo script translated. 
+The Turned 
+Many Chozo have gone beyond now, and this is a mercy. Those of us who remain suffer in dimensional flux, drifting helplessly across time and space, guided by unseen and inexorable currents. The Chozo who cling to sanity fight the tide, but our minds are weakening. Soon we will all be like the Turned, Chozo who have been utterly corrupted by the Great Poison. The Turned still hold to their Chozo forms, but their minds are black with fell intentions. Gone is their respect for life. They honor only destruction, and seek to disrupt the Artifacts holding the Great Poison at bay. All life taunts them, and they do not rest. Before long, they will be all that remain of the Chozo here. 
+
+Phendrana Shorelines 
+
+Increased acidity levels recorded in Phazon amniotic bath. 
+  
+This is likely a side effect of Phazon ingestion by test subjects. 
+
+Ice Ruins Access 
+
+Research Lab Hydra 
+
+Circuit breakers for lab subprocessing. 
+
+Gravity Suit 
+
+Specimen Storage 
+
+Orpheon crash site is an Orange-level security zone. 
+
+Chozo Ice Temple 
+
+The door directly above has been unlocked. 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+Phazon batch 1734.D shows mandible mutation across all subjects. Cross-infusion with batch 1622.G recommended.  
+
+East Quarantine Cave is restricted to Blue-level security. 
+  
+Authorized personnel permitted entry only after bio-scan.  
+
+East Quarantine Cave has been secured. 
+  
+Specimen remains in the Quarantine area. All experiments have been suspended pending pacification of area. 
+
+Access to Control Towergranted. Please step into the hologram. 
+
+Hunter Metroid ds is showing signs of increased instability and a heightened immunity to cold damping fields.  
+
+Morphology: Thardus
+An animated, sentient creature of stone charged with Phazon radiation.  
+Thardus 
+The Phazon radiation given off by Thardus negates auto-targeting systems, preventing lock-on. It may be possible to acquire alternate targets with a different Visor. The chaotic nature of Phazon irradiation leads to instability in its structural integrity. Thardus can encase targets in ice, and its colossal size and strength make it a formidable opponent.  
+
+Empty stasis tank used for biological specimens. 
+  
+Latent radiation readings indicate extreme radioactive contamination. 
+
+Game has been saved. Energy fully replenished. 
+
+Morphology: Flickerbat
+Scavenger with optical camouflaging that renders it invisible to the naked eye. 
+Flickerbat 
+Flickerbats are deceptive creatures. The only way to track them reliably is with x-ray imaging. They fly ceaselessly, hunting insects and other small prey that float on the air currents. Flickerbats tend to fly in cyclical hunting patterns, using primitive sonar to navigate.  
+
+Internal organs of Metroid seem to be limited to nucleonic absorption cells and massive energy reservoirs.  
+
+Spider Ball acquired! 
+Press and hold [IMAGE] when in Morph Ball mode to attach to Spider Ball tracks. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Gravity Chamber 
+
+Tissue samples from stasis tanks must be hand-carried to Lab Hydra for analysis. Notify security of all materiel moves. 
+
+This is a statue depicting the bust of a Chozo architect. 
+  
+This statue is flawless. 
+
+Lock system engaged. Secure the area to unlock door. 
+Locked Door 
+
+Thermal Imaging software exceeding initial expectations. 
+  
+Combat applications are being evaluated by Command. Field testing in Phendrana region approved. Use of prototype Visors by security personnel approved. 
+
+This is a standard Spinner device. 
+Spinner 
+The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device. 
+
+Upper node of astronomical holographic projector. Currently deactivated. 
+
+This door has no power. 
+  
+A nearby Power Conduit must be energized for it to open. A blast of electrical energy will energize the conduit. The conduit radiates some heat that is invisible in the normal spectrum.  
+
+There appears to be a shell of ice encasing a water basin. The water originated from the statue's mouth. 
+
+Standard Morph Ball slot. This slot is active. 
+Morph Ball Slot 
+Inserting the Morph Ball and detonating a Bomb will usually cause these slots to send electrical impulses that can activate different types of devices. 
+
+This hanging rock structure appears to have a weak spot near its base. 
+Stalactite 
+Some stalactites can be dislodged from ceilings, allowing them to be used as platforms to cross otherwise unreachable areas. 
+
+Pike Access 
+
+Holographic sequence initialized. 
+
+All Holo-technicians report to Main Observatory. Maintenance required on both holomodules. 
+
+This platform is kept aloft by a gas-based propulsion system attached to its underside.  
+
+Quarantine Cave 
+
+This slot is inactive. It can likely be activated by something nearby. 
+
+Encrypted data found.
+Downloading to Log Book... 
+Contact 
+Log 10.299.2
+Scans of the Spiral Sector detected a massive energy spike emanating from a Wanderer-class planet identified as Tallon IV. Scout reconnaissance was immediately dispatched to the center of the spike, a land mass at heading mark 40.08.02, returning with planetary samples and atmospheric imaging. Analysis shows the energy source to be an unstable radioactive material of enormous potential. We are unable to form an accurate risk-assessment at this time, but we are unlikely to find an energy source this powerful again. Analysis will continue, but currently Tallon IV appears to be a viable secondary headquarters. 
+
+Space Pirate encrypted data decoded.
+ 
+Metroid Studies 
+Log 10.444.4
+
+Initial transfer of Metroids to Tallon IV research facilities has been completed. Three were terminated in an incident at the landing site, but the others were pacified and transported safely. Initial Phazon-infusion testing is under way. We are eager to observe the effects of Phazon on Metroids, especially their ability to absorb and process the energy given off by Phazon sources. Early research suggests a considerable growth in power and size. Whether the creatures stay stable thereafter remains to be seen. 
+
+Central tank main circuit connection terminated. 
+
+Transport Access 
+
+Morphology: Ice Shriekbats
+Ice-encased ceiling-dweller. 
+Ice Shriekbat 
+Like standard Shriekbats, these creatures are easily spotted with Thermal Imaging. They roost on cave ceilings, subsisting on insects, reptiles and small mammals. Fiercely territorial, they will dive-bomb anything that wanders near.  
+
+Phendrana Drifts 
+Phendrana Drifts 
+
+Morphology: Jelzap
+Aquatic predator made of electrically bound skeletal halves.  
+Jelzap 
+The Jelzap's brain is located in the upper half of its body, while the heart and digestive tract occupy the lower half. Linked only by electrical impulses, the two halves somehow function effectively enough to launch the Jelzap to the top of Tallon IV's aquatic food chain. 
+
+This is a statue depicting the bust of a Chozo philosopher. 
+  
+This statue is flawless. 
+
+Daily decontamination is now required for all personnel working in Lab Aether.  
+
+Access to Magmoor Caverns South granted. Please step into the hologram. 
+
+Energy Tank acquired!  
+Maximum energy capacity increased by 100. 
+
+Missile Expansion. Increases the number of Missiles you can carry by 5. 
+Missle Expansion 
+
+Boost Ball acquired! 
+While in Morph Ball mode, press and hold [IMAGE] to charge the Ball. Release [IMAGE] after charging to get a speed boost. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+Morphology: Pulse Bombu
+Life-form of raw energy. Periodically releases explosive segments from its body. 
+Pulse Bombu 
+Pulse Bombus are energy beings, invulnerable to most known weapons. Electrical energy can harm them, however. They lack any intelligence beyond an instinctive attraction to other charged energy sources. Pulse Bombus produce energy constantly. All excess energy is shed, regardless of who or what may be nearby. 
+
+This Force Field blocks the entrance. Something nearby must be able to deactivate it. 
+
+The ice of this stalactite contains many different types of mineral deposits. 
+  
+One of the minerals detected in the ice structure appears to be a volatile form of volcanic rock. This rock makes the formation incredibly strong against tremors and concussive blasts, but it will become unstable if heat is introduced. 
+
+Space Pirate encrypted data decoded.
+ 
+Security Breaches 
+Log 10.712.1
+
+Most terraforming and retrofitting of security checkpoints on Tallon IV is complete, but we continue to research the alarming epidemic of breaches by local creatures. Door records show no unauthorized entries, so we must presume the creatures are either slipping in undetected during daily personnel moves or else finding their way in through subterranean tunnels. We have found many small breaches of this latter sort and plug them wherever we can, but it is unlikely that we will ever achieve full extermination within our current timetable.  
+
+Chozo script translated. 
+Cipher 
+None know if our temple, the Cradle, will prove powerful enough to contain this evil forever. How can we Chozo hope for it to remain intact when that which it guards writhes in the darkness, growing always stronger? The fate of this world rests with the gathering of Artifacts we call the Cipher, but even it is not all-powerful. It is strong, yes; an enchanted whole made of twelve links. Still, it is finite in its reach, and we who guard it are slowly succumbing. When our vigilance crumbles away into madness, the Cipher will be exposed and the fate of Tallon IV will be beyond our influence. 
+
+Cordite casing of column appears weak. 
+
+Space Pirate encrypted data decoded.
+ 
+Phazon Analysis 
+Log 10.344.8
+
+We have codified the newfound energy source as Phazon, a V-index mutagen of which we have very little reliable data. Indications point to a meteor of unknown origin impacting approximately 20 years ago, expelling Phazon into the environment. This material appears to possess lifelike characteristics, mutating organic life-forms strong enough to withstand its poison. These mutations appear promising, with abrupt evolutionary leaps appearing in single-generation reproduction. Plans to establish a full Science Team on Tallon IV are being finalized. 
+
+All personnel must inspect their life-support systems before reporting to the Mines. 
+
+Unable to access magnetic rail system. 
+
+Schematics for Glacier One Secure Zone accessed. 
+  
+Personnel bound for research area proceed directly to Checkpoint. 
+
+Power Suit augmentation required to advance. 
+
+Project Titan is suspended indefinitely. 
+  
+Security breaches resulting in massive casualties have occurred. Access is strictly prohibited until further notice. 
+
+Control Tower 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Stasis tank operational but currently empty. 
+
+The statue's hands seem to be frozen in place. 
+
+This door has no power. 
+  
+A nearby Power Conduit must be energized for it to open. A blast of electrical energy will energize the conduit. The conduit radiates some heat that is invisible in the normal spectrum.  
+
+Super Missile acquired! 
+This powerful attack uses 5 Missiles! Using the Power Beam, press and hold [IMAGE] to charge, then press [IMAGE] to fire. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Elder, the third of twelve. 
+
+Spider Ball 
+
+Aether Lab Entryway 
+
+Morphology: Ice Beetle
+Burrowing insect with an ice-reinforced carapace. Averse to heat. 
+Ice Beetle 
+This member of the Beetle family has adapted to life in the subzero temperatures in the Phendrana Drifts, growing a thick ice shell over its entire body. The ice is extremely resilient, providing the Ice Beetle with extra protection and augmented digging abilities.  
+
+All Metroids destined for Phazon ranges in the mines must pass inspection. 
+
+Access to Research Lab Aether limited to Team Sclera only. 
+  
+Personnel bound for Holo-observatory must use West Elevator. 
+
+Phendrana's Edge 
+
+Morphology: Scatter Bombu
+Pulsing tendrils of energy extend from creature's body.  
+Scatter Bombu 
+Like all Bombus, these creatures can only be harmed by electrical energy. Proximity to these life-forms may result in electrical Visor interference. It is possible to avoid engaging Scatter Bombus by rolling into the Morph Ball and slipping between the rotating energy streams. 
+
+Morphology: Glider
+Docile, airborne creatures with unusual magnetic properties. 
+Glider 
+Gliders live a relatively peaceful existence. They have a magnetic signature attuned to common Grapple Beam technology; the sport of 'glider riding' involves using a Grapple to attach to a Glider, then staying on it as long as possible. 
+
+All guards must use ice containment gear when transporting Metroids. 
+  
+This includes sedated specimens and those pronounced dead. 
+
+Save Station A 
+
+Stasis tank B118 contaminated beyond acceptable safety standards. Removal squad requested. 
+
+Phazon ore appears to bind through Phazon energy. 
+  
+Thermal Imaging is required to detect the highest concentration of radioactivity, which serves to bind the stones together. Imaging research is being conducted in the Containment Vault area of the facility. 
+
+The ice covering this opening can be melted with extreme heat. 
+
+Xenome behavioral patterns show decreased reflex activity at temperatures below freezing. 
+
+Quarantine specimen exhibits highly aggressive behavior. 
+  
+Its body structure, composed of Phazon ore, appears nearly invulnerable. This has rendered our efforts to train and discipline subject useless. 
+
+Lower node of astronomical holographic projector. Currently deactivated. 
+
+Save Station D 
+
+Lake Tunnel 
+
+Motion near Hunter Metroid dg appears to trigger psychotic episodes. 
+  
+Personnel are to stay at least 3 meters away from stasis tank. 
+
+Wave Beam acquired! 
+Press [IMAGE] to switch to the Wave Beam. Use this weapon to open Purple Doors. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Stasis tank operational but currently empty. 
+
+Temple Entryway 
+
+Stasis tanks operating at 40% capacity. 
+  
+Temperature regulation errors have been rectified as of 12.112.4.   
+
+Chozo Artifact 
+
+North Quarantine Tunnel 
+
+Morphology: Baby Sheegoth
+Glacial predator. Ice shell protects vulnerable dorsal area. 
+Baby Sheegoth 
+Young Sheegoths grow a resilient shell of ice on their backs which serves to protect a layer of vulnerable flesh. With this being their only weak point, Baby Sheegoths will turn quickly in order to not allow predators the opportunity to strike at their backs. Powerful hunters, they fire bursts of ultracold gas at potential prey, then feast on their frozen victim. 
+
+Final transmissions from the Orpheon point to a massive security breach.  
+
+A statue depicting the bust of a Chozo shaman adorns this door. 
+  
+A symbol is carved into its forehead. The translation reads, 'To pass my gaze, seek my twin within this room.' 
+
+Blast Shield over door is secure. 
+  
+Shield controls are elsewhere in the Phendrana Shorelines area. 
+
+Chamber Access 
+
+Chapel Tunnel 
+
+One-way access hatch. Entry point lies elsewhere. 
+
+Hunter Cave Access 
+
+Holographic projector extensions are currently inactive and need to be manually rotated. 
+  
+Use the Spinners at the base of the projector to move the arms into place. 
+
+Access to Research Lab Aether granted. Please step into the hologram. 
+
+Power Bomb Expansion acquired!  
+Maximum Power Bomb carrying capacity increased by 1. 
+
+Perimeter Defense Turret >> Malfunction 
+
+Strain 776-V has been successfully replicated. 
+  
+We have named it Strain Vertigo. Mutation of Beta Xenomes proceeding. 
+
+This unit supplies power to the containment Force Field at the bottom of the room. 
+
+This is a statue depicting the bust of a Chozo shaman.  
+  
+Several stress fractures can be seen running along the surface of this Brinstone object. 
+
+Platform active. 
+
+Central tank control circuit connection terminated. 
+
+Boost Ball 
+
+Game was not saved. Energy fully replenished. 
+
+Platform realignment successful. 
+
+Morphology: Scarab
+Exploding parasites that can embed their bodies in solid rock. 
+Scarab 
+Scarabs think nothing of sacrificing themselves for the safety of their swarm. When a hostile life-form is sighted, they block its progress by embedding themselves in floors and walls. Embedded Scarabs violently self-destruct when threatened. 
+
+The ice covering this opening can be melted with extreme heat. 
+
+Grating has become brittle from temperature fluctuations. Large traces of Radion detected. 
+
+Morphology: Aqua Reaper
+Powerful aquatic tentacle, part of a submerged organism. 
+Aqua Reaper 
+Similar in nature to the surface-based Reaper Vine, the Aqua Reaper has adapted to a liquid environment. It shares the poor vision of its rock-dwelling 'cousin,' relying on a crude sonar sense to seek prey. Unhindered by water, the Aqua Reaper has considerable speed and strength. 
+
+East Tower 
+
+There is a large fuel cell attached to the base of this tower.  
+  
+Energy readings detect rapid fluctuations in power levels. The Radion based outer casing of the structure appears damaged and unstable. 
+
+Wave Beam 
+
+Force Field network active around object. 
+  
+All three Force Fields must be deactivated to access object. 
+
+Press and hold [IMAGE] to charge, release to boost. 
+
+Upper stasis tanks online. Phazon drip lines secure. 
+
+The taming of Thardus continues. 
+  
+Barring unforeseen setbacks, it can be installed on Phazon mine patrol by Lotus Milestone. 
+
+Phazon infusion within central energy core of Xenome S-a is at 70% saturation. Increased dosage appears viable. 
+
+Space Pirate encrypted data decoded.
+ 
+Mining Status 
+Log 10.587.7
+
+Mining operations have begun near the crater where Phazon appears to be most concentrated. Daily Phazon yields have increased 44%, and our mining system becomes more streamlined as personnel and equipment flows increase. Several incidents of Phazon-induced madness have been reported, prompting augmented life-support regulations in the deeper chambers. Symptoms include loss of equilibrium, erratic respiration, muscle spasms, and in the most extreme cases, hallucinations. A timeline reassessment for the refinery operation is recommended, as the material proves more unstable than initial analysis indicated.  
+
+This unanchored platform floats on the surface of the water.  
+
+The Crane controls are functional, but require power.  
+  
+A Power Conduit is nearby. A blast of electrical energy will energize the conduit and restore power to the Crane. 
+
+Holographic map coordinate data has been updated successfully. 
+
+Western Temple is in Phase 2 lockdown. 
+  
+All projects are postponed. Under no circumstances are personnel to attempt access. 
+
+Morphology: Crystallite
+Territorial cold-weather scavenger. 
+Crystallite 
+The shell of a Crystallite reflects Beam weapons, and can only be cracked by a concussive blast. They hang upside down in an ice cave during their larval stage. Moisture runs off its body and forms the hard ice shell, which the Crystallite retains for the rest of its life. 
+
+This fish appears to be frozen under a sheet of extremely smooth ice. 
+
+Morphology: Sheegoth
+Supreme predator of the Phendrana Drifts. 
+Sheegoth 
+Sheegoths are invulnerable to most Beam weapons. The crystals on their back absorb energy, which they can fire at prey. Sheegoths have poor stamina. They hyperventilate after using their breath attack, making their mouth area vulnerable. The soft underbelly of a Sheegoth is susceptible to concussive blasts. In battle, they expel blasts of frigid gas to ensnare their targets. They are also fond of ramming and trampling their hapless prey. 
+
+Subject >> Auto Defense Turret
+Use Missiles to break outer casing. 
+Auto Turret 
+
+Specimen 043 >> Decreased vital signs. Cold damping appears stable. 
+
+Space Pirate encrypted data decoded.
+ 
+Metroid Forces 
+Log 11.550.6
+
+Studies of Metroid biology continue, though with limited progress. It seems likely that we will be much more successful using the Metroids for our means rather than trying to reproduce their powers. If they could be adequately tamed, we would have no need of a proper understanding of their metabolism. A small force of disciplined Metroids could wipe out entire armies, and once we find a way to shield them from cold-containment weapons, they will be invincible. Furthermore, if we could then harvest the energy they'd consumed, we would have a near-limitless source of power at our disposal. 
+
+Morphology: Elite Pirate
+Phazon-enhanced Space Pirate. Incredibly strong, armored, and well armed. 
+Elite Pirate 
+Elite Pirates are potent foes. Their energy-siphon system absorbs Beam weapon shots, which they use to fuel a massive Plasma Artillery Cannon. The nature of this system makes them vulnerable to concussion-based weapons. Well armed, the Elite Pirate is effective in close combat and at a distance. Their massive size can be a weakness, and their sluggish speed allows for evasion and quick attacks. 
+
+Quarantine Monitor 
+
+Use the Thermal Visor to detect enemies in dark areas. 
+
+Ice Beetle infestation in Ice Vault region has been 95% exterminated. 
+  
+Report any sightings to security immediately. 
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Lower node of astronomical holographic projector functioning normally. 
+
+Save Station B 
+
+Energy Tank. This item permanently increases your maximum energy capacity by 100 units. 
+Energy Tank 
+
+Ruins Entryway 
+
+Stasis tank operational but currently empty. 
+
+Transport to Magmoor Caverns South 
+
+Phazon vein Omikron has the highest yield per cubic meter of all excavation sites. 
+
+Planet Twin Tabula
+Mass: 4.1 trillion teratons.  
+  
+Profile: Planet is best known for 'Twin Fever,' a disease caused by a viral strain native to Twin Tabula. In the early stages of the disease, victims suffer from double vision. When the 'twin sight' fades, the victim is near death. 
+
+Prep work on all empty stasis tanks must be completed before specimen batch Y arrives on 12.312.2. 
+
+This item rests on a ledge that appears to be too high to access by jumping. 
+
+Morphology: Shadow Pirate
+Pirate forces trained and equipped for stealth operations. 
+Shadow Pirate 
+A select group of Space Pirates have access to sophisticated cloaking technology. This gear drains high levels of power, however, forcing them to rely solely on melee weapons in battle. Use enhanced detection gear when fighting these units. 
+
+Drill rig operators are to report any symptoms of Phazon madness immediately. 
+
+Observatory Access 
+
+Super Missile 
+
+Plaza Walkway 
+
+Transport to Magmoor Caverns West 
+
+Morphology: Hunter Metroid
+Adolescent Metroid. Energy-siphon tentacle increases its threat level. 
+Hunter Metroid 
+As Metroids develop, they become more efficient predators. An energy-draining tentacle allows them to attack at a distance. Quick to anger, a Hunter Metroid will charge troublesome prey and attempt to ram them into submission. Cold-based attacks are still quite effective against these creatures. 
+
+Security Cave 
+
+Mutation strain 776-V shows massive absorption capacity influx. Strain replication is now under way. 
+
+Morphology: Space Pirate
+Irregular life signs detected. Massive internal injuries due to concussive trauma. 
+
+Frigate Access Tunnel 
+
+Analysis of wall shows rampant weakness due to severe water saturation. 
+  
+Large traces of Bendezium detected. 
+
+Transport to Chozo Ruins West active. 
+
+Transport to Chozo Ruins East 
+
+Transport Tunnel B 
+
+Auxiliary door controls online. 
+
+Cannot identify light source. No profile matches in standard flora and fauna databank. 
+
+Morphology: Space Pirate
+Sentient aggressor species well trained in weapon and melee combat. 
+Space Pirate 
+Space Pirates wield Galvanic Accelerator Cannons and forearm-mounted Scythes in combat. This species seeks to become the dominant force in the galaxy, and their technology may help them realize this goal. Ruthless and amoral, the Pirates care little for the cost of their ambition. Only the results matter, and they take these very seriously. 
+
+Great Tree Hall 
+
+Cordite door's structural integrity below safety tolerances. 
+
+Species: Stone creeper
+Ground vines leech nutrients from moisture that collects on rock faces. 
+
+The Artifact of Spirit has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+The Artifact of Chozo has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Translating Chozo runes on Totem's surface. 
+Sun 
+Near Phendrana's shores, a Temple stands. Thaw the frozen waters flowing from the Elder to find the Artifact of Sun. 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Analysis indicates a viable attach point for the Grapple Beam.  
+  
+Your Grapple Beam was damaged from the explosion on the research frigate and cannot currently be used. 
+
+Alcove 
+
+Morphology: Zoomer
+Anchors itself to walls and other surfaces. Avoid contact with spikes. 
+Zoomer 
+A basic nerve center located directly above the Zoomer's mandibles detects nutrients. Sharp spines protect it from casual predators, but the lack of a reinforced carapace makes the Zoomer vulnerable to any indirect attacks. 
+
+This door has no power. 
+  
+Three nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Game was not saved. Energy and ammunition fully replenished. 
+
+Game has been saved. 
+
+Hunter-class gunship registered to Samus Aran.  
+Gunship 
+You can return to your ship to recharge energy, reload weapons and save progress in the game. 
+
+Morphology: Flying Pirate
+Pirates trained and equipped for airborne assault. 
+Flying Pirate 
+Flying Pirates are extremely agile in the air, but the heat signatures of their jet packs can be tracked with Thermal Imaging. While their Missiles are extremely potent, their jet packs can be even more so. If the pack fails, they will make a suicide strike.  
+
+This door has no power. 
+  
+A nearby Power Conduit must be energized for it to open. A blast of electrical energy will energize the conduit. The conduit radiates some heat that is invisible in the normal spectrum.  
+
+Transport Tunnel D 
+
+Species: Saturnine 
+Small iridescent mushroom. Typically grows in dank, dark regions. 
+
+Morphology: Geemer
+Wall-crawling mollusk with retractable spikes.  
+Geemer 
+The Geemer is an evolutionary offshoot of the Zoomer family. When threatened, it extends lethal spikes and retracts its head deep into its armored carapace. 
+
+There is a Blast Shield on the door blocking access.  
+Missile Door Lock 
+Analysis indicates that the Blast Shield is invulnerable to Beam weapons. Explosive weapons may damage it. 
+
+Progress hindered by liquid environment. 
+
+Biohazard Containment 
+
+Access to Phazon Mines East granted. Please step into the hologram. 
+
+Translating Chozo runes on Totem's surface. 
+Chozo 
+In one of Tallon's far corners, a Grove of life lies. Reveal the pillar beneath the waves to find the Artifact of Chozo. 
+
+Biotech Research Area 1 
+
+The Artifact of Sun has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+This crate appears to be the same type of container found on the Space Pirate research frigate. 
+  
+The material seeping out from the ruptured metal is highly toxic. Analysis indicates that this may be the 'Phazon' compound the Space Pirates were using in their biological experiments. 
+
+Mechanoid: Aqua Drone
+Security mecha adapted for use in underwater areas. 
+Aqua Drone 
+The Space Pirates have adapted a number of Sentry Drones for use in liquid environments. These Aqua Drones utilize an arsenal and artificial intelligence suit similar to their 'cousins.' The Pirates have been unable to properly shield these Drones from electrical attack, making them vulnerable to the Wave Beam. 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+This door has no power. 
+  
+Three nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Waterfall Cavern 
+
+Chozo Artifact acquired! 
+This is the Artifact of Chozo, the seventh of twelve. 
+
+Species: Aqua Sac
+Will burst when subjected to impact or trauma. 
+Aqua Sac 
+Believed to be in the same family as the Sap Sac, this plant has similar features. It will burst when exposed to force. This protective response keeps most creatures from feeding on it. 
+
+Derelict Space Pirate ship that self-destructed in low orbit above Tallon IV. Faint life signs detected in interior. 
+
+Tallon Overworld 
+Tallon Overworld 
+
+Tallon Overworld 
+
+Species: Guide stem
+Pervasive indigenous species of bioluminescent weed. 
+
+Deck Beta Conduit Hall 
+
+The Artifact of Strength has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Translating Chozo runes on Totem's surface. 
+Spirit 
+A tall cave stands at Phendrana's Edge. Seek the unseen entrance at its top to find the Artifact of Spirit. 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+Transport to Phazon Mines East active. 
+
+Root Tunnel 
+
+Energy fully replenished. 
+
+Morphology: Tallon Crab
+Crustacean native of Tallon IV. 
+Tallon Crab 
+Hard-shelled swarm life-form. Once harvested for food, exposure to Phazon has seen this practice diminish. Creatures are timid and harmless alone, but can be a problem when traveling in swarms. 
+
+Gate lock engaged. The controls are on the other side. 
+
+Analysis indicates a viable attach point for the Grapple Beam. 
+Grapple Point 
+To use the Grapple Beam, use [IMAGE] when the [IMAGE] icon appears. 
+
+These water droplets seem to be stopping in midair. 
+
+Access to  Chozo Ruins East granted. Please step into the hologram. 
+
+Main Ventilation Shaft Section A 
+
+Species: Sap Sac
+Chemical reaction within sac produces mild explosion when agitated. 
+
+Species: Tallon fern
+Nontoxic variety of psilo tallonensis. Commonly found near water sources. 
+
+Transport to Chozo Ruins East active. 
+
+Impact Crater 
+
+Game has been saved. Energy and ammunition fully replenished. 
+
+Temple Security Station 
+
+Life Grove 
+
+Game was not saved. 
+
+The Artifact of Lifegiver has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Root Cave 
+
+This door has no power. 
+  
+Two nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Perimeter Defense Turret >> Disabled 
+
+This door has no power. 
+  
+Four nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Translating Chozo runes on Totem's surface. 
+Lifegiver 
+There is a tower within the Ruins where Light always shines. Move through the waters there to find the Artifact of Lifegiver. 
+
+Connection Elevator to Deck Beta 
+
+Transport to Chozo Ruins South 
+
+There is a small tunnel burrowed into this wall. 
+
+Missile Expansion acquired!  
+Maximum Missile-carrying capacity increased by 5. 
+
+Morphology: Aqua Pirate
+Space Pirates with exoskeletons modified for underwater use. 
+Aqua Pirate 
+Using modified thruster-packs and Gravity Suit technology, the Space Pirates have armorsuits for use in liquid environments. Thermal tracking is still very useful against these units, as the Pirate engineers have yet to eliminate the thruster-pack's high heat signature. 
+
+Main Ventilation Shaft Section C 
+
+Door cannot be opened with that weapon. 
+
+Transport Tunnel E 
+
+Primary door control is inoperable. Auxiliary controls must be used. 
+
+Gully 
+
+Access to Chozo Ruins West granted. Please step into the hologram. 
+
+Chozo script translated. 
+Statuary 
+As we have done for millennia, we Chozo work constantly on our statuary. The statues are our sentinels; blind but ever watchful, they are, and have always been, repositories for our most precious secrets and strongest powers. The crafting of each is a long and sacred process, performed only by those Chozo who have lifetimes of experience in such things. We have left these relics on planets across the solar system. Some are merely reminders; silent emblems of the Chozo that serve as icons of peace in lands that know only war. Others wield subtle strength, exerting their influence in ways beyond the understanding of mortal creatures. Still others are guardians of our secret ways, and these can be as terrible as they are beautiful. Those who respect and honor these relics will know the friendship of the Chozo. Those who deface or destroy them will know our wrath, unfettered and raw. 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+The stone surface this lichen grows on appears too smooth to be natural. 
+
+Morphology: Meta Ridley
+Genetically enhanced Ridley metaform. 
+Meta Ridley 
+Reborn and evolved through Pirate technology, Meta Ridley is a fearsome enforcer. Its armored hide is extremely resilient, save for the chest, which has thinner plating. The Pirates have fused a number of potent weapons to the creature, including a Multi-Missile System, a Kinetic Breath Weapon, a Meson Bomb Launcher, and an Ultrathermal Flamestrike Projector. Meta Ridley is also a formidable melee combatant, making any sort of engagement a risky proposition. 
+
+Morphology: Seedling
+Plant-based ground feeder.  
+Seedling 
+Dorsal spines can be ejected in self-defense. 
+
+Translating Chozo runes on Totem's surface. 
+Strength 
+The heat of Magmoor was a test for many warriors. A Shrine in their honor holds the Artifact of Strength. 
+
+Game has been saved. Energy fully replenished. 
+
+Canyon Cavern 
+
+Auxiliary door controls online. 
+
+Artifact Temple 
+
+Analysis indicates incubating life-forms below the surface. 
+
+Hydro Access Tunnel 
+
+Species: Sap Sac
+Chemical reaction within sac produces violent explosion when agitated. 
+Sap Sac 
+Because of its irresistible odor and sweet nectar, the Sap Sac was nearly eaten out of existence. The evolution of an explosive chemical sac saved it; now only brave or ingenious creatures dare to devour it. 
+
+Morphology: Space Pirate
+Creature is critically injured. Cranial trauma indicates likelihood of brain damage. 
+
+This is a standard Spinner device. 
+Spinner 
+The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device. 
+
+Energy and ammunition fully replenished. 
+
+Translating Chozo runes on Totem's surface. 
+World 
+Within the ruins of our home, we honor our fallen Elders in a great Hall. A chamber beneath the statue holds the Artifact of World. 
+
+Access to Magmoor Caverns East granted. Please step into the hologram. 
+
+The Artifact of Elder has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Savestation 
+
+X-Ray Visor 
+
+The Artifact of Wild has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+The Artifact of Newborn has been returned. 
+  
+You have restored power to this Chozo Totem. 
+Binding 
+The Chozo Cipher, the congregation of Artifacts that held the Great Poison at bay, is broken now. Fearful of the potential within the small statues, the invaders known as Space Pirates tried to destroy them, only to fail in every attempt. Instead, they have scattered what they could not break across the planet, hiding the Artifacts far from one another, knowing that their reunion could spell disaster for their dark designs. They are right to fear them. Great power sleeps inside these tokens; we Chozo built our temple, the Cradle, to draw its strength from their communal energy. If they could be gathered together once again and replaced in the Cradle, then hope might bloom again in this suffocating land. 
+
+Morphology: Jelzap
+Aquatic predator made of electrically bound skeletal halves.  
+Jelzap 
+The Jelzap's brain is located in the upper half of its body, while the heart and digestive tract occupy the lower half. Linked only by electrical impulses, the two halves somehow function effectively enough to launch the Jelzap to the top of Tallon IV's aquatic food chain. 
+
+Tree appears to be healthy. Ring dating approximates age at over 200 years. 
+
+Energy Tank acquired!  
+Maximum energy capacity increased by 100. 
+
+Missile Expansion. Increases the number of Missiles you can carry by 5. 
+Missle Expansion 
+
+Main Ventilation Shaft Section B 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+Transport Tunnel A 
+
+Transport to Chozo Ruins West 
+
+Power Suit augmentation required to advance. 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Intense radiation detected. 
+
+Chozo script translated. 
+Binding 
+The congregation of Artifacts that hold the Great Poison at bay still hold strong. Fearful of the potential within the Artifact Temple, the invaders known as Space Pirates tried to destroy it, only to fail in every attempt. We scattered the Artifacts across the planet for their protection, and only a few have fallen into invader hands. Failing to understand them, they now seek to unmake them. Again, they fail. They are right to fear these things. Great power sleeps inside them. Prophecy calls for their union, come the day that the unholy Worm is met by the great Defender. We can only hope the Artifacts are not destroyed by the invader, for then all will be lost. So, we do what we can to preserve the Artifacts, and to guide the Newborn to them. Time wanes with our souls, yet hope remains. 
+
+A small gap exists in the tree's root structure. 
+
+Gate lock engaged. The control system lies nearby. 
+
+Species: Tangle Weed
+Plant life with basic sentience. Retracts into ground if threatened.  
+Tangle Weed 
+Tangle Weeds are only dangerous to small organisms. They are covered in tiny barbs designed to trap potential meals. Tangle Weeds lack the strength to do anything more than hinder larger life-forms. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Truth, the first of twelve. Collect it, then scan the Totems here for clues on the locations of the remaining Artifacts. Together, the Artifacts will open a path to the center of the Impact Crater. 
+
+Translating Chozo runes on Totem's surface. 
+Wild 
+A Sunchamber high atop our ruined home became the nest of a great beast, and a source of corruption. Many Chozo spirits have been drawn to this tainted place. Release their bond to the world to claim the Artifact of Wild. 
+
+An Energy Tank lies within this crashed lift. 
+  
+A concussive blast should destroy the lift's door panel. 
+
+Cargo Freight Lift to Deck Gamma 
+
+Transport Tunnel C 
+
+Space Pirate encrypted data decoded.
+ 
+Artifact Site 
+Log 10.308.0
+Field team reports are in on an aged structure of alien design built on the surface of Tallon IV. Studies show this structure projects a containment field. This field bars access to a prime source of energy within a deep crater. Science Team believes the field is powered by a number of strange Chozo Artifacts. We have found some of these relics and studies on them have begun. As this field could hinder future energy production operations on Tallon IV, we must dismantle it as soon as possible. If this means the destruction of the Chozo Artifacts, it will be done. 
+
+This is a Chozo Artifact. 
+  
+Collect it, then scan the Totems here for clues on the locations of the remaining Artifacts. Together, the Artifacts will open a path to the center of the Impact Crater. 
+
+Translating Chozo runes on Totem's surface. 
+Elder 
+Invaders have claimed Phendrana as their own. A Tower sits atop their fortress. Collapse it to reveal the chamber where the Artifact of Elder is held. 
+
+Species: Blastcap
+Volatile chemicals within this weed's toxic fungal cap may explode if agitated. 
+Blastcap 
+The poisonous flesh of the Blastcap helps keep it from being eaten. It also detonates its fungal cap when it senses even slight contact.  
+
+Aberration: Chozo Ghost
+Spectral entity. Bioelectric field invulnerable to natural energies.  
+Chozo Ghost 
+As these entities phase in and out of existence, the only way to track them accurately is with x-ray scanning. This partially phased nature makes them invulnerable to natural energy types, such as fire, ice, and electricity. Their aggressive and erratic behavior is most likely due to the corrupting effects of Phazon in the Tallon IV environment. They appear to be drawn to Chozo religious sites, where they wreak havoc upon anything that dares enter the area. 
+
+Overgrown Cavern 
+
+Chozo Artifact 
+
+These large branches have been forcibly intertwined, forming what looks to be a bridge structure. 
+
+Species: Glowing spidervine
+Bioluminescence attracts insects to be consumed by spidervine. 
+
+X-Ray Visor acquired! 
+Press [IMAGE] to activate Visor. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Morphology: Reaper Vine
+Powerful rock-dwelling tentacle. 
+Reaper Vine 
+A single eye upon the Reaper Vine keeps a constant vigil, but its vision is limited to 10 meters. A scythe-like appendage on its tip is honed to lethal sharpness. The Reaper Vine will swing this blade wildly at anything that enters its zone of perception. 
+
+The Artifact of Truth has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Translating Chozo runes on Totem's surface. 
+Newborn 
+Invaders mine the depths in their greed. Forge a path through a Tunnel of the Great Poison to claim the Artifact of Newborn. 
+
+Tallon Canyon 
+
+Perimeter Defense Turret >> Malfunction 
+
+Great Tree Chamber 
+
+Morphology: Shriekbat
+Territorial ceiling-dweller. Body temperature peaks at 121° centigrade. 
+Shriekbat 
+Shriekbats have high internal temperature, making them easy to spot with thermal imaging. They roost on cave ceilings while hunting for small prey. Fiercely territorial, they dive-bomb anything that wanders near. 
+
+Transport to Chozo Ruins South active. 
+
+This door has no power. 
+  
+Three nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Deck Beta Transit Hall 
+
+Game was not saved. Energy fully replenished. 
+
+Landing Site 
+
+Reactor Access 
+
+Morphology: Bloodflower
+Able to eject toxic spores. Toxins are poisonous even to the Bloodflower itself. 
+Bloodflower 
+Three mouth-nodules protrude from the stalk beneath the flower, each with a rudimentary brain cluster and the ability to spew toxic fumes at anything within a five-meter radius. The spores ejected from the stigma at the center of the flower are sufficient to kill this creature if they explode in its vicinity.             
+
+The tree limbs have extended across the room, blocking part of the hall.  
+  
+There seems to be enough room under the limb for something small to pass through. 
+
+Morphology: Aqua Reaper
+Powerful aquatic tentacle, part of a submerged organism. 
+Aqua Reaper 
+Similar in nature to the surface-based Reaper Vine, the Aqua Reaper has adapted to a liquid environment. It shares the poor vision of its rock-dwelling 'cousin,' relying on a crude sonar sense to seek prey. Unhindered by water, the Aqua Reaper has considerable speed and strength. 
+
+Arbor Chamber 
+
+Frigate Crash Site 
+
+Transport to Magmoor Caverns East active. 
+
+Temple Lobby 
+
+The Artifact of World has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+This rock formation blocks most of the tunnel, but there is a small opening near the floor. 
+
+Temple Hall 
+
+This lichen seems to be giving off low levels of radiation. No matches found in flora and fauna databank. 
+
+Morphology: Beetle
+Burrowing insect with a resilient carapace. Extremely aggressive. 
+Beetle 
+Insect's massive mouth enables it to tunnel through solid rock at high speeds. Above ground, Beetles can cover short distances rapidly. They attack anything that moves near their lair. 
+
+Translating Chozo runes on Totem's surface. 
+Nature 
+A molten  Lake lies within the tunnels of Magmoor. Shatter the column at the lake's center to reveal the Artifact of Nature. 
+
+The Artifact of Warrior has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Subject >> Auto Defense Turret
+Use Missiles to break outer casing. 
+Auto Turret 
+
+Stress fractures can be detected throughout the surface of this Sandstone wall. 
+
+The Artifact of Nature has been returned. 
+  
+You have restored power to this Chozo Totem. 
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Space Jump Boots acquired! 
+Press [IMAGE] to jump. While still in the air, press [IMAGE] again to perform an extra Space Jump. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Translating Chozo runes on Totem's surface. 
+Warrior 
+A room of Research lies within the mines. A corrupted invader is trapped there. Defeat this creature to claim the Artifact of Warrior. 
+
+Energy Tank. This item permanently increases your maximum energy capacity by 100 units. 
+Energy Tank 
+
+Primary door control is inoperable. Auxiliary controls must be used. 
+
+Life Grove Tunnel 
+
+Species: Venom Weed
+Poisonous plant that retracts into the ground if threatened. 
+Venom Weed 
+Venom Weeds evolved to thrive in the habitats of large organisms. They lure prey with brightly colored leaves, then detain it with tiny barbs that deliver a powerful toxin. Venom Weeds rapidly decompose anything that succumbs in their midst. 
+
+Access to Chozo Ruins South granted. Please step into the hologram. 
+
+Reactor Core 
+
+Deck Beta Security Hall 
+
+Transport to Phazon Mines East 
+
+There is a small crevice detected at the base of this wall. 
+
+Species: Red starburst
+Edible flowers bloom seasonally. Considered a delicacy in many territories. 
+
+Transport to Magmoor Caverns East 
+
+Analysis of wall shows rampant weakness due to severe water saturation. 
+  
+Large traces of Bendezium detected. 
+
+Translating Chozo runes on Totem's surface. 
+Truth 
+The Artifact of Truth awaits those who truly seek it. 
+
+This lichen seems to be giving off low levels of radiation. No matches found in flora and fauna databank. 
+
+Space Jump Boots 
+
+Plasma Artillery Cannon. Unit has extreme thermal signature due to lack of shielding.  
+  
+Cannon connected to energy-siphon systems to augment performance. Avoid Beam weapon fire when energy-siphon unit is active. 
+
+An entire shift of Dynamo workers have been transferred following bouts of Phazon madness. 
+  
+Units have reported to Science Team for use in laboratory studies and the new Elite Pirate program. Their dementia will make them adequate training adversaries for the Elite team. 
+
+Elite Quarters Access 
+
+Rotation Control Unit blocked by partial collapse of Bendezium wall. 
+
+Industrial Grade Pulse Beam, Mining Configuration. 
+
+Phazon-infused fungal harvesting continues. 
+  
+Replacement of deca-triticale with Phazon-infused fungal matter in Elite Ration Mix has been authorized. 
+
+Transport active. 
+
+Multiple safety system malfunctions detected. Unit should be taken offline immediately. 
+
+Report all Phazon mutations to Science Team immediately. 
+  
+All units with useful mutations will receive an increase in pay and rations. Elite and Trooper candidates are now being selected by Command. 
+
+Surface integrity at 42%. Presence of thermal power signature detected.  
+  
+Further Pulse Beam exposure could cause collapse. 
+
+Security Gate disengaged. Access granted. 
+
+Unit ident-code EPG-8642, batch 23, field designation 'Elite Pirate Alpha.'   
+  
+Stasis tank hull reinforced with Bendezium alloy plates. 
+
+Morphology: Space Pirate
+Sentient aggressor species well trained in weapon and melee combat. 
+Space Pirate 
+Space Pirates wield Galvanic Accelerator Cannons and forearm-mounted Scythes in combat. This species seeks to become the dominant force in the galaxy, and their technology may help them realize this goal. Ruthless and amoral, the Pirates care little for the cost of their ambition. Only the results matter, and they take these very seriously. 
+
+The doors have been unlocked. 
+
+Ventilation control restored. Fans online and clearing fumes. 
+
+Transfer of building materials complete.  
+  
+Processing of materials for Xenome Containment Units under way. 
+
+This is a rotation control unit for the middle section of the pillar. It requires power to operate. 
+
+Analysis indicates traces of Bendezium. 
+
+Phazon Suit acquired! 
+Your Suit has been infused with pure Phazon. This corruption prevents damage from Phazon radiation. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Metroid activity is accelerating in non-frigid areas. 
+
+Unauthorized use of Phazon is strictly prohibited.  
+  
+Violation of this order will result in assignment to Metroid Holding Area duty for 90 cycles. No exceptions. 
+
+This is an Elite Space Pirate 
+Elite Space Pirate description 2 
+Elite Space Pirate description 3 
+Elite Space Pirate description 4 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Analysis indicates a viable attach point for the Grapple Beam.  
+  
+Your Grapple Beam was damaged from the explosion on the research frigate and cannot currently be used. 
+
+Report any signs of ration rejection by Elites at once. 
+
+Space Pirate encrypted data decoded.
+ 
+The Hunter 
+Log 10.023.7
+
+Security Command issued an all-points alert after the fall of Zebes. The alert concerns bioform Samus Aran, also known as the Hunter. Subject is a female hominid, and is heavily armed and extremely dangerous. Subject uses a powered armorsuit of unknown design in battle, along with a number of potent Beam and concussive weapons. All combat units are instructed to terminate Aran on sight, preferably in a fashion that will allow salvage of her powered armorsuit and weapons. A considerable bounty will go to the unit who delivers Aran to Command. Dead or alive, it matters not. 
+
+Access to Magmoor Caverns South granted. Please step into the hologram. 
+
+Ventilation Shaft 
+
+Central Dynamo 
+
+Synthetic Metroid ration mix processing in progress. 
+
+Chozo Ruins areas are off-limits until further notice. 
+
+Phazon Processing Center 
+
+Elite Control Access 
+
+Facility Command's request for Elite Pirate transfer to security forces granted.   
+  
+Prepare Units EPG-8644 and EPG-8656 for field duty at once. 
+
+Fungal Hall A 
+
+Unauthorized Metroid feeding is strictly prohibited. 
+
+Storage Depot B 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+Size increase of 400% indicated in fungal unit. 
+
+Force Field engaged. 
+  
+Command Panel authorization required to disengage Force Field. 
+
+Morphology: Metroid
+Energy-based parasitic predator. 
+Metroid 
+The dominant species of planet SR388, Metroids can suck the life force out of living things. A Metroid will latch onto its prey and drain energy, growing larger as it does. The only way to shake an attached Metroid is to enter Morph Ball mode and lay a Bomb. 
+
+Power Bomb. Press [IMAGE] in Morph Ball mode to use a Power Bomb. 
+Power Bomb 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Morphology: Plated Puffer
+Mutated Puffer with reinforced epidermis. 
+Plated Puffer 
+Phazon exposure has created a mutant strain of Puffers on Tallon IV. They have developed plated skin, making them harder to burst. Concussive weapons can still do the job, however. The gas within the Plated Puffer is just as deadly as that within their 'cousins.' 
+
+Space Pirate encrypted data decoded.
+ 
+Hunter Weapons 
+Log 11.222.8
+
+Science Team is attempting to reverse-engineer Samus Aran's arsenal, based off of data acquired from her assaults on our forces. Progress is slow, but steady. Command would dearly enjoy turning Aran's weapons against her. We believe we can implement Beam weapon prototypes in three cycles. Aran's Power Suit technology remains a mystery, especially the curious Morph Ball function. All attempts at duplicating it have ended in disaster; four test subjects were horribly broken and twisted when they engaged our Morph Ball prototypes. Science Team wisely decided to move on afterward. 
+
+Quarry Access 
+
+Consumption of Elite Nutrient Mix by non-Elite units is strictly prohibited. 
+  
+Failure to comply will result in a 50% ration reduction for a deca-cycle. 
+
+Numerous fractures present in this Cordite shaft. 
+
+Morphology: Wave Trooper
+Space Pirate armed with Wave Beam technology. 
+Wave Trooper 
+Space Pirates have reverse-engineered several of your weapons, including the Wave Beam. A flaw in the design makes these Pirates vulnerable to their own Beam weapon system. These weapons are inferior to your Chozo-designed originals, but still quite potent. 
+
+Missile Station Mines 
+
+Caution: Waste Disposal Unit will draw small objects inside automatically.  
+
+There is clear air flowing from this Bendezium grate. 
+
+Mechanoid: Sentry Drone
+Well-armed and armored security mecha.  
+Sentry Drone 
+Sentry Drones have limited intelligence, but do their assigned tasks well. Being machines, they are susceptible to electrical attacks. When alerted, Drones initiate a security lockdown, then attempt to neutralize the intruder. Their electronic warfare suit can scramble Visor technology as well. 
+
+Recon Teams are searching for the Hunter's gunship. 
+  
+Science Team believes it employs a sophisticated cloaking device beyond our capabilities. Aside from dumb luck, we may never discover its location. We must contain or eliminate Aran. Failure to comply with Command decree is not an option. 
+
+Security Gates locked down. Scan indicates partial control system damage due to exposure to frigidite. 
+
+Partial security access achieved. Force Field inactive. 
+
+Security now taking volunteers for hunting parties. 
+  
+The target is bioform Samus Aran, also known as the Hunter.  
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+Transport to Magmoor Caverns South 
+
+You have downloaded the map for this area. 
+Press [IMAGE] to access the map. When you're finished, press [IMAGE] again to resume play. 
+
+Flamethrower acquired! 
+This powerful attack uses Missiles while active! Using the Plasma Beam, press and hold [IMAGE] to charge, then press [IMAGE] to fire. Hold [IMAGE] for continuous fire. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Dual-Control Force Field is online. Deactivation controls are likely nearby. 
+
+Phazon Mines 
+Phazon Mines 
+
+Map Station 
+Map Station 
+Walk into Map Station holograms to download a map of the area you're in. 
+
+Surface integrity at 8%. Further Pulse Beam exposure could cause collapse. 
+
+Space Pirate encrypted data decoded.
+ 
+Prime Breach 
+Log 11.377.1
+
+Subject Metroid Prime's breach has been contained. Reports indicate that it sensed a large batch of raw Phazon in the lab from within its stasis tank and broke through the glass, using previously unsuspected strength. Besides consuming all of the Phazon, Metroid Prime assimilated several weapons and defense systems from fallen security units. It has suffered no ill effects from said assimilation; indeed, it began to use its newly acquired weapons against us. Once we pacified it, we were unable to remove the assimilated gear without threat to Metroid Prime--the gear is now an integral part of its body. Command is intrigued by this newfound ability, and has ordered further study to commence at once. 
+
+Planetary stealth technology is back online. 
+  
+We have evaded detection by the battle cruiser Emmons. The brief lapse in planetary security caused by the crash of our frigate is over. Now we can concentrate our efforts on the Hunter. 
+
+Energy fully replenished. 
+
+Metroid aggression levels are rising. 
+  
+Be alert for any attempts by Metroids to escape from Quarantine areas. Their energy absorption ability is not able to disrupt our Force Fields, but continued exposure to Phazon may change things for the worse.  
+
+Mine Security Station 
+
+Phazon Mining Tunnel 
+
+Analysis indicates a viable attach point for the Grapple Beam. 
+Grapple Point 
+To use the Grapple Beam, use [IMAGE] when the [IMAGE] icon appears. 
+
+Elite Control 
+
+Platform active. 
+
+Quarantine Access A 
+
+Increase Bombu patrols in authorized areas. 
+
+Phazon Nutrient Vat. Elite Pirate ration processing in progress. 
+
+Surface integrity at 44%. Further Pulse Beam exposure could cause collapse. 
+
+Replacement of standard hatch covers continues. 
+  
+Steel covers will be replaced with Cordite and Bendezium covers in two deca-cycles. 
+
+Perimeter Defense Turret >> Disabled 
+
+Platform systems active. 
+
+Cryopod damaged. Immediate maintenance required. 
+
+Space Pirate encrypted data decoded.
+ 
+Elite Pirates 
+Log 11.001.9
+
+Initial Project Helix experiments with Space Pirate embryos were disastrous. The Phazon-infusion process degenerated brain tissue even as it augmented muscle mass. None of what we have termed 'Elite Pirates' lived to maturity; the few that survived their infanthood suffered severe psychotic breakdowns as juveniles, killing anything within their zone of perception. Research team Sclera made a recent breakthrough, in which parasite studies with a Phazon strain code-named 'Vertigo' were highly successful. Since then, we have fused Vertigo Phazon with Space Pirate DNA with great success. The latest batch of Elite Pirates have reached maturity successfully and are ready for field testing and training.   
+
+Studies indicate decreased aggression between Elite Pirates and irradiated Metroids. 
+  
+Science Team believes the infusion of Phazon in these units may be forming a type of symbiosis between them. Further studies are under way. 
+
+Map Station Mines 
+
+Flamethrower 
+
+Missile Expansion acquired!  
+Maximum Missile-carrying capacity increased by 5. 
+
+Dynamo maintenance team is not responding to service call. Rerouting request to Central Command. 
+
+Research Access 
+
+Force Field engaged. Deactivation required for access. 
+
+Door cannot be opened with that weapon. 
+
+Gravity Suit acquired! 
+Movement in liquid environments is no longer hindered. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+All available Troopers report to Mine Security Command. 
+
+Metroid Quarantine B 
+
+Security override control engaged. Access granted. 
+
+Omega Pirate Absorption System test results are in. 
+  
+Field tests indicate that the system is very effective against Beam weaponry. We are alarmed at the field's inability to handle Missile attacks, however. Science Team is working around the clock to correct this critical design flaw. The Omega Pirate cannot afford such a weakness in battle. 
+
+All magnetic rail system access must be approved by Security. 
+
+Evaluation of Plasma Artillery Cannons is complete. 
+  
+The weapons are fully functional, but a flaw has been discovered. Subpar thermal shielding gives them a high heat signature. This could make them easier to target for enemies with enhanced vision capabilities. 
+
+Security Access B 
+
+Secondary Force Field control disabled. 
+
+Force Field offline. Access granted. 
+
+Transport Access 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+Space Pirate encrypted data decoded.
+ 
+Chozo Artifacts 
+Log 11.452.8
+
+We are particularly interested in a number of curious Chozo Artifacts we have been able to recover from a number of religious sites on Tallon IV. These relics resonate with power, and yet we are unable to harness them in any way. Science Team is attempting to fuse them together with Phazon, believing that a link might exist between them. We know that these Artifacts are linked to the Chozo Temple that blocks full access to the Impact Crater. We have yet to crack this enigma, however. Command grows impatient regarding this matter; results must be produced soon. 
+
+Crane controls now active. 
+
+Fungal invigoration fluid processing levels normal. 
+
+Test results from Battle Simulation 'Samus Aran' are promising.  
+  
+Elite units report a 74% success ratio against Aran in testing. High Command is pleased, but expects a higher ratio by project's end. 
+
+Game has been saved. Energy fully replenished. 
+
+Space Pirate encrypted data decoded.
+ 
+Prime Mutations 
+Log 11.402.5
+
+Metroid Prime continues to feed and grow ever larger in the impact crater caves. Its hunger knows no bounds, and it has begun to manifest unusual mutations since its breach. These include armor plating on its epidermis and mechanical outgrowths that generate defense screens. These screens render it invulnerable to most weapon systems, but a flaw in the mutation leads to increased vulnerability to certain weapons. It compensates for this by shifting the screens quickly. This latest development concerns Security units greatly; they feel it's a matter of time before Prime corrects this defect and renders itself invulnerable to all weaponry. Containment would be nigh impossible if this were to occur. 
+
+Security Gate locked down. The control system lies on the other side of the gate. 
+
+Fungal Hall Access 
+
+Morphology: Elite Pirate
+Phazon-enhanced Space Pirate. Incredibly strong, armored, and well armed. 
+Elite Pirate 
+Elite Pirates are potent foes. Their energy-siphon system absorbs Beam weapon shots. The nature of this system makes them vulnerable to concussion-based weapons. Well armed, the Elite Pirate is effective in close combat and at a distance. Their massive size can be a weakness, and their sluggish speed allows for evasion and quick attacks. 
+
+Elite Research 
+
+Security Alert. Computer systems compromised. 
+  
+Bioform Samus Aran has cracked our systems. The Hunter can access our system at will, and is able to bypass most of our security programs. Use manual locking systems when possible. 
+
+Phazon processing and security systems are taxing the Dynamo beyond safety tolerances. 
+  
+Though the conversion to geothermal power is easing the drain on our systems, it is not enough. Further power use at current levels could lead to system failure. 
+
+Lock system engaged. Secure the area to unlock door. 
+Locked Door 
+
+This is a standard Spinner device. 
+Spinner 
+The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device. 
+
+This is a rotation control unit for the upper section of the pillar. It requires power to operate. 
+
+Our enemies will tremble before the might of our Elite forces. 
+
+Bendezium within wall is unstable. 
+
+Collapsed Bendezium wall section is structurally unsound. 
+
+Transport to Tallon Overworld South 
+
+Access to Phazon Mines Level Three granted. Please step into the hologram. 
+
+Infusion of Phazon into local fungi is proceeding. 
+  
+This program has produced a cheap, viable ration for many of our Phazon-enhanced units on Tallon IV.  A mass-production program has been authorized. 
+
+Metroid quarantine in effect. No unauthorized personnel in Holding Areas. 
+
+Crane unit scan indicates recent use. Device is currently inactive. 
+
+Warning: Force Field disengaged. Metroid containment area will be breached. 
+
+A rock slide has blocked off this passage. 
+
+Elevator Access B 
+
+Ore Processing 
+
+Energy Tank acquired!  
+Maximum energy capacity increased by 100. 
+
+Missile Expansion. Increases the number of Missiles you can carry by 5. 
+Missle Expansion 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+A nearby energy flux has caused a malfunction in this panel. 
+
+Surface integrity at 13%. Further Pulse Beam exposure could cause collapse. 
+
+Reports on Hunter activity are in. 
+  
+Analysis indicated that the Hunter is using 'Morph Ball' technology to infiltrate our facilities. Recalibrate sensors to search for Morph Ball energy signatures. 
+
+Force Field active. Access prohibited. 
+
+Force Field offline. Access granted. 
+
+Death to the Hunter. Death to all who oppose us! 
+
+Access to Tallon Overworld South granted. Please step into the hologram. 
+
+Elevator Access A 
+
+A shipment of military-grade Plasma Artillery Cannons is en route to Tallon IV.  
+  
+The Egenoid Star Marines we 'acquired' them from were letting them sit in a warehouse. Our Elite Pirates, on the other hand, will put them to good use very soon. 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Security lockdown in effect. Force Field access denied. 
+
+Data suggests that Omega Pirate life spans are critically low.  
+  
+High levels of Phazon exposure are causing rapid cell degeneration in all test subjects. No subject lived longer than 2 deca-cycles in our simulations. Their life spans must be increased to be cost-effective. 
+
+Scramble all aerial units immediately. Flight pattern Sigma 4 is in effect. 
+
+Fungal Hall B 
+
+* High speed rotation unlocks this mechanism.  
+
+Unit ident-code EPG-8702, batch 01, field designation 'Elite Pirate.'   
+
+Morphology: Scatter Bombu
+Pulsing tendrils of energy extend from creature's body.  
+Scatter Bombu 
+Like all Bombus, these creatures can only be harmed by electrical energy. Proximity to these life-forms may result in electrical Visor interference. It is possible to avoid engaging Scatter Bombus by rolling into the Morph Ball and slipping between the rotating energy streams. 
+
+Morphology: Glider
+Docile, airborne creatures with unusual magnetic properties. 
+Glider 
+Gliders live a relatively peaceful existence. They have a magnetic signature attuned to common Grapple Beam technology; the sport of 'glider riding' involves using a Grapple to attach to a Glider, then staying on it as long as possible. 
+
+This is a Spank Weed 
+Spank Weed description 2 
+Spank Weed description 3 
+Spank Weed description 4 
+
+High levels of Bendezium present in object.  
+
+Missiles fully replenished. 
+
+Morphology: Ice Trooper
+Space Pirate armed with Ice Beam technology. 
+Ice Trooper 
+Space Pirates have reverse-engineered several of your weapons, including the Ice Beam. A flaw in the design makes these Pirates vulnerable to their own Beam weapon system. These weapons are inferior to your Chozo-designed originals, but still quite potent. 
+
+Primary Force Field control disabled. 
+
+Security Gate bypass unit encased in frigidite shell.  
+  
+Exposure to extreme heat could clear unit and restore function. 
+
+These Crane controls are functional, but require power.  
+  
+The power conduits to activate the Crane are most likely located near the control cabin on the other side of this room. 
+
+Morphology: Puffer
+Unstable gas-filled organism. Will rupture on contact. 
+Puffer 
+Puffers fill their bodies with lethal meta-viprium gas and float about in search of food. If ruptured, the gas within the Puffer is violently released. Despite their fragile bodies, Puffers are aggressive hunters. The gas cloud they release upon death is often fatal to the creature that brings them down as well. 
+
+Space Pirate encrypted data decoded.
+ 
+Chozo Ghosts 
+Log 11.664.2
+
+There have been numerous incidents involving spectral entities at Chozo Ruins sites. Several personnel have been assaulted by these Chozo Ghosts; few have survived. Survivors speak of swift attacks from nowhere, brief sightings of the enemy, then nothing, only to be followed by another attack. Science Team believes these attacks are in response to our efforts to recover Chozo relics and Artifacts. Somehow, these entities are able to interact with the physical world, and it appears they wish to keep their Artifacts to themselves. We will make them pay for such arrogance, for even ghosts can be destroyed. 
+
+Recommended battle systems for Elite Pirates are as follows:  
+  
+Shoulder-mounted Plasma Artillery Cannon, Repulsion Shield, Wave Quake projector, energy-siphon system, and retractable Wrist Bayonets.                                                
+
+Unit ident-code EPG-8701, batch 01, field designation 'Elite Pirate.'   
+
+Suspension of synthetic Metroid rations has been ordered. 
+  
+Synthetic Metroid rations to be replaced by live bio-energy sources on 12.025.1 
+
+Transport to Tallon Overworld South active. 
+
+Morphology: Power Trooper
+Space Pirate armed with Power Beam technology. 
+Power Trooper 
+Space Pirates have reverse-engineered several of your weapons, including the Power Beam. A flaw in the design makes these Pirates vulnerable to their own Beam weapon system. These weapons are inferior to your Chozo-designed originals, but still quite potent. 
+
+Metroids are not responding to synthetic sustenance. 
+  
+We have reason to believe they only gain nourishment from active bio-energy sources.  
+
+Elevator A 
+
+Security alert, all stations. 
+  
+Bioform Samus Aran has made planetfall on Tallon IV. The Hunter is among us. All units are hereby ordered to attack Aran on sight. Terminal force is authorized. Report all sightings of Aran to Security Command at once. 
+
+Chozo Artifact 
+
+Save Station Mines A 
+
+Waste Disposal 
+
+Cryosleep Tank. Unit CS-4468R. 
+  
+Unit modified for Elite Pirate storage. 
+
+Security Access A 
+
+Bioform Samus Aran continues to assault our holdings on Tallon IV. 
+  
+Security has been compromised in multiple areas. Casualty rates are rising. Command has authorized a sizable bounty for the capture or termination of Aran. Report to your field officers for details. 
+
+Collapsed Bendezium wall section is structurally unsound. 
+
+Power Bomb acquired! 
+While in Morph Ball mode, press [IMAGE] to release a Power Bomb. Power Bombs can destroy tougher materials than Morph Ball Bombs. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Perimeter Defense Turret >> Malfunction 
+
+The keeping of pets has been suspended until further notice. 
+  
+Domestic beasts have been deemed highly susceptible to Phazon madness, and are thereby a hazard to personnel. All Gronkats and Olbaps must be disposed of immediately. Failure to comply will result in the loss of pay for a cycle and reduced rations. 
+
+Main Quarry 
+
+Quarantine Access B 
+
+Access to Phazon Mines Level Two granted. Please step into the hologram. 
+
+Space Pirate encrypted data decoded.
+ 
+Metroid Prime 
+Log 11.156.9
+
+Test subject Z-d, hereafter referred to as Metroid Prime, was recently discovered in a cavern by mining crews. It quickly dispatched the miners, but was eventually contained by security units and drones. Once contained, we were able to begin studies upon Metroid Prime. The results have been astonishing. It is genetically similar to Metroids, albeit on a highly evolved level. It displays a limitless capacity for Phazon infusion and shows no Phazon-based degeneration whatsoever. It continues to grow in size, and while it has manifested some psychotic behavior, the cold fields we use to pacify remain effective. Authorization for advanced studies on Metroid Prime have been approved. 
+
+Game was not saved. Energy fully replenished. 
+
+Reconfiguration of Security Drones authorized. 
+  
+Deploy new Drones to mission-critical areas immediately. 
+
+Surface integrity at 31%. Further Pulse Beam exposure could cause collapse. 
+
+Morphology:  Burrower
+Tunneling insect predator. 
+Burrower 
+The Burrower is similar to the Beetle, though it prefers to spend more time underground. It seeks seismic disturbances, then surfaces to attack. It has enough cunning to realize when something is too large for it to handle; beyond that, it is fairly ignorant. What it lacks in brains, it makes up for with aggression. 
+
+Increase Phazon portion of Elite Pirate Ration by 18%.  
+
+Surface integrity at 23%. Further Pulse Beam exposure could cause collapse. 
+
+Morphology: Plasma Trooper
+Space Pirate armed with Plasma Beam technology. 
+Plasma Trooper 
+Space Pirates have reverse-engineered several of your weapons, including the Plasma Beam. A flaw in the design makes these Pirates vulnerable to their own Beam weapon system. These weapons are inferior to your Chozo-designed originals, but still quite potent. 
+
+Microfractures present in  Bendezium blast gate. 
+
+Force Field offline. Access granted. 
+
+Phazon Nutrient Vat. Elite Pirate ration processing in progress. 
+
+Industrial Pulse Beam online. Auto-firing mode engaged. 
+
+Grapple Beam 
+
+Omega Research 
+
+Dynamo Access 
+
+Ventilation fan is working at minimal level.  
+  
+Activation of vent system will bring it to full power. 
+
+Ventilation fan is functional, but offline.  
+  
+An activation panel must be nearby. 
+
+Phazon processing efficiency at maximum. Production at 187% and rising. 
+
+This hologram represents the central pillar in this room. 
+  
+The pillar contains several rotating sections. They can be moved to gain access to different areas. Rotation of the pillar will alter the path of its magnetic rail tracks. 
+
+The Crane controls are functional, but require power.  
+  
+A Power Conduit is nearby. A blast of electrical energy will energize the conduit and restore power to the Crane. 
+
+Grapple Beam acquired! 
+Press and hold [IMAGE] to lock onto a Grapple Point and activate the Grapple Beam. Release [IMAGE] to stop grappling.  
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Attention all units. Report to your battle stations. 
+  
+Failure to comply with this order is an act of treason. Treason is punishable by termination.  
+
+This is a rotation control unit for the lower section of the pillar. It requires power to operate. 
+
+Metroids from the initial batch have matured to Hunter phase. 
+  
+Be advised that the Hunter Metroid has a siphon-tentacle. It can attack with it from a distance, as opposed to the close-combat tactic used by younger Metroids. 
+
+Space Pirate encrypted data decoded.
+ 
+Special Forces 
+Log 11.369.4
+
+As we continue to observe the development of Project Helix's Elite Pirates, it becomes increasingly obvious that these warriors will usher in a new era of Space Pirate dominance. They are incredibly resistant to damage, and their ability to transport and wield so many weapons at once makes them the ideal mainstays of our ground forces. Though they are not as quick as typical Pirates, it makes little difference. With a platoon of Elite Pirates in the vanguard of an army of normal and Flying Pirates, we will have a near-indestructible backbone that should turn the tide in any engagement. 
+
+Transport to Magmoor Caverns South active. 
+
+Morphology: Omega Pirate
+Most powerful of the Elite Pirate Forces. 
+Omega Pirate 
+Omega Pirate can become invisible to normal sight. It is vulnerable when cloaked, as all energy is drawn from defense systems. By exposing itself to Phazon, it can regenerate damaged tissue and organs. Considered the pinnacle of the Elite Pirate program, this enemy should be handled with extreme caution and maximum firepower. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Newborn, the last of twelve. 
+
+Morphology: Elite Pirate
+Phazon-enhanced Space Pirate. Incredibly strong, armored, and well armed. 
+Elite Pirate 
+Elite Pirates are potent foes. Their energy-siphon system absorbs Beam weapon shots, which they use to fuel a massive Plasma Artillery Cannon. The nature of this system makes them vulnerable to concussion-based weapons. Well armed, the Elite Pirate is effective in close combat and at a distance. Their massive size can be a weakness, and their sluggish speed allows for evasion and quick attacks. 
+
+Increased aggression levels observed in latest Elite Pirate units. 
+  
+Increasing Phazon feed by .07%, per Science Team mandate. 
+
+Science Team reminds all personnel to refrain from antagonizing Metroids.  
+  
+Severe penalties will be enforced for all violations of this order. 
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Morphology: Phazon Elite
+Elite Pirate infused with energized Phazon. 
+Phazon
+Elite 
+The Phazon-charged Elite Pirates rely more on their Wave Quake Generators, opting not to carry the vulnerable Plasma Artillery Cannons normally used by Elites. The direct fusing of Phazon into their bodies provides a tremendous level of energy. The drastically lower life span that comes with this process is of little concern to the Pirate Research team. 
+
+Storage Depot A 
+
+Platform systems active. 
+
+Security breaches in multiple areas. 
+  
+Unauthorized usage of resources continues. Patterns suggest these resources are being stolen by the Hunter. Increase monitoring of all resource facilities immediately. 
+
+Elite Quarters 
+
+Missile Station 
+Missile Station 
+Step into these stations to fully reload your Missile Launcher. 
+
+Energy Tank. This item permanently increases your maximum energy capacity by 100 units. 
+Energy Tank 
+
+Save Station access granted. 
+
+Save Station Mines C 
+
+Cryotank failure. Bioform life signs are at flatline. 
+
+Morphology: Shadow Pirate
+Pirate forces trained and equipped for stealth operations. 
+Shadow Pirate 
+A select group of Space Pirates have access to sophisticated cloaking technology. This gear drains high levels of power, however, forcing them to rely solely on melee weapons in battle. Use enhanced detection gear when fighting these units. 
+
+Metroid Quarantine A 
+
+Security requests deployment of Elite Pirates in Metroid Quarantine areas. 
+  
+The high casualties suffered by standard Pirate units deployed in Metroid areas is not acceptable. 
+
+Maintenance Tunnel 
+
+Processing Center Access 
+
+Save Station Mines B 
+
+Transport active. 
+
+Security Level Tau will be in effect until further notice. All leaves cancelled pending downgrade of alert status. 
+
+Mechanism: Mega Turret
+Perimeter defense turret reinforced with energy shielding. 
+Mega Turret 
+Frustrated with inferior armor plating on standard defense turrets, the Space Pirates added energy shielding to a modified heavy Cannon. The new shielding and increased Beam strength makes the Mega Turret an efficient point defense weapon. 
+
+Science Team is accepting volunteers for Advanced Weapon Training. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Warrior, the sixth of twelve. 
+
+Structural integrity of Bendezium gate is low. 
+
+Report any Force Field malfunctions to Operations Command immediately. 
+  
+Do not disengage Force Field without Command authorization. 
+
+Morphology: Hunter Metroid
+Adolescent Metroid. Energy-siphon tentacle increases its threat level. 
+Hunter Metroid 
+As Metroids develop, they become more efficient predators. An energy-draining tentacle allows them to attack at a distance. Quick to anger, a Hunter Metroid will charge troublesome prey and attempt to ram them into submission. Cold-based attacks are still quite effective against these creatures. 
+
+Space Pirate encrypted data decoded.
+ 
+Omega Pirate 
+Log 11.232.8
+Elite Pirate Upsilon's propensity for Phazon has enabled our research team to infuse it far beyond our safety restrictions, and the results have been extremely encouraging. Its constant Phazon diet has increased its mass exponentially, but it has retained all mental faculties and shows dexterity with all Elite weaponry, including Plasma Incendiary Launchers and the Chameleon Manta issued for cloaking purposes. Elite Pirate Upsilon exhibits miraculous healing abilities; when injured, it seeks out Phazon deposits and coats itself in the substance, which instantly mends the creature's wounds. The subject, which we are code-naming Omega Pirate based on these developments, shows potential to be a new standard for our armies. Our only concern at this point is its potential overdependence on Phazon. 
+
+Security bioscan locks in place. Locks keyed to Space Pirate life signs only. Access denied. 
+
+Platform active. 
+
+Health Alert: Phazon radiation warning is still in effect.  
+  
+Do not enter a Phazon processing area without Level 8 radiation gear. Prolonged exposure is 100% fatal. 
+
+Space Pirate encrypted data decoded.
+ 
+Chozo Studies 
+Log 11.440.4
+
+Results are in from field studies on extinct bioform group Chozo. We believe that Tallon IV was once a stronghold in a great Chozo empire, brought low by the meteor strike. Planetary devastation brought an end to the Chozo, yet remnants of their society remain. We are studying these relics in an attempt to harness their power. What is of no use to us, we destroy. In time, we shall have all we need from this dead race, and shall wipe this planet clean of their ugly Ruins. The dead should serve the living, not hinder them. 
+
+Elevator B 
+
+Fiery Shores 
+
+Power restored. Suspension bridge operational. 
+
+Twin Fires Tunnel 
+
+Access to Chozo Ruins North granted. Please step into the hologram. 
+
+Unstable Bendezium debris blocking path. 
+
+East channel door sealed.  
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Burning Trail 
+
+Analysis indicates a viable attach point for the Grapple Beam.  
+  
+Your Grapple Beam was damaged from the explosion on the research frigate and cannot currently be used. 
+
+Morphology: Zoomer
+Anchors itself to walls and other surfaces. Avoid contact with spikes. 
+Zoomer 
+A basic nerve center located directly above the Zoomer's mandibles detects nutrients. Sharp spines protect it from casual predators, but the lack of a reinforced carapace makes the Zoomer vulnerable to any indirect attacks. 
+
+Transport to Chozo Ruins North 
+
+Morphology: Flying Pirate
+Pirates trained and equipped for airborne assault. 
+Flying Pirate 
+Flying Pirates are extremely agile in the air, but the heat signatures of their jet packs can be tracked with Thermal Imaging. While their Missiles are extremely potent, their jet packs can be even more so. If the pack fails, they will make a suicide strike.  
+
+There is a Blast Shield on the door blocking access.  
+Missile Door Lock 
+Analysis indicates that the Blast Shield is invulnerable to Beam weapons. Explosive weapons may damage it. 
+
+Transport to Phazon Mines West active. 
+
+This machine is now operating at full capacity. 
+  
+Access to West channel door granted. Lava within channel has been cooled. 
+
+Monitor Station 
+
+Lava Lake 
+
+Access to Phazon Mines West granted. Please step into the hologram. 
+
+Triclops Pit 
+
+Transport Tunnel C 
+
+Morphology: Triclops
+Hard-shelled creature with powerful jaws.  
+Triclops 
+The Triclops is a hunter-gatherer. It collects small creatures and bits of foodstuff, then deposits them elsewhere for later consumption. The hard tripartite mandibles it uses to move earth and rock are quite strong and difficult to escape once ensnared. 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+Bendezium portion of area unstable. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Pit Tunnel 
+
+Access to North channel door granted. Lava within channel has been cooled. 
+
+Power Bomb Expansion. Increases the number of Power Bombs you can carry. 
+Power Bomb Expansion 
+
+North Core Tunnel 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+Storage Cavern 
+
+Geothermal Core 
+
+Access to Tallon Overworld West granted. Please step into the hologram. 
+
+Immersion pistons are leaching power from the magma pools as planned. 
+  
+Geothermal power source is promising. Recommend Energy Command deactivate Central Dynamo and switch to geothermal power at once. 
+
+Energy fully replenished. 
+
+Workstation Tunnel 
+
+Report any signs of magma predator activity to Security Central at once. 
+
+Transport to Phendrana Drifts North active. 
+
+Analysis indicates a viable attach point for the Grapple Beam. 
+Grapple Point 
+To use the Grapple Beam, use [IMAGE] when the [IMAGE] icon appears. 
+
+Transport to Tallon Overworld West active. 
+
+Perimeter Defense Turret >> Disabled 
+
+Transport to Phendrana Drifts South active. 
+
+Transport to Phendrana Drifts South 
+
+Missile Expansion acquired!  
+Maximum Missile-carrying capacity increased by 5. 
+
+Door cannot be opened with that weapon. 
+
+Morphology: Plated Parasite
+Hardy member of the Parasite family. Invulnerable to most weaponry. 
+Plated Parasite 
+A cousin to the Parasite, these creatures are known for their amazing resilience. Field studies suggest a weakness to Morph Ball-delivered weapon systems. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Strength, the second of twelve. 
+
+Warrior Shrine 
+
+Scan shows stress fractures in Bendezium frame. 
+
+Access to Phendrana Drifts South granted. Please step into the hologram. 
+
+Save Station Magmoor B 
+
+Intense heat readings detected behind this door. 
+
+Shore Tunnel 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+Plasma Processing 
+
+Game has been saved. Energy fully replenished. 
+
+This is a standard Spinner device. 
+Spinner 
+The generator belts of the Spinner can be activated by rapid rotational force. Use the Boost ability of the Morph Ball when inside a Spinner to activate the device. 
+
+Standard Morph Ball slot. This slot is active. 
+Morph Ball Slot 
+Inserting the Morph Ball and detonating a Bomb will usually cause these slots to send electrical impulses that can activate different types of devices. 
+
+This hanging rock structure appears to have a weak spot near its base. 
+Stalactite 
+Some stalactites can be dislodged from ceilings, allowing them to be used as platforms to cross otherwise unreachable areas. 
+
+Transport to Chozo Ruins North active. 
+
+Morphology: Grizby
+Subvolcanic carrion feeder. Carapace can be breached by Missiles. 
+Grizby 
+The Grizby's carapace has been fused together by superheated air. This barrier stands up to everything but concussive blasts. Its intelligence is limited to instinctive scavenging patterns. 
+
+South Core Tunnel 
+
+Unstable Bendezium debris blocking path. 
+
+Energy Tank acquired!  
+Maximum energy capacity increased by 100. 
+
+Missile Expansion. Increases the number of Missiles you can carry by 5. 
+Missle Expansion 
+
+Lake Tunnel 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+Ice Spreader 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Transport Tunnel A 
+
+Morphology: Puffer
+Unstable gas-filled organism. Will rupture on contact. 
+Puffer 
+Puffers fill their bodies with lethal meta-viprium gas and float about in search of food. If ruptured, the gas within the Puffer is violently released. Despite their fragile bodies, Puffers are aggressive hunters. The gas cloud they release upon death is often fatal to the creature that brings them down as well. 
+
+Morphology: Puddle Spore
+Sentient floating lava mollusk protected by an impenetrable shell. 
+Puddle Spore 
+A Puddle Spore opens when approached, attempting to intimidate with its size. When opened, direct fire to its mantle causes it to flip into a defensive position. If it can slam shut, it ejects a spread of harmful energy globules. 
+
+Plasma Beam acquired! 
+Press [IMAGE] to switch to the Plasma Beam. This weapon will open Red Doors. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Magmoor Workstation 
+
+Chozo Artifact 
+
+Magmoor Caverns 
+Magmoor Caverns 
+
+Transport to Tallon Overworld West 
+
+Twin Fires 
+
+Power Bomb Expansion acquired!  
+Maximum Power Bomb carrying capacity increased by 1. 
+
+Access to East channel door granted. Lava within channel has been cooled. 
+
+North channel door sealed.  
+
+Perimeter Defense Turret >> Malfunction 
+
+Morphology: Shriekbat
+Territorial ceiling-dweller. Body temperature peaks at 121° centigrade. 
+Shriekbat 
+Shriekbats have high internal temperature, making them easy to spot with thermal imaging. They roost on cave ceilings while hunting for small prey. Fiercely territorial, they dive-bomb anything that wanders near. 
+
+Chozo Artifact acquired! 
+This is the Artifact of Nature, the eighth of twelve. 
+
+Game was not saved. Energy fully replenished. 
+
+This machine is functional, but it is currently not receiving power. 
+  
+Three nearby Power Conduits must be energized for it to open. Blasts of electrical energy will energize the conduits. The conduits radiate some heat that is invisible in the normal spectrum.  
+
+Morphology:  Burrower
+Tunneling insect predator. 
+Burrower 
+The Burrower is similar to the Beetle, though it prefers to spend more time underground. It seeks seismic disturbances, then surfaces to attack. It has enough cunning to realize when something is too large for it to handle; beyond that, it is fairly ignorant. What it lacks in brains, it makes up for with aggression. 
+
+Transport Tunnel B 
+
+Access to Phendrana Drifts North granted. Please step into the hologram. 
+
+Stress fractures can be seen all throughout this Sandstone wall. 
+
+Ice Spreader acquired! 
+This powerful attack uses 10 Missiles! Using the Ice Beam, press and hold [IMAGE] to charge, then press [IMAGE] to fire. 
+Additional data downloaded to Inventory Screen. Press START to access the Inventory Screen. 
+
+Plasma Beam 
+
+Local crystal formations possess low Phazon residue. 
+  
+They do have high value to the monks of Grondheim, however. Recommend processing of crystal for that market once Phazon operations cease. 
+
+Subject >> Auto Defense Turret
+Use Missiles to break outer casing. 
+Auto Turret 
+
+Transport to Phendrana Drifts North 
+
+West channel door sealed.  
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Geothermal power routing to this station is complete. 
+  
+Unstable magma flow is a concern. Remove tower from geothermal grid if fluctuations exceed safety levels. 
+
+Energy Tank. This item permanently increases your maximum energy capacity by 100 units. 
+Energy Tank 
+
+Morphology: Magmoor
+Fire-breathing serpent that dwells in lava.  
+Magmoor 
+Magmoors prefer extreme heat zones, and are susceptible to frigid attack forms. Sightless, they navigate the lava currents using their sonar receptors. Magmoors have a keen sense of smell, enabling them to pinpoint targets with startling accuracy. 
+
+Monitor Tunnel 
+
+Rotating lift platforms are in working order. 
+
+Save Station Magmoor A 
+
+Collapsible suspension bridge is functional, but requires power. 
+
+Heat level critical. 
+Life support failing. 
+
+Transport to Phazon Mines West 
+
+Impact Crater 
+Impact Crater 
+
+Small Energy. Replenishes 10 units of energy. 
+Small Energy 
+
+Phazon Core 
+
+Morphology: Lumigek
+Phazon-charged reptiles. 
+Lumigek 
+Natives of Tallon IV, the Lumigeks travel in swarms to increase their odds of survival. They absorb and radiate Phazon energy, making these swarms a threat.  
+
+Crater Tunnel B 
+
+Subchamber Four 
+
+Magnetic rail system track detected. 
+  
+It appears to be active. Spider Ball technology required to access track. 
+
+Morphology: Metroid
+Energy-based parasitic predator. 
+Metroid 
+The dominant species of planet SR388, Metroids can suck the life force out of living things. A Metroid will latch onto its prey and drain energy, growing larger as it does. The only way to shake an attached Metroid is to enter Morph Ball mode and lay a Bomb. 
+
+Large Energy. Replenishes 20 units of energy. 
+Large Energy 
+
+Tallon Overworld 
+
+Save Station 
+Save Station 
+Step into these stations to save your game and fully restore your energy. 
+
+Energy fully replenished. 
+
+Crater Tunnel A 
+
+Subchamber One 
+
+Door cannot be opened with that weapon. 
+
+Ultra Energy. Replenishes 100 units of energy. 
+Ultra Energy 
+
+Game has been saved. Energy fully replenished. 
+
+Subchamber Two 
+
+Lock system engaged. Secure the area to unlock door. 
+Locked Door 
+
+Metroid Prime Lair 
+
+Missile Ammunition. Resupplies Missile Launcher with 5 rounds of ammo. 
+Missile Ammo 
+
+Magnetic rail system track. 
+Spider Ball Track 
+In Morph Ball mode, press and hold [IMAGE] when close to this type of surface. Use [IMAGE] to move the Ball along the track. Release [IMAGE] to disengage from the surface. 
+CAUTION: A Morph Ball Bomb will briefly disengage the Ball from the track. 
+
+Limited data on unknown material available. 
+  
+Material is highly radioactive. You will take damage from direct contact. Mutagenic qualities at least 86% greater than Phazon. Unshielded bioforms below index level P will suffer fatality within moments. 
+
+Missiles fully replenished. 
+
+Morphology: Metroid Prime
+Highly evolved, Phazon-producing life-form. 
+Metroid Prime 
+The aberration known as Metroid Prime is the source of Phazon, making it immensely powerful. A genetic flaw makes it susceptible to certain weapons for brief periods. Only its head is truly vulnerable; other attacks are a nuisance. Offensively, Metroid Prime has a number of natural and mechanical weapons at its disposal. These include Ultrafrigid Breath, Multi-Missiles, Snare Beams, and Particle Wave Projectors. Its massive strength and barbed carapace make it lethal in melee combat. Recommend maximum firepower when engaging this enemy. 
+
+Subchamber Five 
+
+Crater collapse imminent. 
+Evacuate immediately. 
+
+Game was not saved. Energy fully replenished. 
+
+Morphology:  Burrower
+Tunneling insect predator. 
+Burrower 
+The Burrower is similar to the Beetle, though it prefers to spend more time underground. It seeks seismic disturbances, then surfaces to attack. It has enough cunning to realize when something is too large for it to handle; beyond that, it is fairly ignorant. What it lacks in brains, it makes up for with aggression. 
+
+Morphology: Metroid Prime
+The core essence of Metroid Prime. 
+Metroid Prime 
+Scan indicates that the Phazon energy form of Metroid Prime is invulnerable to all conventional weapons; only attacks from a Phazon-fuzed Arm Cannon will damage it. It generates pools of Phazon when it attacks; use these to fuel your Suit's Phazon weapon system. The entity can also spawn Metroids to assist it in battle, rendering itself invisible when it does so.  
+
+Crater Missile Station 
+
+Morphology: Fission Metroid
+Metroid with the ability to split into two forms. 
+Fission Metroid 
+The Fission Metroid is a mutant, capable of splitting in two. This split endows the new creatures with invulnerability to most weaponry. This effect is unstable, resulting in weakness to a type of weapon fire. The vulnerability appears to be random, due to the chaotic nature of Phazon mutation. 
+
+Crater Entry Point 
+
+Phazon Infusion Chamber 
+
+Power Bomb Ammunition. Resupplies Power Bomb with 1 round of ammo. 
+Power Bomb Ammo 
+
+Missile Station 
+Missile Station 
+Step into these stations to fully reload your Missile Launcher. 
+
+Subchamber Three 
+
+Morphology: Hunter Metroid
+Adolescent Metroid. Energy-siphon tentacle increases its threat level. 
+Hunter Metroid 
+As Metroids develop, they become more efficient predators. An energy-draining tentacle allows them to attack at a distance. Quick to anger, a Hunter Metroid will charge troublesome prey and attempt to ram them into submission. Cold-based attacks are still quite effective against these creatures. 

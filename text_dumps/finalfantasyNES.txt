@@ -1,15 +1,3 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-
-[0824200802301430]
-Document #7
-Final Fantasy
-Text Dump Version 1.0
-Nintendo Entertainment System
-By: Blueberry Buttface
-blueberrybuttface(at)gmail(dot)com
-=-=-=-=-=-=-=-=-=-=-=-=-=-
-Text Dump
-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
 Nothing here.
 
 LIGHT WARRIORS.... Just as in Lukahn's prophecy. Garland has kidnapped the 
@@ -717,85 +705,85 @@ CABIN
 
 HOUSE
 
-HEAL{E1}
+HEAL
 
-PURE{E1}
+PURE
 
-SOFT{E1}
+SOFT
 
-Wooden{D9}
+Wooden
 
-Small {D6}
+Small 
 
-Wooden{D8}
+Wooden
 
 Rapier
 
-Iron  {D5}
+Iron  
 
-Short {D4}
+Short 
 
-Hand  {D7}
+Hand  
 
 Scimtar
 
-Iron  {D9}
+Iron  
 
-Large {D6}
+Large 
 
-Iron  {D8}
+Iron  
 
 Sabre
 
-Long  {D4}
+Long  
 
-Great {D7}
+Great 
 
 Falchon
 
-Silver{D6}
+Silver
 
-Silver{D4}
+Silver
 
-Silver{D5}
+Silver
 
-Silver{D7}
+Silver
 
-Flame {D4}
+Flame 
 
-Ice   {D4}
+Ice   
 
-Dragon{D4}
+Dragon
 
-Giant {D4}
+Giant 
 
-Sun   {D4}
+Sun   
 
-Coral {D4}
+Coral 
 
-Were  {D4}
+Were  
 
-Rune  {D4}
+Rune  
 
-Power {D8}
+Power 
 
-Light {D7}
+Light 
 
-Heal  {D8}
+Heal  
 
-Mage  {D8}
+Mage  
 
 Defense
 
-Wizard{D8}
+Wizard
 
 Vorpal
 
 CatClaw
 
-Thor  {D5}
+Thor  
 
-Bane  {D4}
+Bane  
 
 Katana
 
@@ -805,49 +793,49 @@ Masmune
 
 Cloth
 
-Wooden{DA}
+Wooden
 
-Chain {DA}
+Chain 
 
-Iron  {DA}
+Iron  
 
-Steel {DA}
+Steel 
 
-Silver{DA}
+Silver
 
-Flame {DA}
+Flame 
 
-Ice   {DA}
+Ice   
 
-Opal  {DA}
+Opal  
 
-Dragon{DA}
+Dragon
 
-Copper{DE}
+Copper
 
-Silver{DE}
+Silver
 
-Gold  {DE}
+Gold  
 
-Opal  {DE}
+Opal  
 
-White {DF}
+White 
 
-Black {DF}
+Black 
 
-Wooden{DB}
+Wooden
 
-Iron  {DB}
+Iron  
 
-Silver{DB}
+Silver
 
-Flame {DB}
+Flame 
 
-Ice   {DB}
+Ice   
 
-Opal  {DB}
+Opal  
 
-Aegis {DB}
+Aegis 
 
 Buckler
 
@@ -855,31 +843,31 @@ ProCape
 
 Cap
 
-Wooden{DC}
+Wooden
 
-Iron  {DC}
+Iron  
 
-Silver{DC}
+Silver
 
-Opal  {DC}
+Opal  
 
-Heal  {DC}
+Heal  
 
 Ribbon
 
 Gloves
 
-Copper{DD}
+Copper
 
-Iron  {DD}
+Iron  
 
-Silver{DD}
+Silver
 
-Zeus  {DD}
+Zeus  
 
-Power {DD}
+Power 
 
-Opal  {DD}
+Opal  
 
 ProRing
 
@@ -1243,7 +1231,7 @@ Time stopped
 
 Exile to 4th dimension
 
-Slain{C3}
+Slain
 
 Ineffective
 
@@ -1255,7 +1243,7 @@ Can't run
 
 Run away
 
-Close call{C3}{C3}
+Close call
 
 Woke up
 
@@ -1814,9 +1802,3 @@ EQUIP  TRADE  DROP
 Now saving..!
 
 !
-=-=-=-=-=-=-=-=-=-=-=-=-=-
-This document is restricted to personal, private use only. The most recent 
-version of this guide will always be found at GameFAQs (www.gamefaqs.com).
-Other websites may use this document so long as they do not profit directly
-from it via ads or other means. Navigational aids such as toolbars are 
-acceptable.

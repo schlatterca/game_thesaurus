@@ -1,111 +1,3 @@
-                -----------------
-                Zelda 2 Text Dump
-                -----------------
-                American Version
-
-Dumped by David Butler (davogones@hotmail.com)
-for The Legends of Zelda (http://loz.zeldalegends.net/)
-Last Revision: 8/6/02
-
-
---------------------
-What is a text dump?
---------------------
-A text dump contains all the text in a video game, ripped
-straight from the ROM. I use a script to convert the ROM code
-into formatted, readable text, in either TXT or HTML format.
-Why is this useful? It is often useful, when theorizing about
-Zelda, to have exact quotes handy. These text dumps put all
-the text in the Zelda games at one's fingertips.
-
-A word of warning though: internally, the ROMs arrange the
-quotes in essentially random order. There is a little bit of
-structure: for example, though one person's dialogue may be
-split up into separate quotes, these quotes will generally
-be all together, in order. But if you wish to find a specific
-quote from the game, you will have to already know a few words
-from the quote so that you can search through the entire text
-dump. Any decent text editor should have a Search function,
-and you'll need to use it to find anything specific in the
-text dumps.
-
-
-------------------------------------------------------
-Where can I get the latest version of your text dumps?
-------------------------------------------------------
-If you downloaded this file off of a site like GameFAQs.com,
-you might have an out-of-date version. This is because I only
-submitted the text dumps to FAQ sites once, just so people
-would know that these text dumps exist. Updated versions can
-be obtained at my web site (The Legends of Zelda -
-http://loz.zeldalegends.net) in the Emulation section.
-Compare the revision date at the top of this document with
-the one in the files on my site to see if you have the latest
-version.
-
-
----------------------------
-How do you make text dumps?
----------------------------
-I include the following information for those who are curious.
-If you don't understand any of it, just skip ahead.
-
-The first step in making a text dump is to have a copy of the
-ROM. Then, if you have a quote from the game, you can search
-for the text. Newer games (like OoT, MM, and LA) use standard
-ASCII values for raw text, so it is possible to find the text
-using any common text editor. Older games (like LoZ, AoL, and
-ALttP), unfortunately, don't use ASCII standards, so it's
-necessary to do a relative search using a hex editor like
-Thingy. Then you can make a translation table that will allow
-Thingy to translate ROM text into standard ASCII text. (There
-are many freeware utilities available that will help you do
-relative searches and make translation tables.)
-
-To make things even more difficult, some games compress, or
-encrypt, the text. For example, in Oracle of Seasons the hex
-value "02 0E" translates to "Twinrova." ALttP uses compression
-and doesn't use standard ASCII values, so this is the most
-difficult game to dump. OoS and OoA use ASCII standards but
-have text compression. Fortunately, I already have TBL files
-for both of these games, so dumping is not as difficult as it
-could have been. ^_^
-
-After you have found the text (and you're sure you've found
-ALL the text), copy and paste all the text you can find into
-a new file. This is what the DMP files on my site are: all the
-text I could find, copied and pasted straight out of the ROM.
-Once this is done, I wrote a PHP script to parse the DMP file
-and translate everything into a readable format (TXT or HTML).
-Making a program is the easiest thing to do in the long run
-(though something more powerful than PHP is usually preferable),
-because it takes a while to find out what all the codes in the
-ROM translate to. Using the standard Find/Replace function of
-a text editor is too much work if what you're searching for
-constantly changes.
-
-
--------------------------------------
-Further References / Acknowledgements
--------------------------------------
- • For more information on ROM hacking, and emulation in
-general, here are some good sites to visit:
-
-Zophar's Domain - http://www.zophar.net/
-Romhacking.org - http://www.romhacking.org/
-
- • A special thanks to EvilGiegue (EvilGiegue@hotmail.com),
-who helped me figure out how to hack ROMs. Without his
-catalyzing influence, these text dumps probably wouldn't
-be here today. Make sure to check out his text dumps as
-well, which are available on my site and on GameFAQs.com.
-
-
-        -------------
-        The Text Dump
-        -------------
-
-
 AFTER GANON WAS DESTROYED,  
 IMPA TOLD LINK A SLEEPING   
 SPELL WAS CAST ON PRINCESS  
@@ -118,9 +10,7 @@ PLACED IN STATUES IN 6
 WELL GUARDED PALACES.       
 LINK SET OUT ON HIS MOST    
 ADVENTURESOME QUEST YET...  
-       ©1987 NINTENDO       
-                            
-                            
+       ©1987 NINTENDO
 
 PLEASE LET
 ME HELP
@@ -559,4 +449,3 @@ YOU ARE
 PERSISTENT
 FIND HEART
 OVER OCEAN
------------
