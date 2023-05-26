@@ -1,0 +1,5 @@
+Pokémon Legends: Arceus is an action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch. It is part of the eighth generation of the Pokémon video game series and serves as a prequel to Pokémon Diamond and Pearl (2006). The game was first announced as part of the Pokémon 25th Anniversary event in February 2021, and was released worldwide on January 28, 2022.
+The game follows the protagonist, sent back through time, as they travel through the Hisui region based on the island of Hokkaido during early Japanese colonization. Centered around exploration of the region's several open areas populated with Pokémon, the game's objective is to complete a roster of the region's Pokémon, known as the Pokédex.
+<CREDITS>Text dump by</>Centro Pokémon</>https://github.com/CPokemon</CREDITS>
+<LINK>Official website</>https://legends.pokemon.com/en-us/</LINK>
+<LINK>Wikipedia</>https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus</LINK>

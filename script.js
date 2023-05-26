@@ -232,7 +232,15 @@ function closeCollection() {
 function readyToPrint(itemToPrint) {
     //var newWin=window.open('','Print-Window');
     newWin.document.open();
-    newWin.document.write('<html><body onload="window.print()">'+itemToPrint.innerHTML+'</body></html>');
+    //newWin.document.write('<html><body onload="window.print()">'+itemToPrint.innerHTML+'</body></html>');
+
+    $("<html><body onload='window.print()'>"+
+        "<p class='textDump'>"+itemToPrint.innerHTML+"</p>"+
+        "</body></html>").appendTo($(newWin.document));
+
+    /*newWin.document.body.setAttribute('style', 'font-family:PPFraktionMono!important');
+    newWin.document.body.style.cssText = 'font-family:PPFraktionMono!important';
+    newWin.document.body.style.fontFamily="PPFraktionMono, sans-serif";*/
     newWin.document.close();
     setTimeout(function(){newWin.close();},10);
     /*var newWin=window.open('','', 'height=650, width=650');
@@ -265,6 +273,8 @@ function downloadCollection() {
 
         const divTitle = document.createElement("div");
         const divUrl = document.createElement("div");
+        divTitle.classList.add('title');
+        divUrl.classList.add('url');
         const divFullTextDump = document.createElement("div");
 
         let thisGameTitleLang = $(collectionTitles[i]).find('p')[0].innerText;
@@ -306,7 +316,23 @@ function downloadCollection() {
 
                         newWin.location = '';
                         newWin.document.open();
-                        newWin.document.write('<html><title>'+titleOfMyCollection+'</title><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+
+                        //newWin.document.body.setAttribute('style', 'font-family:PPFraktionMono!important');
+                        //newWin.document.body.style.cssText = 'font-family:PPFraktionMono!important';
+                        //newWin.document.body.style.fontFamily="PPFraktionMono, sans-serif";
+
+                        //newWin.document.write('<html><title>'+titleOfMyCollection+'</title><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+                        
+                        /*$("<html><title>'+titleOfMyCollection+'</title>"+
+                            "<body onload='window.print()'>"+
+                            "<p class='textDump'>"+divToPrint.innerHTML+"</p>"+
+                            "</body></html>").appendTo($(newWin.document)[0]);*/
+
+                        newWin.document.write('<html><title>'+titleOfMyCollection+'</title>'+
+                            '<link rel="stylesheet" href="main.css" type="text/css" media="all">'+
+                            '<body onload="window.print()"></body></html>');
+                        $(divToPrint.innerHTML).appendTo(newWin.document.body);
+
                         newWin.document.close();
                         setTimeout(function(){newWin.close();},10);
 
@@ -357,9 +383,52 @@ function openMoreOnThis(el) {
     }
 
     myRow = el.parentNode;
-    console.log($('#moreOnThis p.collection_title > span'));
-    $('#moreOnThis').removeClass('hidden');
+
     $('#moreOnThis p.collection_title > span')[0].innerText = $(myRow).find('td')[0].innerText;
+    let thisGameUrl = $(myRow).find('.gameUrl').attr('href').replace('text_dumps','descriptions');
+    
+    (async() => {
+        const doc = await fetch(thisGameUrl).then(response => response.text());
+        //divFullTextDump.innerText = doc;
+
+        defer(function () {
+            //alert("doc is loaded");
+        });
+        function defer(method) {
+            if (doc) {
+                method();
+                
+                let mainText = doc.split('<CREDITS>')[0];
+                let mainText_more = doc.split('<CREDITS>')[1];
+                let credits = mainText_more.split('</>')[0];
+                let credits_name = mainText_more.split('</>')[1];
+                let credits_link = mainText_more.split('</>')[2].split('</CREDITS>')[0];
+                let mainText_links = doc.split('<LINK>');
+
+                $('#moreOnThis p.main')[0].innerText = mainText;
+                $('#moreOnThis p.credits')[0].innerText = credits+" ";
+
+                $("<a href='"+credits_link+"' target='_blank'>"+
+                    credits_name+"</a>").appendTo($('#moreOnThis p.credits')[0]);
+
+                for(let i=1; i<4; i++){
+                    if(mainText_links[i]){
+                        let allLinks = mainText_links[i].replaceAll('</LINK>','').split('</>');
+                        $($('#moreOnThis .links a')[i-1]).attr('href', allLinks[1]);
+                        $('#moreOnThis .links a')[i-1].innerText = allLinks[0];
+                    } else {
+                        $($('#moreOnThis .links a')[i-1]).attr('href', ' ');
+                        $('#moreOnThis .links a')[i-1].innerText = '';
+                    }
+                }
+            }
+        }
+
+    })();
+
+
+    $('#moreOnThis').removeClass('hidden');
+    
 }
 
 function closeMoreOnThis(el) {
@@ -372,6 +441,11 @@ function closeMoreOnThis(el) {
 function changeConsole(el) {
     var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
+    if(myValue != "all"){
+        $(el).addClass('active');
+    } else {
+        $(el).removeClass('active');
+    }
     for(let i=0; i<allRows.length; i++){
         if(($(allRows[i]).find('td')[1].innerText.toLowerCase() == myValue)||(myValue == "all")){
             $(allRows[i]).removeClass('invisible_console');
@@ -384,6 +458,11 @@ function changeConsole(el) {
 function changeYear(el) {
     var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
+    if(myValue != "all"){
+        $(el).addClass('active');
+    } else {
+        $(el).removeClass('active');
+    }
     for(let i=0; i<allRows.length; i++){
         if(($(allRows[i]).find('td')[2].innerText == myValue)||(myValue == "all")){
             $(allRows[i]).removeClass('invisible_year');
@@ -396,6 +475,11 @@ function changeYear(el) {
 function changeLang(el) {
     var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
+    if(myValue != "all"){
+        $(el).addClass('active');
+    } else {
+        $(el).removeClass('active');
+    }
     for(let i=0; i<allRows.length; i++){
         if(($(allRows[i]).find('td')[4].innerText.toLowerCase() == myValue)||(myValue == "all")){
             $(allRows[i]).removeClass('invisible_lang');
@@ -411,24 +495,30 @@ function filterButtons() {
     var allRows = $('.table_container tbody > tr');
 
     $('.filters > .genres > button').on( "click", function() {
+        let myValue = this.innerText.toLowerCase();
+        console.log(myValue);
+
         if($(this).hasClass('active')){
             $(this).removeClass('active');
+
+            for(let i=0; i<allRows.length; i++){
+                $(allRows[i]).removeClass('invisible_genre');
+            }
+
         } else {
             $('.filters > .genres > button').each(function(){
                 $(this).removeClass('active');
             });
             $(this).addClass('active');
-        }
-        let myValue = this.innerText.toLowerCase();
-        console.log(myValue);
 
-        for(let i=0; i<allRows.length; i++){
-            if($(allRows[i]).find('td')[3].innerText.toLowerCase() == myValue){
-                $(allRows[i]).removeClass('invisible_genre');
-            } else {
-                $(allRows[i]).addClass('invisible_genre');
-            }
-        } 
+            for(let i=0; i<allRows.length; i++){
+                if($(allRows[i]).find('td')[3].innerText.toLowerCase() == myValue){
+                    $(allRows[i]).removeClass('invisible_genre');
+                } else {
+                    $(allRows[i]).addClass('invisible_genre');
+                }
+            } 
+        }
     } );
 }
 

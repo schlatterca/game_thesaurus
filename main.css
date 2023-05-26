@@ -7,15 +7,36 @@
 }
 @font-face{
   font-family: PPFraktionSans;
-  src: url(fonts/PPFraktionSans-Light.otf);
+  src: url(fonts/PPFraktionSans-Light.woff);
   font-weight: normal;
   font-style: normal;
 }
 @font-face{
   font-family: PPFraktionSans;
-  src: url(fonts/PPFraktionSans-Bold.otf);
+  src: url(fonts/PPFraktionSans-Bold.woff);
   font-weight: bold;
   font-style: normal;
+}
+
+@media print {
+	* {
+		font-family: PPFraktionSans!important;
+		color: black!important;
+		font-size: 8px!important;
+		line-height: 120%!important;
+	}
+	.title {
+		font-weight: bold!important;
+		text-align: center!important;
+	}
+	.title:not(:first-child) {
+		margin-top: 2em!important;
+	}
+	.url {
+		font-weight: bold!important;
+		text-align: center!important;
+		margin-bottom: 2em!important;
+	}
 }
 
 :root {
@@ -27,6 +48,7 @@
 
 body {
 	background-color: var(--myBlack);
+	overflow: hidden;
 }
 
 * {
@@ -47,6 +69,21 @@ body {
 
 a:hover {
 	color: var(--myGreen)!important;
+}
+
+.back_home_button {
+	position: absolute;
+	top: 8;
+	left: 8;
+	z-index: 2;
+}
+.back_home_button a{
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+}
+.back_home_button a:hover {
+	color: var(--myGreen);
 }
 
 .site_title {
@@ -70,7 +107,7 @@ a:hover {
 }
 .site_title > .about_button,
 .site_title > a.back_button {
-	font-size: 1vw;
+	/*font-size: 1vw;*/
 	text-transform: uppercase;
 	position: absolute;
 	top: 0vw;
@@ -87,6 +124,7 @@ a:hover {
 .site_title > .about_button {
 	right: 0;
 	z-index: 11;
+	font-weight: normal;
 }
 .site_title > .back_button {
 	left: 0;
@@ -228,6 +266,20 @@ a:hover {
 .filters > .year > select#year_select,
 .filters > .lang > select#lang_select {
   background-image:
+    linear-gradient(45deg, transparent 50%, white 50%),
+    linear-gradient(135deg, white 50%, transparent 50%);
+  background-position:
+    calc(100% - 11px) calc(.4em + 2px),
+		calc(100% - 6px) calc(.4em + 2px);
+  background-size:
+    5px 5px,
+    5px 5px;
+  background-repeat: no-repeat;
+}
+.filters > .console > select#console_select.active,
+.filters > .year > select#year_select.active,
+.filters > .lang > select#lang_select.active {
+  background-image:
     linear-gradient(45deg, transparent 50%, black 50%),
     linear-gradient(135deg, black 50%, transparent 50%);
   background-position:
@@ -257,12 +309,13 @@ a:hover {
 .filters > .console > select,
 .filters > .year > select,
 .filters > .lang > select {
-	color: black;
+	color: white;
+	background-color: var(--myBlack);
+	border: 1px solid white;
 	font-weight: bold;
-	background-color: white;
-	border-radius: 20px;
+	border-radius: 0;
 	cursor: pointer;
-	appearance: button-bevel;
+	appearance: button;
 	text-transform: uppercase;
 	padding: 0;
 	padding-left: 10px;
@@ -274,11 +327,22 @@ a:hover {
 .filters > .lang > select {
 	width: 60%;
 }
+.filters > .console > select:hover,
+.filters > .year > select:hover,
+.filters > .lang > select:hover,
 .filters > .genres > button:hover {
 	background-color: var(--myGreen);
+	color: white;
 }
+.filters > .console > select.active,
+.filters > .year > select.active,
+.filters > .lang > select.active,
 .filters > .genres > button.active {
 	background-color: var(--myGreen);
+	color: black;
+}
+.filters > .genres > button.active:hover {
+	color: white;
 }
 
 
@@ -356,7 +420,7 @@ a:hover {
 	top: 0;
 	right: 0;
 	width: 48%;
-	height: 100%;
+	height: calc(100% - 20px);
 	transition: .6s transform;
 	padding: 10px;
 	padding-left: 20px;
@@ -448,12 +512,13 @@ a:hover {
 	top: 0;
 	left: 0;
 	width: calc(30% - 60px);
-	height: 100%;
+	height: calc(100% - 20px);
 	transition: .6s transform;
 	padding: 10px;
 	padding-left: 20px;
 	padding-right: 20px;
 	z-index: 3;
+	overflow-y: scroll;
 }
 #moreOnThis.hidden {
 	transform: translate(-100%,0);

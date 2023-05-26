@@ -6,7 +6,7 @@
 <!--link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"-->
 <!--link rel="stylesheet" href="css/main.css"-->
 <style></style>
-<link rel="stylesheet" href="main.css" type="text/css">
+<link rel="stylesheet" href="main.css" type="text/css" media="all">
 
 <!--<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -24,13 +24,15 @@
 
 <body>
 
+<div class="back_home_button"><a href='.\'>HOME</a></div>
+
 <div id="about" class="hidden">
     <div class="columns">
         <div class="first_column">
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+            The game thesaurus is part of a final project by students Roberta Antinolfi and Carlo Schlatter for the course “Elementi di Informatica per il Design” taught by Professor Thomas Castro at ISIA Urbino, Italy. It consists of an “encyclopedia” of video game texts and dialogues and it is browsable both as a website, as a retro video game, and as a printed version: each user can create a collection of his/her own favorite texts and print a brochure or a book to serve as a compendium of the project.
         </div>
         <div class="second_column">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            We believe that extrapolating the text from a video game can be a valuable opportunity to deal with the topic of games as literature — a medium which, of course, reflects a part of society as it is when the game is published. Video games, by their very nature, are meant to be watched and played, as well as read; isolating a text from its context is a way to investigate the difference between the unabridged transcript of a video game, a novel, and a film script. If you feel like your copyright was violated, please <a href='mailto:carloandrea.schlatter@studenti.isiaurbino.net; roberta.antinolfi@studenti.isiaurbino.net?subject=Copyright claim'>contact us</a>.
         </div>
     </div>
 </div>
@@ -39,16 +41,17 @@
     <div class="console">
         <select name="console" id="console_select" onchange="changeConsole(this)">
             <option value="All">All consoles</option>
-            <option value="Game Boy">Game Boy</option>
-            <option value="NES">NES</option>
             <option value="N64">N64</option>
-            <option value="PS1">PS1</option>
-            <option value="PS2">PS2</option>
-            <option value="PS3">PS3</option>
+            <option value="NES">NES</option>
             <option value="SNES">SNES</option>
-            <option value="Switch">Switch</option>
+            <option value="GAMECUBE">GAMECUBE</option>
             <option value="WII">WII</option>
-            <option value="XBox One">XBox One</option>
+            <option value="Game Boy">Game Boy</option>
+            <option value="NINTENDO DS">NINTENDO DS</option>
+            <option value="Switch">Switch</option>
+            <option value="PS1">PS1</option>
+            <option value="PS3">PS3</option>
+            <option value="PS4">PS4</option>
         </select>
     </div>
     <div class="year">
@@ -56,12 +59,15 @@
             <option value="All">All years</option>
             <option value="1986">1986</option>
             <option value="1987">1987</option>
+            <option value="1993">1993</option>
             <option value="1996">1996</option>
             <option value="1998">1998</option>
             <option value="2001">2001</option>
+            <option value="2002">2002</option>
             <option value="2005">2005</option>
             <option value="2006">2006</option>
             <option value="2007">2007</option>
+            <option value="2009">2009</option>
             <option value="2010">2010</option>
             <option value="2011">2011</option>
             <option value="2022">2022</option>
@@ -77,21 +83,23 @@
             <option value="FRA">FRA</option>
             <option value="ITA">ITA</option>
             <option value="JAP">JAP</option>
+            <option value="KOR">KOR</option>
         </select>
     </div>
     <div class="genres">
         <button>action</button>
         <button>action RPG</button>
-        <button>RPG</button>
         <button>J-RPG</button>
         <button>platform</button>
+        <button>RPG</button>
         <button>puzzle</button>
+        <button>shooter</button>
     </div>
 </div>
 
 <div class="site_title">
     <!--a href='index.html' class="back_button"><p>back</p></a-->
-    <p class="big_title"><a href='index.html'>game thesaurus</a></p>
+    <p class="big_title"><!--a href='index.html'-->game thesaurus<!--/a--></p>
     <p class="about_button" onclick="toggleAbout()">about</p>
 </div>
 
@@ -109,9 +117,7 @@
             </tr>
         </thead>
         <tbody>
-
         </tbody>
-
     </table>
 </div>
 
@@ -128,9 +134,13 @@
         </div>
         <p class='collection_close' onclick='closeMoreOnThis()'>close</p>
     </div>
-    <p>Elden Ring is a 2022 action role-playing game developed by FromSoftware. It was directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin. It was released for PlayStation 4, PlayStation 5, Microsoft Windows, Xbox One, and Xbox Series X/S on February 25 by FromSoftware in Japan and Bandai Namco Entertainment internationally. Players control a customizable player character who is on a quest to repair the Elden Ring and become the new Elden Lord.</p>
-    <p><a href='https://www.google.com' target='_blank'>Wikipedia</a><br>
-    <a href='https://www.google.com' target='_blank'>Official website</a></p>
+    <p class='main'>replaceThis.</p>
+    <p class='credits'><a href='' target='_blank'>replaceCredits</a></p>
+    <p class='links'>
+        <a href='aa' target='_blank'></a><br>
+        <a href='bb' target='_blank'></a><br>
+        <a href='cc' target='_blank'></a>
+    </p>
 </div>
 
 <div id='myCollection' class='hidden'>

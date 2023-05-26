@@ -1,0 +1,4 @@
+Elden Ring is a 2022 action role-playing game developed by FromSoftware. It was directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin. It was released for PlayStation 4, PlayStation 5, Microsoft Windows, Xbox One, and Xbox Series X/S on February 25 by FromSoftware in Japan and Bandai Namco Entertainment internationally. Players control a customizable player character who is on a quest to repair the Elden Ring and become the new Elden Lord.
+<CREDITS>Text dump by</>AsteriskAmpersand</>https://github.com/AsteriskAmpersand</CREDITS>
+<LINK>Official website</>https://en.bandainamcoent.eu/elden-ring/elden-ring</LINK>
+<LINK>Wikipedia</>https://en.wikipedia.org/wiki/Elden_Ring</LINK>
