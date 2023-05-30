@@ -33,12 +33,19 @@ jQuery.get('list.csv', function(data) {
         // Loop on the row column Array
         for (var col = 0; col < rowColData.length+1; col++) { //+1 for the last row "add"
 
-            if(col == rowColData.length-1){
+            if(col == rowColData.length-2){
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = '<a class="gameUrl" href="text_dumps/'+rowColData[col]+'" target="_blank"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="31.99" viewBox="0 0 23.97 31.99"><defs><style>.cls-1 {fill: #fff;}.cls-1, .cls-2 {stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><polygon class="cls-1" points="13.72 30.99 1 30.99 1 1 22.97 1 22.97 20.65 13.72 30.99"/><polyline class="cls-2" points="13.72 30.99 13.72 20.65 22.97 20.65"/></svg></a>';
-            } else if(col == rowColData.length){
+            } else if(col == rowColData.length-1){
                 var newCell = newRow.insertCell();
-                newCell.innerHTML = '<div onclick="addToCollect(this)"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="23.97" viewBox="0 0 23.97 23.97"><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class="cls-1" cx="11.99" cy="11.99" r="10.99"/><polyline class="cls-2" points="12 18.25 12 11.99 18.24 11.99"/><polyline class="cls-2" points="12 5.73 12 11.99 5.76 11.99"/></svg></div>';
+                $(newCell).addClass('addToCollect');
+                //newCell.innerHTML = '<div onclick="addToCollect(this)"><svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" width="23.97" height="23.97" viewBox="0 0 23.97 23.97"><defs><style>.cls-1 {fill: #fff;}.cls-1,.cls-2{stroke: #1d1d1b;stroke-miterlimit: 10;stroke-width: 2px;}.cls-2 {fill: none;}</style></defs><circle class="cls-1" cx="11.99" cy="11.99" r="10.99"/><polyline class="cls-2" points="12 18.25 12 11.99 18.24 11.99"/><polyline class="cls-2" points="12 5.73 12 11.99 5.76 11.99"/></svg></div>';
+                newCell.innerHTML = '<div onclick="addToCollect(this)">+</div>';
+            } else if(col == rowColData.length){
+                let mySelectionValues = rowColData[col-1].replaceAll(' ','-').split('/');
+                for (let j = 0; j < mySelectionValues.length; j++) {
+                    $(newRow).addClass('selection-'+mySelectionValues[j].toLowerCase());
+                }
             } else {
                 var newCell = newRow.insertCell();
                 newCell.innerHTML = rowColData[col];
@@ -137,6 +144,10 @@ function toggleAbout() {
     $('#about').toggleClass('hidden');
 }
 
+function openCollect() {
+    closeMoreOnThis();
+    $('#myCollection').removeClass('hidden');
+}
 
 //ADD AND REMOVE TO COLLECTION
 function addToCollect(e) {
@@ -144,6 +155,12 @@ function addToCollect(e) {
     if (!$('#about').hasClass('hidden')){
         $('#about').addClass('hidden');
     }
+
+    setTimeout(function() {
+        if ($('.open_collection').hasClass('invisible')){
+            $('.open_collection').removeClass('invisible');
+        }
+    }, 600);
 
     let gameName = $(e).closest('tr').find('td')[0].innerText;
     let gameConsole = $(e).closest('tr').find('td')[1].innerText;
@@ -271,6 +288,22 @@ function downloadCollection() {
 
     for (var i = 0; i < collectionTitles.length; i++) {
 
+        if(i==0){
+            const divCover = document.createElement("div");
+            const divCover_2 = document.createElement("div");
+            divCover.classList.add('cover');
+            divCover_2.classList.add('cover');
+            divCover.innerText = titleOfMyCollection.replaceAll('_',' ').replaceAll(', ','\n');
+            divCover_2.innerText = '\n\n\n';
+
+            $('<img class="logoPNG" src="logo.png">').appendTo(divToPrint);
+            /*$('<p class="additional_info">'+ciao+'<br>'+
+                '</p>').appendTo(divToPrint);*/
+
+            divToPrint.appendChild(divCover);
+            divToPrint.appendChild(divCover_2);
+        }
+
         const divTitle = document.createElement("div");
         const divUrl = document.createElement("div");
         divTitle.classList.add('title');
@@ -283,10 +316,12 @@ function downloadCollection() {
         let thisGameUrl = $('#tblcsvdata .'+thisGameId+' .gameUrl').attr('href');
         
         divTitle.innerText = thisGameTitle;
-        divUrl.innerText = thisGameUrl;
+        divUrl.innerText = thisGameUrl.replace('text_dumps','game_thesaurus');
 
         divToPrint.appendChild(divTitle);
         divToPrint.appendChild(divUrl);
+
+        
 
         /*$.ajax({
             type: "GET",
@@ -331,6 +366,19 @@ function downloadCollection() {
                         newWin.document.write('<html><title>'+titleOfMyCollection+'</title>'+
                             '<link rel="stylesheet" href="main.css" type="text/css" media="all">'+
                             '<body onload="window.print()"></body></html>');
+
+                        const divCover_3 = document.createElement("div");
+                        const divCover_4 = document.createElement("div");
+                        divCover_3.classList.add('backcover');
+                        divCover_4.classList.add('backcover');
+                        divCover_4.classList.add('colophon');
+                        divCover_3.innerText = '\n\n\n';
+                        divCover_4.innerText = 'game thesaurus\nwww.schlatterca.github.io/game_thesaurus\n\nISIA U, 2023\n'+
+                        'Elementi di Informatica per il Design\nProf. Thomas Castro\n\n'+
+                        'Studenti:\nRoberta Antinolfi\nCarlo Schlatter';
+                        divToPrint.appendChild(divCover_3);
+                        divToPrint.appendChild(divCover_4);
+
                         $(divToPrint.innerHTML).appendTo(newWin.document.body);
 
                         newWin.document.close();
@@ -384,7 +432,27 @@ function openMoreOnThis(el) {
 
     myRow = el.parentNode;
 
+    let actualGame = $('#moreOnThis .collection_title > span')[0].innerText.toLowerCase();
+    let clickedGame = $(myRow).find('td')[0].innerText.toLowerCase();
+
+    if ((!$('#moreOnThis').hasClass('hidden'))&&(actualGame == clickedGame)){
+        return
+    }
+    else if (!$('#moreOnThis').hasClass('hidden')){
+        $('#moreOnThis').addClass('hidden');
+        setTimeout(function() {
+            changeTextInOpenMore();
+            $('#moreOnThis').removeClass('hidden');
+        }, 600);
+    } else {
+        changeTextInOpenMore();
+        $('#moreOnThis').removeClass('hidden');
+    }
+}
+
+function changeTextInOpenMore() {
     $('#moreOnThis p.collection_title > span')[0].innerText = $(myRow).find('td')[0].innerText;
+    let thisGameSourceUrl = $(myRow).find('.gameUrl').attr('href');
     let thisGameUrl = $(myRow).find('.gameUrl').attr('href').replace('text_dumps','descriptions');
     
     (async() => {
@@ -406,7 +474,8 @@ function openMoreOnThis(el) {
                 let mainText_links = doc.split('<LINK>');
 
                 $('#moreOnThis p.main')[0].innerText = mainText;
-                $('#moreOnThis p.credits')[0].innerText = credits+" ";
+                $('#moreOnThis p.credits')[0].innerHTML = "<a href='"+thisGameSourceUrl+
+                    "' target='_blank'>Original file</a><br>"+credits+" ";
 
                 $("<a href='"+credits_link+"' target='_blank'>"+
                     credits_name+"</a>").appendTo($('#moreOnThis p.credits')[0]);
@@ -425,10 +494,6 @@ function openMoreOnThis(el) {
         }
 
     })();
-
-
-    $('#moreOnThis').removeClass('hidden');
-    
 }
 
 function closeMoreOnThis(el) {
@@ -472,6 +537,23 @@ function changeYear(el) {
     }
 }
 
+function changeGenre(el) {
+    var myValue = el.value.toLowerCase();
+    var allRows = $('.table_container tbody > tr');
+    if(myValue != "all"){
+        $(el).addClass('active');
+    } else {
+        $(el).removeClass('active');
+    }
+    for(let i=0; i<allRows.length; i++){
+        if(($(allRows[i]).find('td')[3].innerText.toLowerCase() == myValue)||(myValue == "all")){
+            $(allRows[i]).removeClass('invisible_genre');
+        } else {
+            $(allRows[i]).addClass('invisible_genre');
+        }
+    }
+}
+
 function changeLang(el) {
     var myValue = el.value.toLowerCase();
     var allRows = $('.table_container tbody > tr');
@@ -483,10 +565,8 @@ function changeLang(el) {
     for(let i=0; i<allRows.length; i++){
         if(($(allRows[i]).find('td')[4].innerText.toLowerCase() == myValue)||(myValue == "all")){
             $(allRows[i]).removeClass('invisible_lang');
-            console.log('yes', myValue, $(allRows[i]).find('td')[4].innerText.toLowerCase());
         } else {
             $(allRows[i]).addClass('invisible_lang');
-            console.log('no', myValue, $(allRows[i]).find('td')[4].innerText.toLowerCase());
         }
     }
 }
@@ -494,28 +574,27 @@ function changeLang(el) {
 function filterButtons() {
     var allRows = $('.table_container tbody > tr');
 
-    $('.filters > .genres > button').on( "click", function() {
-        let myValue = this.innerText.toLowerCase();
-        console.log(myValue);
+    $('.filters > .selection > button').on( "click", function() {
+        let myValue = 'selection-'+this.innerText.toLowerCase().replaceAll(' ','-');
 
         if($(this).hasClass('active')){
             $(this).removeClass('active');
 
             for(let i=0; i<allRows.length; i++){
-                $(allRows[i]).removeClass('invisible_genre');
+                $(allRows[i]).removeClass('invisible_selection');
             }
 
         } else {
-            $('.filters > .genres > button').each(function(){
+            $('.filters > .selection > button').each(function(){
                 $(this).removeClass('active');
             });
             $(this).addClass('active');
 
             for(let i=0; i<allRows.length; i++){
-                if($(allRows[i]).find('td')[3].innerText.toLowerCase() == myValue){
-                    $(allRows[i]).removeClass('invisible_genre');
+                if($(allRows[i]).hasClass(myValue)){
+                    $(allRows[i]).removeClass('invisible_selection');
                 } else {
-                    $(allRows[i]).addClass('invisible_genre');
+                    $(allRows[i]).addClass('invisible_selection');
                 }
             } 
         }

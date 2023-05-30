@@ -22,14 +22,14 @@
 
 <script language="javascript" type="text/javascript" src="script.js"></script>
 
-<body>
+<body class="list">
 
 <div class="back_home_button"><a href='.\'>HOME</a></div>
 
 <div id="about" class="hidden">
     <div class="columns">
         <div class="first_column">
-            The game thesaurus is part of a final project by students Roberta Antinolfi and Carlo Schlatter for the course “Elementi di Informatica per il Design” taught by Professor Thomas Castro at ISIA Urbino, Italy. It consists of an “encyclopedia” of video game texts and dialogues and it is browsable both as a website, as a retro video game, and as a printed version: each user can create a collection of his/her own favorite texts and print a brochure or a book to serve as a compendium of the project.
+            The game thesaurus is part of a final project by students <a href='https://www.instagram.com/robertaantinolfi/' target='_blank'>Roberta Antinolfi</a> and <a href='https://www.instagram.com/schlatter.ca/' target='_blank'>Carlo Schlatter</a> for the course “Elementi di Informatica per il Design” taught by Professor Thomas Castro at ISIA Urbino, Italy. It consists of an “encyclopedia” of video game texts and dialogues and it is browsable both as a website, as a retro video game, and as a printed version: each user can create a collection of his/her own favorite texts and print a brochure or a book to serve as a compendium of the project.
         </div>
         <div class="second_column">
             We believe that extrapolating the text from a video game can be a valuable opportunity to deal with the topic of games as literature — a medium which, of course, reflects a part of society as it is when the game is published. Video games, by their very nature, are meant to be watched and played, as well as read; isolating a text from its context is a way to investigate the difference between the unabridged transcript of a video game, a novel, and a film script. If you feel like your copyright was violated, please <a href='mailto:carloandrea.schlatter@studenti.isiaurbino.net; roberta.antinolfi@studenti.isiaurbino.net?subject=Copyright claim'>contact us</a>.
@@ -73,6 +73,18 @@
             <option value="2022">2022</option>
         </select>
     </div>
+    <div class="genre">
+        <select name="genre" id="genre_select" onchange="changeGenre(this)">
+            <option value="All">All genres</option>
+            <option value="action">action</option>
+            <option value="action RPG">action RPG</option>
+            <option value="J-RPG">J-RPG</option>
+            <option value="platform">platform</option>
+            <option value="RPG">RPG</option>
+            <option value="puzzle">puzzle</option>
+            <option value="shooter">shooter</option>
+        </select>
+    </div>
     <div class="lang">
         <select name="lang" id="lang_select" onchange="changeLang(this)">
             <option value="All">All languages</option>
@@ -86,21 +98,27 @@
             <option value="KOR">KOR</option>
         </select>
     </div>
-    <div class="genres">
-        <button>action</button>
-        <button>action RPG</button>
-        <button>J-RPG</button>
-        <button>platform</button>
-        <button>RPG</button>
-        <button>puzzle</button>
-        <button>shooter</button>
+    
+    <div class="selection">
+        <button>SUPER MARIO</button>
+        <button>ZELDA</button>
+        <button>POKÉMON</button>
+        <button>SOULSLIKE</button>
+        <button>3D ACTION</button>
+        <button>TIME TRAVEL</button>
+        <button>MAN VS MACHINE</button>
+        <button>OUTER SPACE</button>
+        <button>ADVENTURE</button>
     </div>
 </div>
 
 <div class="site_title">
     <!--a href='index.html' class="back_button"><p>back</p></a-->
     <p class="big_title"><!--a href='index.html'-->game thesaurus<!--/a--></p>
-    <p class="about_button" onclick="toggleAbout()">about</p>
+    <div class="about">
+        <p class="open_collection invisible" onclick="openCollect()">open collection</p>
+        <p class="about_button" onclick="toggleAbout()">about</p>
+    </div>
 </div>
 
 <div class="table_container">
@@ -112,7 +130,7 @@
                 <th onclick="sortTable(2)">Year</th>
                 <th onclick="sortTable(3)">Genre</th>
                 <th onclick="sortTable(4)">Language</th>
-                <th class='file' title="Get the file">File</th>
+                <!--th class='file' title="Get the file">File</th-->
                 <th class='add' title="Add to collection">Add</th>
             </tr>
         </thead>

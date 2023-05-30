@@ -1,38 +1,38 @@
-Name,Console,Year,Genre,Language,Link,Add to collection
-Chrono Trigger,SNES,1996,RPG,ENG,chrono-trigger.txt
-Dark Souls 3,PS4,2006,action RPG,ENG,dark-souls3.txt
-Dragon Quest,NES,1986,RPG,ENG,dragonquest.txt
-Elden Ring,PS1,2001,action,ENG,eldenring.txt
-Final Fantasy,NES,1987,J-RPG,ENG,finalfantasyNES.txt
-Mario & Luigi: Partners in Time,Nintendo DS,2005,action RPG,ENG,mario_luigi_partners_in_time.txt
-Metal Gear Solid,PS1,1998,action,ENG,metalgearsolidPSX.txt
-Metroid Prime,GameCube,2002,action,ENG,metroidprime.txt
-Paper Mario 64,N64,2001,platform,ENG,papermario64.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,CHN,legends_arceus_ch-simplified.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,ITA,legends_arceus_it.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,ENG,legends_arceus_en.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,KOR,legends_arceus_ko.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,FRA,legends_arceus_fr.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,DEU,legends_arceus_de.txt
-Pokémon Legends: Arceus,Switch,2022,action RPG,ESP,legends_arceus_es.txt
-Pokémon Red,Game Boy,1996,RPG,ENG,pokemon_red.txt
-Pokémon Rosso,Game Boy,1996,RPG,ITA,pokemon_rosso.txt
-Pokémon Aka,Game Boy,1996,RPG,JAP,pokemon_aka.txt
-Pokémon Rot,Game Boy,1996,RPG,DEU,pokemon_rot.txt
-Pokémon Rojo,Game Boy,1996,RPG,ESP,pokemon_rojo.txt
-Pokémon Rouge,Game Boy,1996,RPG,FRA,pokemon_rouge.txt
-Portal 2,PS3,2011,puzzle,ENG,portal_2.txt
-Star Fox,SNES,1993,shooter,ENG,starfox.txt
-Super Mario 64,N64,1996,platform,ENG,supermario_64.txt
-Super Mario Galaxy,Wii,2007,platform,ENG,supermario_galaxy.txt
-Super Mario Galaxy 2,Wii,2010,platform,ENG,supermario_galaxy_2.txt
-Super Mario RPG Seven Stars Saga,NES,1996,RPG,ENG,mariorpg_sevenstars.txt
-The Legend of Zelda,NES,1986,action RPG,ENG,zelda.txt
-The Legend of Zelda II: The adventure of Link,NES,1987,action RPG,ENG,zelda_theadventureoflink.txt
-The Legend of Zelda: Twilight Princess,Gamecube,2006,action RPG,ENG,zelda-twilight-princess.txt
-The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,ENG,zelda_oot_en.txt
-The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,FRA,zelda_oot_fr.txt
-The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,DEU,zelda_oot_de.txt
-The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,ENG,zelda_st_en.txt
-The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,FRA,zelda_st_fr.txt
-The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,ESP,zelda_st_sp.txt
+Name,Console,Year,Genre,Language,Link,Add to collection,Genres
+Chrono Trigger,SNES,1996,RPG,ENG,chrono-trigger.txt,time travel/adventure
+Dark Souls 3,PS4,2006,action RPG,ENG,dark-souls3.txt,adventure/soulslike/3D action
+Dragon Quest,NES,1986,RPG,ENG,dragonquest.txt,adventure
+Elden Ring,PS1,2001,action,ENG,eldenring.txt,adventure/soulslike/3D action
+Final Fantasy,NES,1987,J-RPG,ENG,finalfantasyNES.txt,adventure
+Mario & Luigi: Partners in Time,Nintendo DS,2005,action RPG,ENG,mario_luigi_partners_in_time.txt,super mario/time travel
+Metal Gear Solid,PS1,1998,action,ENG,metalgearsolidPSX.txt,adventure/3D action/man vs machine
+Metroid Prime,GameCube,2002,action,ENG,metroidprime.txt,adventure/3D action/outer space
+Paper Mario 64,N64,2001,platform,ENG,papermario64.txt,super mario
+Pokémon Legends: Arceus,Switch,2022,action RPG,CHN,legends_arceus_ch-simplified.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,ITA,legends_arceus_it.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,ENG,legends_arceus_en.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,KOR,legends_arceus_ko.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,FRA,legends_arceus_fr.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,DEU,legends_arceus_de.txt,pokémon/time travel/3D action
+Pokémon Legends: Arceus,Switch,2022,action RPG,ESP,legends_arceus_es.txt,pokémon/time travel/3D action
+Pokémon Red,Game Boy,1996,RPG,ENG,pokemon_red.txt,pokémon/adventure
+Pokémon Rosso,Game Boy,1996,RPG,ITA,pokemon_rosso.txt,pokémon/adventure
+Pokémon Aka,Game Boy,1996,RPG,JAP,pokemon_aka.txt,pokémon/adventure
+Pokémon Rot,Game Boy,1996,RPG,DEU,pokemon_rot.txt,pokémon/adventure
+Pokémon Rojo,Game Boy,1996,RPG,ESP,pokemon_rojo.txt,pokémon/adventure
+Pokémon Rouge,Game Boy,1996,RPG,FRA,pokemon_rouge.txt,pokémon/adventure
+Portal 2,PS3,2011,puzzle,ENG,portal_2.txt,man vs machine
+Star Fox,SNES,1993,shooter,ENG,starfox.txt,outer space/3D action
+Super Mario 64,N64,1996,platform,ENG,supermario_64.txt,super mario
+Super Mario Galaxy,Wii,2007,platform,ENG,supermario_galaxy.txt,super mario/outer space
+Super Mario Galaxy 2,Wii,2010,platform,ENG,supermario_galaxy_2.txt,super mario/outer space
+Super Mario RPG Seven Stars Saga,NES,1996,RPG,ENG,mariorpg_sevenstars.txt,super mario
+The Legend of Zelda,NES,1986,action RPG,ENG,zelda.txt,zelda/adventure
+The Legend of Zelda II: The adventure of Link,NES,1987,action RPG,ENG,zelda_theadventureoflink.txt,zelda/adventure
+The Legend of Zelda: Twilight Princess,Gamecube,2006,action RPG,ENG,zelda-twilight-princess.txt,zelda/adventure
+The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,ENG,zelda_oot_en.txt,zelda/adventure/time travel
+The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,FRA,zelda_oot_fr.txt,zelda/adventure/time travel
+The Legend of Zelda: Ocarina of Time,N64,1998,action RPG,DEU,zelda_oot_de.txt,zelda/adventure/time travel
+The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,ENG,zelda_st_en.txt,zelda/adventure
+The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,FRA,zelda_st_fr.txt,zelda/adventure
+The Legend of Zelda: Spirit Tracks,Nintendo DS,2009,action RPG,ESP,zelda_st_sp.txt,zelda/adventure

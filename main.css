@@ -17,32 +17,26 @@
   font-weight: bold;
   font-style: normal;
 }
-
-@media print {
-	* {
-		font-family: PPFraktionSans!important;
-		color: black!important;
-		font-size: 8px!important;
-		line-height: 120%!important;
-	}
-	.title {
-		font-weight: bold!important;
-		text-align: center!important;
-	}
-	.title:not(:first-child) {
-		margin-top: 2em!important;
-	}
-	.url {
-		font-weight: bold!important;
-		text-align: center!important;
-		margin-bottom: 2em!important;
-	}
+@font-face{
+  font-family: NeueBit;
+  src: url(fonts/PPNeueBit-Regular.woff);
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face{
+  font-family: NeueBit;
+  src: url(fonts/PPNeueBit-Bold.woff);
+  font-weight: bold;
+  font-style: normal;
+}
+
+
 
 :root {
 	--myGrey: grey;
 	--myBlack: rgb(20,20,20);
 	--myGreen: rgb(0,255,0);
+	--fontsizeS: 14px;
 	--fontsizeM: 16px;
 }
 
@@ -50,6 +44,10 @@ body {
 	background-color: var(--myBlack);
 	overflow: hidden;
 }
+
+body.list * {
+	font-size: var(--fontsizeS);
+} 
 
 * {
 	font-family: PPFraktionSans;
@@ -95,36 +93,63 @@ a:hover {
 	font-weight: bold;
 	line-height: 100%;
 }
+
+.site_title.mainHome_title {
+	font-size: 6vw;
+	font-family: NeueBit!important;
+	position: absolute;
+	top: 1px;
+	left: 50%;
+	transform: translate(-50%,0);
+	font-weight: bold;
+}
+
 .site_title > .big_title {
 	font-size: 6vw;
 	text-align: left;
-
 	margin-left: 29vw;
-	margin-bottom: 30px;
+	margin-bottom: 10px; /*30px;*/
+	margin-top: 10px;
+
+	font-family: NeueBit!important;
 }
 .site_title > .big_title > a {
 	text-decoration: none;
 }
-.site_title > .about_button,
+.site_title > .about {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: flex;
+	gap: 10px;
+}
+
+.site_title > .about > .about_button,
+.site_title > .about > .open_collection,
 .site_title > a.back_button {
 	/*font-size: 1vw;*/
 	text-transform: uppercase;
-	position: absolute;
-	top: 0vw;
 	cursor: pointer;
 	mix-blend-mode: difference;
 }
-.site_title > .about_button:hover,
-.site_title > a.back_button:hover p {
+.site_title > .about > .about_button:hover,
+.site_title > a.back_button:hover p,
+.site_title > .about > .open_collection:hover {
 	color: var(--myGreen)!important;
 }
-.site_title > .about_button:hover {
+.site_title > .about > .about_button:hover {
 	mix-blend-mode: normal;
 }
-.site_title > .about_button {
-	right: 0;
+.site_title > .about > .about_button {
 	z-index: 11;
 	font-weight: normal;
+}
+.site_title > .about > .open_collection {
+	z-index: 4;
+	font-weight: normal;
+}
+.site_title > .about > .open_collection.invisible {
+	display: none;
 }
 .site_title > .back_button {
 	left: 0;
@@ -202,8 +227,17 @@ a:hover {
 	border: 0;
 	/*border-bottom: 1px solid white;*/
 }
+#tblcsvdata td.addToCollect *{
+	line-height: 0;
+	transform-origin: left;
+	transform: translate(0,0%) scale(1.6);
+	font-weight: bold;
+}
 #tblcsvdata th:not(.add), #tblcsvdata td:not(:last-child) {
 	padding-right: 10px;
+}
+#tblcsvdata td:nth-last-child(2) {
+	display: none;
 }
 
 #tblcsvdata th {
@@ -223,7 +257,8 @@ a:hover {
 #tblcsvdata tr.invisible_console,
 #tblcsvdata tr.invisible_year,
 #tblcsvdata tr.invisible_lang,
-#tblcsvdata tr.invisible_genre {
+#tblcsvdata tr.invisible_genre,
+#tblcsvdata tr.invisible_selection {
 	display: none;
 }
 #tblcsvdata tbody tr:hover * {
@@ -253,6 +288,7 @@ a:hover {
 }
 .filters > .console,
 .filters > .year,
+.filters > .genre,
 .filters > .lang {
 	width: 100%;
 	border: 0;
@@ -264,6 +300,7 @@ a:hover {
 }
 .filters > .console > select#console_select,
 .filters > .year > select#year_select,
+.filters > .genre > select#genre_select,
 .filters > .lang > select#lang_select {
   background-image:
     linear-gradient(45deg, transparent 50%, white 50%),
@@ -278,6 +315,7 @@ a:hover {
 }
 .filters > .console > select#console_select.active,
 .filters > .year > select#year_select.active,
+.filters > .genre > select#genre_select.active,
 .filters > .lang > select#lang_select.active {
   background-image:
     linear-gradient(45deg, transparent 50%, black 50%),
@@ -300,18 +338,19 @@ a:hover {
 	margin-left: -1.6vw;
 	pointer-events: none;
 }*/
-.filters > .genres {
+.filters > .selection {
 	/*display: flex;
 	flex-direction: column;
 	width: 30%;*/
 }
-.filters > .genres > button,
+.filters > .selection > button,
 .filters > .console > select,
 .filters > .year > select,
+.filters > .genre > select,
 .filters > .lang > select {
 	color: white;
 	background-color: var(--myBlack);
-	border: 1px solid white;
+	border: 0px solid white;
 	font-weight: bold;
 	border-radius: 0;
 	cursor: pointer;
@@ -324,24 +363,27 @@ a:hover {
 }
 .filters > .console > select,
 .filters > .year > select,
+.filters > .genre > select,
 .filters > .lang > select {
 	width: 60%;
 }
 .filters > .console > select:hover,
 .filters > .year > select:hover,
+.filters > .genre > select:hover,
 .filters > .lang > select:hover,
-.filters > .genres > button:hover {
+.filters > .selection > button:hover {
 	background-color: var(--myGreen);
 	color: white;
 }
 .filters > .console > select.active,
 .filters > .year > select.active,
+.filters > .genre > select.active,
 .filters > .lang > select.active,
-.filters > .genres > button.active {
+.filters > .selection > button.active {
 	background-color: var(--myGreen);
 	color: black;
 }
-.filters > .genres > button.active:hover {
+.filters > .selection > button.active:hover {
 	color: white;
 }
 
@@ -419,7 +461,7 @@ a:hover {
 	position: absolute;
 	top: 0;
 	right: 0;
-	width: 48%;
+	width: 40%;
 	height: calc(100% - 20px);
 	transition: .6s transform;
 	padding: 10px;
@@ -467,9 +509,10 @@ a:hover {
 }
 #myCollection .collection_body {
 	width: calc(100% - 20px);
-	padding: 10px;
-	height: 10em;
+	/*height: 10em;
 	border: 2px solid white;
+	padding: 10px;*/
+	height: auto;
 	overflow: scroll;
 }
 #myCollection .collection_body .entry_group {
@@ -596,4 +639,85 @@ a:hover {
 #moreOnThis .collection_close:hover,
 #moreOnThis .download_button:hover {
 	color: var(--myGreen);
+}
+
+
+/*CONTAINER*/
+.corpus_container {
+	position: absolute;
+	top: 9vw;
+	width: 60vw;
+}
+.corpus_container * {
+	font-size: 1.6vw;
+}
+body.corpus {
+	overflow-y: scroll!important;
+}
+.corpus h2 {
+	font-weight: bold;
+	margin-top: 4em;
+}
+.corpus .padding {
+	padding-left: 50px;
+	color: grey;
+}
+
+
+
+
+
+/*QUERY MOBILE*/
+@media screen and (max-width: 800px) {
+	.prompt {
+		width: 70vw;
+	}
+}
+
+@media print {
+	* {
+		font-family: PPFraktionSans!important;
+		color: black!important;
+		font-size: 8px!important;
+		line-height: 120%!important;
+	}
+	.title {
+		font-weight: bold!important;
+		text-align: center!important;
+	}
+	.title:not(:first-child) {
+		margin-top: 2em!important;
+	}
+	.url {
+		font-weight: bold!important;
+		text-align: center!important;
+		margin-bottom: 2em!important;
+	}
+	.cover {
+		/*font-family: NeueBit!important;*/
+		color: black!important;
+		font-size: 32px!important;
+		page-break-after: always;
+		text-align: center;
+		transform: translate(0, 6cm);
+	}
+	.backcover {
+		page-break-before: always!important;
+	}
+	.colophon {
+	}
+	.logoPNG {
+		width: 80px;
+		position: absolute;
+		top: 10px;
+		left: 50%;
+		transform: translate(-50%,0);
+	}
+	.additional_info {
+		width: auto;
+		position: absolute;
+		bottom: 20px;
+		left: 50%;
+		transform: translate(-50%,0);
+	}
 }

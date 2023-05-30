@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>game thesaurus</title>
+<meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"-->
+<!--link rel="stylesheet" href="css/main.css"-->
+<style></style>
+<link rel="stylesheet" href="main.css" type="text/css" media="all">
+
+<!--<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#678fa6">
+<meta name="theme-color" content="#ffffff">-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!--script language="javascript" type="module" src="dist/jspdf.umd.min.js"></script-->
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script-->
+
+<script language="javascript" type="text/javascript" src="script.js"></script>
+
+<body class="corpus">
+
+<div class="back_home_button"><a href='.\'>HOME</a></div>
+
+<div id="about" class="hidden">
+    <div class="columns">
+        <div class="first_column">
+            The game thesaurus is part of a final project by students <a href='https://www.instagram.com/robertaantinolfi/' target='_blank'>Roberta Antinolfi</a> and <a href='https://www.instagram.com/schlatter.ca/' target='_blank'>Carlo Schlatter</a> for the course “Elementi di Informatica per il Design” taught by Professor Thomas Castro at ISIA Urbino, Italy. It consists of an “encyclopedia” of video game texts and dialogues and it is browsable both as a website, as a retro video game, and as a printed version: each user can create a collection of his/her own favorite texts and print a brochure or a book to serve as a compendium of the project.
+        </div>
+        <div class="second_column">
+            We believe that extrapolating the text from a video game can be a valuable opportunity to deal with the topic of games as literature — a medium which, of course, reflects a part of society as it is when the game is published. Video games, by their very nature, are meant to be watched and played, as well as read; isolating a text from its context is a way to investigate the difference between the unabridged transcript of a video game, a novel, and a film script. If you feel like your copyright was violated, please <a href='mailto:carloandrea.schlatter@studenti.isiaurbino.net; roberta.antinolfi@studenti.isiaurbino.net?subject=Copyright claim'>contact us</a>.
+        </div>
+    </div>
+</div>
+
+<div class="site_title">
+    <div class="site_title mainHome_title">game thesaurus</div>
+    <div class="about">
+        <p class="about_button" onclick="toggleAbout()">about</p>
+    </div>
+</div>
+
+<div class="corpus_container">
+    <h2>Introduction</h2>
+    <p>The abstract presented below is part of a paper written by <a href='mailto:stephanie.rennick@glasgow.ac.uk'>Stephanie Rennick</a>, University of Glasgow, and <a href='mailto:RobertsS55@cardiff.ac.uk'>Seán G. Roberts</a>, Cardiff University. The paper examines the texts of several video games released over a period of about four decades to investigate the role of language in one of the most popular new media and how it has been shaped by society, in turn shaping the thought and language of millions of video gamers of all ages, genders and social backgrounds. Some sections of the paper are quoted in full below because we believe that a topic of paramount importance is covered in them, which again imposed a direction on our project of a “game thesaurus”; the paper is available in full <a href='https://eprints.gla.ac.uk/291596/' target='_blank'>here</a>.<br>
+    We hope that, through the dissemination of studies such as these, we can spread the awareness that we as a society must hold towards a medium — the video game — that is increasing its potential every day, as we seek to demonstrate with our Thesaurus and our Video Game Museum.<br>
+    Roberta and Carlo<br><br>
+    <h2>The Video Games Dialogue Corpus</h2>
+    <p>This paper presents the Video Games Dialogue Corpus, the first large-scale, consistently coded, open source corpus of dialogue from video games. It contains over 6.2 million words of dialogue from 50 video games in the Role Playing Game (RPG) genre. This includes: games produced between 1985 and 2020; rated for children, teenagers, and adults; and in both “Western” and “Japanese” subgenres. The corpus design is described, including custom data formats for representing branching dialogue. We demonstrate the use of the corpus by comparing the dialogue of female and male characters, where we find reflections of gendered language in other media as well as patterns that seem specific to video games. We provide the source code for a “self-inflating corpus”: a pipeline that obtains the data then processes and parses it into a standard format. This makes the corpus available for teaching and research purposes, providing the first such resource for empirical analysis of video game dialogue.</p>
+    <p>Van Stegeren & Theune (2020:2) suggest a video games corpus should be representative (contain “popular or well-known (commercial) games that have a substantial user base”), and diverse (games should represent the diversity within the genre). 50 games were selected for the corpus (see table 1). All games were Role Playing Games (RPGs) in which dialogue was a central mechanic. They all have high sales figures: all games either individually sold, or belong to series that sold, at least 1 million copies worldwide. Every game or series frequently features in lists of the top RPGs of all time. For example, IGN's top 100 RPGs of all time and Game Informer's top 100 RPGs of all time contain all the games in the corpus or at least one game from each series. The King's Quest and Monkey Island games sold relatively poorly on release (compared to modern games), however, both of these series are frequently discussed as being highly influential on the medium (e.g. here, here, here, here). These series are sometimes categorised as "adventure games" or "point-and-click" games, although they exhibit various features typical of RPGs, including player choices and dialogue trees (and thus they are also commonly described as ‘adventure RPGs’). The final requirement was that the games needed to have an accessible source of dialogue available.</p>
+    <p>We wanted to provide researchers with the ability to conduct comparisons between major styles of RPG as well as diachronic analyses. Therefore, we aimed to collect a balance of games according to three factors. The first was RPG style, including Western RPGs and Japanese-style RPGs, since those are the dominant types. Secondly, the target audience age. For the latter we used three categories based on the official ESRB ratings: "Child" (ESRB ratings "Everyone", "Everyone 10+"), "Teen" (ESRB rating "Teen"), and "Adult" (ESRB ratings "Mature 17+" and "Adults Only 18+"). Table 2 shows the distribution of game series with the number of games in brackets. Finally, we also aimed for a balance of games across time between 1985 and 2020 (table 3).</p>
+    <p>Given the difficulties of balancing the three criteria above, and the constraint on being able to find dialogue sources, the corpus is relatively well balanced at the game level. However, the corpus is not balanced in terms of number of words per game. There is a difference of two orders of magnitude between the game with most dialogue and the game with least dialogue. This is mainly an effect of the change in technology, storage capacity, and development budget for video games over the last three decades. The distribution of words by RPG type is skewed towards Western RPGs (63%) compared to JRPGs (37%), and the distribution of ratings is skewed towards adult titles (8% Child, 33% Teen, 59% Adult). The distribution is also biased towards games released between 2005-2014 (see table 2), mainly due to early games being limited by memory constraints. Despite these imbalances, we suggest that the corpus is still representative of an average gaming experience. In any case, deciding how to sub-sample each game to create a balanced corpus would depend on the particular research question and type of balance aimed for (balancing characters, character groups, certain stages of the game, or depth of dialogue tree). The corpus includes as much available dialogue for each game as possible and future studies can make their own decisions about what to sample.</p>
+    <p>van Stegeren & Theune (2020:2) suggest two key properties for the data format of a corpus of video game data: richness (datasets should contain both game text and information about their in-game context), and portability (the data should be open-source format). The ideal format for data would need to capture various features:<br>
+        • Lines of dialogue, paired with the name of the character that is speaking them.<br>
+        • Distinguishing dialogue that every player will experience compared to optional dialogue.<br>
+        • Capturing the structure of the dialogue ‘tree’ when there are multiple alternative sequences of dialogue.<br>
+        • Linking dialogue with other contextual information.<br>
+        • All games represented with a common format.<br>
+    The corpus should also be both machine-readable (in order to facilitate analysis with computational methods), and readable by humans (in order to facilitate qualitative analysis). Previous corpora have used a variety of formats. Heritage (2021) uses raw text files. This is human- and machine-readable, but does not link dialogue to which character is speaking. Heritage also uses a hand-annotated format for documenting narrative permutations, but this is not strictly machine-readable. van Stegeren & Theune (2020) use a simple tabular format which lists the character, the dialogue, an ID number, and the ID numbers of lines of dialogue that can follow this. This links dialogue to characters, represents recursive (and graph-like) structures, and is machine readable. However, it is not easy for humans to follow the structure.</p>
+    <p>The canonical form of the data in the current corpus is a JSON format. This is a plain text format that can be read with an ordinary text editor or any open-source JSON tool. This format was chosen for several reasons: it can capture pairings of data and recursive structures; is portable and open-source; it is machine-readable (e.g. it is compatible with python dictionaries); and it looks like a screenplay script to human readers. A YAML format might look more readable, since it doesn’t include parentheses, but levels of embedding quickly become difficult to distinguish. In any case, JSON can be converted to many other formats.</p>
+    <p>The script for a game is a list of dictionaries. Each dictionary has a main key which represents the name of the character who is speaking. The value associated with this key is the dialogue they speak. Below is an example of three lines of dialogue from Final Fantasy VII between the characters Barret and Cloud:</p>
+    <p class='padding'>[<br>
+    {"Barret": "The planet's full of Mako energy. People here use it<br>
+    every day."},<br>
+    {"ACTION": "Cloud shrugs."},<br>
+    {"Barret": "It's the life blood of this planet."},<br>
+    {"Cloud": "I'm not here for a lecture. Let's just hurry."}<br>
+    ]<br></p>
+    <p>According to the JSON format, square brackets enclose a list of items separated by commas, and curly brackets enclose a set of key:value pairs. There are a number of reserved main keys that indicate particular kinds of information. This helps separate dialogue from non-dialogue. These include:<br>
+        • ACTION: the value is a description of the action (see the example above).<br>
+        • LOCATION: the value is a description of the location.<br>
+        • SYSTEM: the value is a transcription of non-diegetic text that appears to the player, but is not spoken by in-game characters. This includes menu text and tutorial text.
+        • CHOICE: a branching choice (see below).<br>
+        • GOTO: The script continues at another location (see below).<br>
+        • STATUS: A description of some contextual status, used to interpret branching choices (see below).<br></p>
+    <p>The dictionary can optionally include other keys, as long as they begin with an underscore, which might convey contextual information. In the example below from Oblivion, the extra data includes the race of the character, the emotion information assigned to the face animator, and the quest ID that this dialogue appears within.</p>
+    <p class='padding'>{"Velwyn Benirus": "I got the door open. The rest is up to you.",<br>
+        "_Race": "Imperial",<br>
+        "_Emotion": "Fear 90",<br>
+        "_Quest": "0000BCD7"}<br></p>
+    <p>Similar structures are included in the data for Chrono Trigger to include a parallel corpus of lines in the original Japanese and a more recent fan “retranslation”. This allows research into translation (e.g. Müller Galhardi, 2014).</p>
+    <p>Branching dialogue is handled using a recursive structure. The main key is labelled “CHOICE” and its value is a list of possible outcomes. Each outcome is a list of dialogue dictionaries, like the normal format. Any of the dialogue dictionaries can itself be a choice structure, allowing recursive branching.</p>
+    <h2>Demonstration</h2>
+    <p>To illustrate the use of the corpus, we conducted a study comparing the dialogue of female and male characters. The gender of characters was coded (see Rennick et al., under review). Balanced subcorpora were created for male and female dialogue by selecting 1000 random lines from 25 games were there was enough data. This created subcorpora of 392,138 words of male dialogue and 369,753 words of female dialogue. A keyness analysis using log likelihood was applied, using the female dialogue as the target corpus and male dialogue as the reference corpus. A significance threshold of 0.01 was applied to identify 459 most significant keywords. To aid analysis, these words were classified into categories using the UCREL system (Rayson et al., 2004), using the <a href='http://ucrel- api.lancaster.ac.uk/usas/tagger.html' target='_blank'>online semantic tagger</a> and manual coding for words that could not be matched. All methods and code for analysis are detailed in the supporting materials.</p>
+    <p>The top key categories used more by female speakers than male speakers included personal names, pronouns, and kin. While, in general, female characters mention names about 50% more than males (Log Likelihood = 145.38 , p < 0.001), some individual names were used more by male characters than female, and some were used more by female characters than by male characters. We coded the referents for gender, and found that male referents are mentioned more than female (female referents = 38%, male referents = 62%, binomial test p = 0.04), which may reflect the greater number of male characters in the general corpus. Male and female speakers mention female referents at about the same rate, but female speakers are about twice as likely to mention a male referent than male speakers (Fisher’s exact test p < 0.001).</p>
+    <p>For pronouns, males used archaic forms (“thy”, “thee”, “thou”) more often than females, probably reflecting gendered ideas of chivalry. Most other pronouns were spoken more by females than males, reflecting patterns in real conversations (estimated from the BNC Spoken corpus, Love et al., 2017, see SI). The exception is “our”, which is used more by male characters than female characters in games, while in real conversation the opposite is true (see SI). We note that collocations of “our” in male dialogue included more physical entities (“home”, “homeland”, “nation”, “defences”) than the top collocations for female characters (“prayers”, “friendship”), perhaps reflecting gendered role stereotypes.</p>
+    <p>Female characters used kin terms more than male characters (Log Likelihood = 91.81, p < 0.001), reflecting patterns in real conversation (see SI). The exception is “son”, which is used more by male characters than female characters in games, while in real conversation the opposite is true. This may be explained by several factors. Firstly, "son" appears in the swearing phrase "son of a bitch", which is used more by male characters than female characters (see SI). Secondly, "son" is used as an affectionate fictive kin term, often by an older man to refer to a younger man, while “daughter” is not necessarily used in the same way. In the Mass Effect series, when a male player character is called “son”, the alternative lines for a female player character use non-kin terms like "miss" or non-gendered terms like "child". Finally, many game worlds exhibit patriarchal systems and thus there are several quests involving sons and inheritance of positions of power. In line with this, the frequency of "his son" (patrilineal) is higher than "her son" (see SI).</p>
+    <p>Each of these examples demonstrate a difference in the way that female and male characters are portrayed. While some may reflect empirical differences in the real world, a large body of literature has demonstrated persistent sexist biases in video games and in video game culture (e.g. Stermer & Burkley, 2015; Ruvalcaba et al., 2018; Mortensen, 2018; see SooHoo, 2022). Studies that empirically demonstrate differences in the depiction of genders are critical to understanding how these attitudes persist.</p>
+</div>
+
+<div class='preview_image'>
+	<figure>
+		<img class='hidden' src='images/elden-ring.jpg'>
+	</figure>
+</div>
+</body>
